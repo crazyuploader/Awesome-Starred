@@ -610,6 +610,7 @@
 
 ## Kotlin 
 
+- [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
 - [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
@@ -784,6 +785,7 @@
 
 ## Python 
 
+- [seligman/cloud_sizes](https://github.com/seligman/cloud_sizes) - Track the sizes of different cloud providers
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [0xc0da/cymru-asnmap](https://github.com/0xc0da/cymru-asnmap) - Bulk IP to ASN submission to the Team Cymru Whois server. More info: http://www.team-cymru.org/IP-ASN-mapping.html
