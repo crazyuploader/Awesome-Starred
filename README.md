@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -210,6 +211,8 @@
 
 ## Go 
 
+- [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
@@ -466,6 +469,7 @@
 
 ## JavaScript 
 
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
 - [faahim/happy-birthday](https://github.com/faahim/happy-birthday) - Wish your friend/loved-ones happy birthday in a nerdy way.
@@ -965,6 +969,8 @@
 
 ## Rust 
 
+- [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
