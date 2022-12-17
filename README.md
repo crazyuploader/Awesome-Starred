@@ -41,6 +41,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -211,6 +212,8 @@
 
 ## Go 
 
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
+- [gofiber/swagger](https://github.com/gofiber/swagger) - 🧬 fiber middleware to automatically generate RESTful API documentation with Swagger
 - [influxdata/kapacitor](https://github.com/influxdata/kapacitor) - Open source framework for processing, monitoring, and alerting on time series data
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -469,6 +472,7 @@
 
 ## JavaScript 
 
+- [amalshaji/ipwhere](https://github.com/amalshaji/ipwhere) - Locate IP addresses on the map
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
@@ -671,6 +675,7 @@
 
 ## Others 
 
+- [nodejs/help](https://github.com/nodejs/help) - :sparkles: Need help with Node.js? File an Issue here. :rocket:
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
@@ -1099,6 +1104,10 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
+## Svelte 
+
+- [amalshaji/vibe](https://github.com/amalshaji/vibe) - Having a bad day? Good boy doggo to the rescue. Vibe for 30 seconds!!
+
 ## Swift 
 
 - [hmarr/vitals](https://github.com/hmarr/vitals) - 📊 A tiny macOS process monitor
@@ -1110,6 +1119,7 @@
 
 ## TypeScript 
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [scastiel/github-business-card](https://github.com/scastiel/github-business-card) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
