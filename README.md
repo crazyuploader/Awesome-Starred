@@ -62,6 +62,7 @@
 
 ## C 
 
+- [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
@@ -400,6 +401,7 @@
 
 ## HTML 
 
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
@@ -438,6 +440,7 @@
 
 ## Java 
 
+- [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
 - [eidottermihi/rpicheck](https://github.com/eidottermihi/rpicheck) - RasPi Check - an Android app for checking your Raspberry Pi status.
 - [francescotescari/XiaoMiToolV2](https://github.com/francescotescari/XiaoMiToolV2) - XiaomiTool V2 - Modding tool for xiaomi devices
 - [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) - SThis repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter
@@ -472,6 +475,7 @@
 
 ## JavaScript 
 
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [amalshaji/ipwhere](https://github.com/amalshaji/ipwhere) - Locate IP addresses on the map
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -793,10 +797,12 @@
 
 ## Pug 
 
+- [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [acro5piano/resume](https://github.com/acro5piano/resume) - Resume of Kay Gosho. Built with Webpack + Pug + PostCSS
 
 ## Python 
 
+- [thombashi/pingparsing](https://github.com/thombashi/pingparsing) - pingparsing is a CLI-tool/Python-library parser and transmitter for ping command :arrow_right_hook:
 - [seligman/cloud_sizes](https://github.com/seligman/cloud_sizes) - Track the sizes of different cloud providers
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
@@ -1015,6 +1021,7 @@
 
 ## SCSS 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
 - [compose-spec/compose-spec](https://github.com/compose-spec/compose-spec) - The Compose specification
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
