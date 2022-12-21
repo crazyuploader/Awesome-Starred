@@ -157,6 +157,7 @@
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
+- [scikit-learn](#scikit-learn)
 - [sdn](#sdn)
 - [security](#security)
 - [server](#server)
@@ -733,6 +734,7 @@
 
 ## deep-learning 
 
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
 - [Arshad221b/Sign-Language-Recognition](https://github.com/Arshad221b/Sign-Language-Recognition) - Indian Sign language Recognition using OpenCV
@@ -1226,6 +1228,7 @@
 
 ## hacktoberfest 
 
+- [WalshyDev/personal-site](https://github.com/WalshyDev/personal-site) - 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -1644,6 +1647,7 @@
 
 ## learning 
 
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
 - [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud) - Learn the fundamentals of cloud computing
@@ -1733,6 +1737,7 @@
 
 ## machine-learning 
 
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
@@ -1970,6 +1975,7 @@
 
 ## others 
 
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [thombashi/pingparsing](https://github.com/thombashi/pingparsing) - pingparsing is a CLI-tool/Python-library parser and transmitter for ping command :arrow_right_hook:
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [amalshaji/vibe](https://github.com/amalshaji/vibe) - Having a bad day? Good boy doggo to the rescue. Vibe for 30 seconds!!
@@ -2367,6 +2373,8 @@
 
 ## python 
 
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -2464,6 +2472,7 @@
 
 ## python3 
 
+- [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [amalthomas-exe/Dynamic-Wallpapers-Linux](https://github.com/amalthomas-exe/Dynamic-Wallpapers-Linux) - An intuitive GUI for setting dynamic wallpapers in Linux
@@ -2639,6 +2648,10 @@
 - [rammcodes/Dopefolio](https://github.com/rammcodes/Dopefolio) - Dopefolio 🔥 - Portfolio Template for Developers 🚀
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+## scikit-learn 
+
+- [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 
 ## sdn 
 
