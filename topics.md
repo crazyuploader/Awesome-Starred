@@ -723,6 +723,7 @@
 
 ## database 
 
+- [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
@@ -1230,7 +1231,7 @@
 
 - [WalshyDev/personal-site](https://github.com/WalshyDev/personal-site) - 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Signing containers (and other artifacts) using Sigstore
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
@@ -1975,6 +1976,7 @@
 
 ## others 
 
+- [gentoo-btw/ramfetch](https://github.com/gentoo-btw/ramfetch) - A fetch which displays memory info using /proc/meminfo
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [thombashi/pingparsing](https://github.com/thombashi/pingparsing) - pingparsing is a CLI-tool/Python-library parser and transmitter for ping command :arrow_right_hook:
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -2698,7 +2700,7 @@
 - [ydamni/cloud-is-free](https://github.com/ydamni/cloud-is-free) - Learn how to setup Cloud projects... for free!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro services gateway
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
