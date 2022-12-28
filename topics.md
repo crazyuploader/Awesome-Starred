@@ -227,6 +227,7 @@
 ## android 
 
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+- [gentoo-btw/ramfetch](https://github.com/gentoo-btw/ramfetch) - A fetch which displays memory info using /proc/meminfo
 - [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 - [eidottermihi/rpicheck](https://github.com/eidottermihi/rpicheck) - RasPi Check - an Android app for checking your Raspberry Pi status.
@@ -1994,10 +1995,11 @@
 
 ## others 
 
+- [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online
+- [pcarrier/ident.me](https://github.com/pcarrier/ident.me) - free public IP address APIs
 - [long2ice/fastapi-cache](https://github.com/long2ice/fastapi-cache) - fastapi-cache is a tool to cache fastapi response and function result, with backends support redis and memcached.
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [WanghongLin/miscellaneous](https://github.com/WanghongLin/miscellaneous) - miscellaneous stuff will put here, configurations, code templates, tools, etc.
-- [gentoo-btw/ramfetch](https://github.com/gentoo-btw/ramfetch) - A fetch which displays memory info using /proc/meminfo
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [thombashi/pingparsing](https://github.com/thombashi/pingparsing) - pingparsing is a CLI-tool/Python-library parser and transmitter for ping command :arrow_right_hook:
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
@@ -2396,6 +2398,7 @@
 
 ## python 
 
+- [saghul/aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [v1k45/python-qBittorrent](https://github.com/v1k45/python-qBittorrent) - Python wrapper for qBittorrent Web API (for versions above v3.1.x)
 - [trekhleb/learn-python](https://github.com/trekhleb/learn-python) - 📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.
