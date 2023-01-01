@@ -217,6 +217,8 @@
 
 ## Go 
 
+- [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
+- [cortezaproject/corteza](https://github.com/cortezaproject/corteza) - Low-code platform
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online
 - [pcarrier/ident.me](https://github.com/pcarrier/ident.me) - free public IP address APIs
@@ -484,6 +486,11 @@
 
 ## JavaScript 
 
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [elkarbackup/elkarbackup](https://github.com/elkarbackup/elkarbackup) - Open source backup solution for your network
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [WalshyDev/personal-site](https://github.com/WalshyDev/personal-site) - 
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [amalshaji/ipwhere](https://github.com/amalshaji/ipwhere) - Locate IP addresses on the map
@@ -496,7 +503,7 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
-- [cheems/goindex-extended](https://github.com/cheems/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
+- [menukaonline/goindex-extended](https://github.com/menukaonline/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -786,6 +793,8 @@
 
 ## PHP 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+- [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. Build using Laravel and the Speedtest CLI.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
@@ -820,6 +829,7 @@
 
 ## Python 
 
+- [etesync/server](https://github.com/etesync/server) - The Etebase server (so you can run your own)
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest self-hosted free open source website change detection, monitor and notification service. Restock Monitor, change detection. Designed for simplicity - the main goal is to simply m
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [saghul/aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
@@ -912,7 +922,7 @@
 - [hadiasghari/pyasn](https://github.com/hadiasghari/pyasn) - Python IP address to Autonomous System Number lookup module. (Supports fast local lookups, and historical lookups using archived BGP dumps.)
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for browser automation and testing.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠 💡
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -1060,6 +1070,8 @@
 
 ## Shell 
 
+- [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
+- [bitnami/containers](https://github.com/bitnami/containers) - Bitnami container images
 - [gentoo-btw/ramfetch](https://github.com/gentoo-btw/ramfetch) - A fetch which displays memory info using /proc/meminfo
 - [azlux/log2ram](https://github.com/azlux/log2ram) - ramlog like for systemd (Put log into a ram folder)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -1158,6 +1170,7 @@
 
 ## TypeScript 
 
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
