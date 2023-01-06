@@ -554,7 +554,7 @@
 - [arnav-kr/json-formatter](https://github.com/arnav-kr/json-formatter) - A Chrome Extension to format JSON in the browser automatically. Available with both Dark and Light mode, with Auto-Linker and Syntax Highlighting.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 ## chrome-extension 
@@ -691,7 +691,7 @@
 ## csharp 
 
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## css 
 
@@ -924,7 +924,7 @@
 
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## electron 
 
@@ -988,7 +988,7 @@
 
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 ## flask 
@@ -1254,7 +1254,7 @@
 
 ## good-first-issue 
 
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 ## google-cloud 
 
@@ -1360,7 +1360,6 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -2083,6 +2082,7 @@
 
 ## others 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro) - 
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - A social networking technology created by Bluesky
@@ -2553,7 +2553,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a Python framework that enables developers to create reliable browser tests for the web.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python browser automation framework for creating reliable end-to-end tests.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
@@ -3133,7 +3133,7 @@
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
