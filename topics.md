@@ -253,7 +253,7 @@
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
+- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed.
 - [mmazzarolo/react-native-universal-monorepo](https://github.com/mmazzarolo/react-native-universal-monorepo) - React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.
@@ -1543,7 +1543,7 @@
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 - [eidottermihi/rpicheck](https://github.com/eidottermihi/rpicheck) - RasPi Check - an Android app for checking your Raspberry Pi status.
 - [anujd64/Thunder](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive in an Awesome way !!
-- [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify) - An android application where you can manage and install all versions of the spotify app.
+- [xManager-App/xManager](https://github.com/xManager-App/xManager) - Ad-Free, New Features & Freedom
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [Ramotion/circle-menu-android](https://github.com/Ramotion/circle-menu-android) - :octocat: ⭕️ CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Android UI library made by @Ramotion
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
