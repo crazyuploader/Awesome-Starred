@@ -70,6 +70,7 @@
 
 ## C 
 
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android GKI
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -137,6 +138,7 @@
 
 ## C++ 
 
+- [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -464,6 +466,7 @@
 
 ## Java 
 
+- [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [Fox2Code/FoxMagiskModuleManager](https://github.com/Fox2Code/FoxMagiskModuleManager) - A module manager for Magisk because the official app dropped support for it
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -726,6 +729,7 @@
 
 ## Others 
 
+- [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [nodejs/help](https://github.com/nodejs/help) - :sparkles: Need help with Node.js? File an Issue here. :rocket:
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
@@ -1221,7 +1225,7 @@
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
