@@ -175,6 +175,7 @@
 
 ## CSS 
 
+- [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
 - [baalajimaestro/littlelink](https://github.com/baalajimaestro/littlelink) - 
 - [caddyserver/website](https://github.com/caddyserver/website) - The Caddy website
 - [markserv/markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit
@@ -232,6 +233,7 @@
 
 ## Go 
 
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
@@ -354,7 +356,7 @@
 - [apilayer/freegeoip](https://github.com/apilayer/freegeoip) - IP geolocation web server
 - [go-ping/ping](https://github.com/go-ping/ping) - ICMP Ping library for Go
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
