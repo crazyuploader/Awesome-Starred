@@ -72,7 +72,7 @@
 
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
-- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android GKI
+- [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
 - [jpmens/jo](https://github.com/jpmens/jo) - JSON output from a shell
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
