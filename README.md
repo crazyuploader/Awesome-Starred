@@ -613,7 +613,7 @@
 - [JoseRFelix/page-transition-tutorial](https://github.com/JoseRFelix/page-transition-tutorial) - Simple examples of how to use Framer Motion for page transitions.
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [wesbos/Syntax](https://github.com/wesbos/Syntax) - A website for the Syntax Podcast
 - [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
