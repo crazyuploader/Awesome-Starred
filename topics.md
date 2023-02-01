@@ -385,6 +385,7 @@
 
 ## awesome 
 
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Web-application firewalls (WAFs) from security standpoint.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -429,6 +430,7 @@
 
 ## awesome-list 
 
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Web-application firewalls (WAFs) from security standpoint.
 - [plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) - Awesome RSS feeds - A curated list of RSS feeds (and OPML files) used in Recommended Feeds and local news sections of Plenary - an RSS reader, article downloader and a podcast player app for android
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
@@ -1044,6 +1046,7 @@
 
 ## frontend 
 
+- [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
@@ -1959,6 +1962,7 @@
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
@@ -2112,6 +2116,7 @@
 
 ## others 
 
+- [gracco/sysadmin-interview-questions](https://github.com/gracco/sysadmin-interview-questions) - 
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
 - [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
@@ -3188,7 +3193,7 @@
 - [ruzickap/packer-templates](https://github.com/ruzickap/packer-templates) - Scripts and Templates used for generating Vagrant images
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [subhra74/xdm](https://github.com/subhra74/xdm) - Powerfull download accelerator and video downloader
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Blocking ads and updates for the desktop version of Spotify, disabling podcasts and more.
+- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
