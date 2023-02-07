@@ -1066,6 +1066,7 @@
 
 ## git 
 
+- [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -2123,8 +2124,8 @@
 
 ## others 
 
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [royhills/arp-scan](https://github.com/royhills/arp-scan) - The ARP Scanner
-- [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - 
 - [gracco/sysadmin-interview-questions](https://github.com/gracco/sysadmin-interview-questions) - 
 - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme!
 - [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better!
