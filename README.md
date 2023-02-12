@@ -1061,7 +1061,7 @@
 - [maxtacu/telegram-covid19](https://github.com/maxtacu/telegram-covid19) - Telegram Bot that shows global COVID-19 stats and graph
 - [gita/BhagavadGita](https://github.com/gita/BhagavadGita) - A non-profit initiative to help spread the transcendental wisdom from the Bhagavad Gita to people around the world.
 - [Oshan96/monkey-dl](https://github.com/Oshan96/monkey-dl) - Bulk download your favourite anime episodes from your favourite anime websites
-- [aiogram/aiogram](https://github.com/aiogram/aiogram) - Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
+- [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
 - [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading)
 - [wloot/tc-build](https://github.com/wloot/tc-build) - 
