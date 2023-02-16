@@ -1278,7 +1278,7 @@
 - [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [m3o/m3o](https://github.com/m3o/m3o) - Universal Micro services gateway
+- [m3o/m3o](https://github.com/m3o/m3o) - Serverless Micro services gateway
 - [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
