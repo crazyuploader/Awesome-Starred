@@ -849,7 +849,7 @@
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [splitbrain/dokuwiki](https://github.com/splitbrain/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
-- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service. Build using Laravel and the Speedtest CLI.
+- [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted internet performance tracking application that runs speedtest checks against Ookla's Speedtest service.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
