@@ -715,7 +715,7 @@
 ## css 
 
 - [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [WardPearce/py-styles](https://github.com/WardPearce/py-styles) - Raw CSS to make your site look like python code.
@@ -1358,7 +1358,7 @@
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [HDInnovations/UNIT3D-Community-Edition](https://github.com/HDInnovations/UNIT3D-Community-Edition) - 🚀 A Next Generation Private Torrent Tracker (Community Edition)
 - [labbots/google-drive-upload](https://github.com/labbots/google-drive-upload) - Bash scripts to upload files to google drive
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
@@ -1494,7 +1494,7 @@
 
 - [StartBootstrap/startbootstrap-freelancer](https://github.com/StartBootstrap/startbootstrap-freelancer) - A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -1606,7 +1606,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
@@ -2053,7 +2053,7 @@
 - [nodejs/help](https://github.com/nodejs/help) - :sparkles: Need help with Node.js? File an Issue here. :rocket:
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -2739,7 +2739,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [react-icons/react-icons](https://github.com/react-icons/react-icons) - svg react icons of popular icon packs
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
@@ -2789,7 +2789,7 @@
 ## reactjs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra) - ⭐️ Horizon UI JavaScript | The most trendiest & innovative Open Source Admin Template for Chakra UI & React!
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
@@ -3025,7 +3025,6 @@
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
-- [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download torrents, mega, google drive, telegram file and direct links + all yt-dlp supported sites, then upload them to google drive or telegram cloud. This
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
@@ -3108,7 +3107,7 @@
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
-- [novuhq/novu](https://github.com/novuhq/novu) - Multi-channel Notification Infrastructure 🚀🚀🚀🧑‍💻 🧑‍💻 🧑‍💻
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
