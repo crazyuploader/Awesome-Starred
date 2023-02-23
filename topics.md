@@ -2131,6 +2131,7 @@
 
 ## others 
 
+- [XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator) - Xiaomi Flashable Firmware Creator
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at ~200 Internet Exchange Points (IXPs) globally.
