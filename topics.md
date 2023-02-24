@@ -781,6 +781,7 @@
 
 ## deep-learning 
 
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build multimodal AI services via cloud native technologies · Neural Search · Generative AI · Cloud Native
@@ -1872,6 +1873,7 @@
 
 ## machine-learning 
 
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models like OPT-175B/GPT-3 on a single GPU. Focusing on high-throughput generation.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -2131,6 +2133,7 @@
 
 ## others 
 
+- [XiaomiFirmwareUpdater/mi-firmware-updater](https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater) - Auto generates Xiaomi firmware flashable zip files every MIUI new update
 - [XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator) - Xiaomi Flashable Firmware Creator
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
@@ -2836,6 +2839,7 @@
 
 ## rust 
 
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
@@ -3044,6 +3048,7 @@
 
 ## terminal 
 
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
