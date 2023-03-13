@@ -1696,7 +1696,7 @@
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [arnav-kr/json-formatter](https://github.com/arnav-kr/json-formatter) - A Chrome Extension to format JSON in the browser automatically. Available with both Dark and Light mode, with Auto-Linker and Syntax Highlighting.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
@@ -2037,7 +2037,7 @@
 ## nextjs 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -2153,6 +2153,7 @@
 
 ## others 
 
+- [clara-j/media_cleaner](https://github.com/clara-j/media_cleaner) - Python script to delete watched content on Emby
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
 - [HeyCLI/heyCLI_client](https://github.com/HeyCLI/heyCLI_client) - HeyCLI allows you to use your command line terminal in natural language
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
@@ -2606,6 +2607,7 @@
 
 ## python 
 
+- [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
@@ -2768,7 +2770,7 @@
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
