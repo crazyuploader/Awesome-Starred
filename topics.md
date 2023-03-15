@@ -583,6 +583,7 @@
 
 ## chrome-extension 
 
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [arnav-kr/json-formatter](https://github.com/arnav-kr/json-formatter) - A Chrome Extension to format JSON in the browser automatically. Available with both Dark and Light mode, with Auto-Linker and Syntax Highlighting.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 
@@ -1329,6 +1330,8 @@
 
 ## hacktoberfest 
 
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
@@ -2153,6 +2156,10 @@
 
 ## others 
 
+- [MrGlockenspiel/activate-linux](https://github.com/MrGlockenspiel/activate-linux) - The "Activate Windows" watermark ported to Linux
+- [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
+- [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
+- [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
 - [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [clara-j/media_cleaner](https://github.com/clara-j/media_cleaner) - Python script to delete watched content on Emby
 - [blend-os/blendOS](https://github.com/blend-os/blendOS) - A seamless blend of all Linux distributions.
@@ -2540,6 +2547,7 @@
 
 ## package-manager 
 
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
@@ -2579,6 +2587,10 @@
 
 ## powershell 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+- [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -2996,6 +3008,7 @@
 
 ## software 
 
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## spring 
@@ -3081,6 +3094,7 @@
 
 ## terminal 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -3271,6 +3285,10 @@
 
 ## windows 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+- [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
+- [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 - [ruzickap/packer-templates](https://github.com/ruzickap/packer-templates) - Scripts and Templates used for generating Vagrant images
