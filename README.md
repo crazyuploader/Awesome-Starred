@@ -172,7 +172,7 @@
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort 𝘁𝗵𝗲 𝗲𝗮𝘀𝘆 𝘄𝗮𝘆! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
@@ -1411,7 +1412,7 @@
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform yo
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
+- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
