@@ -1436,7 +1436,7 @@
 - [GreenFrogSB/LMDS](https://github.com/GreenFrogSB/LMDS) - LMDS - Linux Media Delivery System
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful personal/home server OS for self-hosting with an app store. Install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
-- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A build script for qBittorent nox static.
+- [userdocs/qbittorrent-nox-static](https://github.com/userdocs/qbittorrent-nox-static) - A bash script which builds a fully static qbittorent-nox binary with current dependencies to use on any Linux OS
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [uraimo/run-on-arch-action](https://github.com/uraimo/run-on-arch-action) - A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU
@@ -1523,6 +1523,7 @@
 
 ## TypeScript 
 
+- [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
 - [codetheweb/muse](https://github.com/codetheweb/muse) - 🎧 a self-hosted midwestern Discord music bot that doesn't suck
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - fork of overseerr for jellyfin support
