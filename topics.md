@@ -414,6 +414,7 @@
 
 ## automation 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -593,6 +594,7 @@
 
 ## bot 
 
+- [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
@@ -638,6 +640,7 @@
 
 ## chrome 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -979,6 +982,7 @@
 
 ## discord 
 
+- [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
 - [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
@@ -1008,6 +1012,7 @@
 
 ## docker 
 
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
 - [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
@@ -1421,7 +1426,7 @@
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
@@ -1507,6 +1512,7 @@
 
 ## golang 
 
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
@@ -2004,7 +2010,7 @@
 
 ## ipfs 
 
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond.
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 
 ## java 
@@ -2201,7 +2207,7 @@
 - [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [acorn-io/acorn](https://github.com/acorn-io/acorn) - A simple application deployment framework for Kubernetes
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
+- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -2449,7 +2455,7 @@
 
 ## mastodon 
 
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond.
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 
 ## material-design 
 
@@ -3758,7 +3764,7 @@
 
 ## telegram 
 
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond.
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 Telegram Downloader, but more than a downloader
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
 - [zeroone2numeral2/qbittorrent-bot](https://github.com/zeroone2numeral2/qbittorrent-bot) - Telegram bot to mange your qBittorrent torrents
@@ -3846,6 +3852,7 @@
 
 ## testing 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -3860,7 +3867,7 @@
 
 ## twitter 
 
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond.
+- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 
 ## typescript 
 
@@ -3978,6 +3985,7 @@
 
 ## web 
 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
