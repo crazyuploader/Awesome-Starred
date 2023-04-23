@@ -290,7 +290,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your self-hosted comment system
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
+- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [mattn/anko](https://github.com/mattn/anko) - Scriptable interpreter written in golang
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
@@ -1097,6 +1097,9 @@
 
 ## Python 
 
+- [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program to upload files/folder to Telegram effortlessly.
+- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
+- [kylierst/MSO_E5_Dev_AutoRenew](https://github.com/kylierst/MSO_E5_Dev_AutoRenew) - This is a Python application based from Git Actions to produce development actions through Microsoft Graph API like a genuine developer in order to activate Microsoft Office 365 E5 Developer Trail mem
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [sigma67/spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) - Clone a Spotify playlist to YouTube Music
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
