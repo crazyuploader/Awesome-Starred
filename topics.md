@@ -598,6 +598,7 @@
 
 ## bot 
 
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
 - [Waterboy1602/Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd
@@ -856,7 +857,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
-- [WardPearce/py-styles](https://github.com/WardPearce/py-styles) - Raw CSS to make your site look like python code.
+- [WardPearce/Portfolio](https://github.com/WardPearce/Portfolio) - Raw CSS to make your site look like python code.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
@@ -994,6 +995,7 @@
 
 ## discord 
 
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
 - [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
@@ -1712,6 +1714,7 @@
 
 ## hacktoberfest 
 
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -2497,6 +2500,7 @@
 
 ## mongodb 
 
+- [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create telegram bot with this friendly python boilerplate using pyrogram framework.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
@@ -2539,6 +2543,7 @@
 
 ## music 
 
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [codetheweb/muse](https://github.com/codetheweb/muse) - 🎧 a self-hosted midwestern Discord music bot that doesn't suck
@@ -3263,6 +3268,8 @@
 
 ## python 
 
+- [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
+- [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create telegram bot with this friendly python boilerplate using pyrogram framework.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program to upload files/folder to Telegram effortlessly.
@@ -3309,7 +3316,7 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
-- [WardPearce/py-styles](https://github.com/WardPearce/py-styles) - Raw CSS to make your site look like python code.
+- [WardPearce/Portfolio](https://github.com/WardPearce/Portfolio) - Raw CSS to make your site look like python code.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [aidengilmartin/speedtest-to-influxdb](https://github.com/aidengilmartin/speedtest-to-influxdb) - Script to periodically run the Speedtest CLI application by Ookla and post results to InfluxDB.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
@@ -3799,6 +3806,8 @@
 
 ## telegram 
 
+- [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
+- [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create telegram bot with this friendly python boilerplate using pyrogram framework.
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program to upload files/folder to Telegram effortlessly.
 - [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems.
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 Telegram Downloader, but more than a downloader
