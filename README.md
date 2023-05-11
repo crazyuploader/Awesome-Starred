@@ -616,7 +616,7 @@
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
-- [GetPublii/Publii](https://github.com/GetPublii/Publii) - Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
+- [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [judge0/judge0](https://github.com/judge0/judge0) - 🔥 The most advanced open-source online code execution system in the world.
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
@@ -1104,6 +1104,8 @@
 
 ## Python 
 
+- [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
+- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
 - [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create telegram bot with this friendly python boilerplate using pyrogram framework.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
@@ -1356,6 +1358,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -1618,7 +1621,7 @@
 - [kremalicious/portfolio](https://github.com/kremalicious/portfolio) - 👔 Portfolio thingy
 - [yesoreyeram/grafana-infinity-datasource](https://github.com/yesoreyeram/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build Fast. Scale Big. All in One Place.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
