@@ -138,7 +138,7 @@
 - [bitwarden/mobile](https://github.com/bitwarden/mobile) - The mobile app vault (iOS and Android).
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
-- [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight replacement of Lenovo Vantage for Lenovo Legion laptops.
+- [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [Kyome22/RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 - [DavidMoore/ipfilter](https://github.com/DavidMoore/ipfilter) - Keeps your preferred Bit Torrent client blocklist up to date to support your privacy and security
@@ -182,7 +182,7 @@
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart productivity tool :brain:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :sunglasses: Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager :brain:
 - [erengy/taiga](https://github.com/erengy/taiga) - A lightweight anime tracker for Windows
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
@@ -285,6 +285,8 @@
 
 ## Go 
 
+- [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
@@ -1112,6 +1114,7 @@
 
 ## Python 
 
+- [influxdata/community-templates](https://github.com/influxdata/community-templates) - InfluxDB Community Templates: Quickly collect & analyze time series data from a range of sources: Kubernetes, MySQL, Postgres, AWS, Nginx, Jenkins, and more.
 - [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero) - A simple interface to GPIO devices with Raspberry Pi
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -1212,7 +1215,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An AI Logic Server that helps developers ship and serve #AI apps in production
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download torrents, mega, google drive, telegram document, any file/folder from rclone supported clouds and direct links + all yt-dlp supported sites, then u
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
