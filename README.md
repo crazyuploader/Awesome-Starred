@@ -285,6 +285,7 @@
 
 ## Go 
 
+- [russross/blackfriday](https://github.com/russross/blackfriday) - Blackfriday: a markdown processor for Go
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go
@@ -700,6 +701,7 @@
 
 ## JavaScript 
 
+- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [soruly/trace.moe-telegram-bot](https://github.com/soruly/trace.moe-telegram-bot) - This Telegram Bot can tell the anime when you send an screenshot to it
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 - [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
@@ -1576,6 +1578,8 @@
 
 ## TypeScript 
 
+- [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
+- [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [Clytage/rawon](https://github.com/Clytage/rawon) - A simple powerful Discord music bot built to fulfill your production desires. Easy to use, with no coding required.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
