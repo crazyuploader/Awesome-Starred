@@ -507,7 +507,7 @@
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [xyproto/algernon](https://github.com/xyproto/algernon) - :tophat: Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
@@ -868,6 +868,7 @@
 
 ## Jinja 
 
+- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) - Raspberry Pi config for all things Internet.
@@ -1169,7 +1170,6 @@
 - [jblakeman/apt-select](https://github.com/jblakeman/apt-select) - Ubuntu Archive Mirror reporting tool for apt sources configuration.
 - [URenko/Accesser](https://github.com/URenko/Accesser) - 🌏一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具 | A tool for solving SNI RST
 - [jellyfin/jellyfin-mpv-shim](https://github.com/jellyfin/jellyfin-mpv-shim) - MPV Cast Client for Jellyfin
-- [novatorem/novatorem](https://github.com/novatorem/novatorem) - Dynamic realtime profile ReadMe linked with spotify
 - [clara-j/media_cleaner](https://github.com/clara-j/media_cleaner) - Python script to delete watched content on Emby
 - [guessit-io/guessit](https://github.com/guessit-io/guessit) - GuessIt is a python library that extracts as much information as possible from a video filename.
 - [XiaomiFirmwareUpdater/mi-firmware-updater](https://github.com/XiaomiFirmwareUpdater/mi-firmware-updater) - Auto generates Xiaomi firmware flashable zip files every MIUI new update
@@ -1585,7 +1585,7 @@
 - [Clytage/rawon](https://github.com/Clytage/rawon) - A simple powerful Discord music bot built to fulfill your production desires. Easy to use, with no coding required.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac & Linux.
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
