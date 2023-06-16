@@ -540,7 +540,7 @@
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [antonmedv/red](https://github.com/antonmedv/red) - Terminal log analysis tools
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
