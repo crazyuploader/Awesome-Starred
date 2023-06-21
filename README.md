@@ -764,6 +764,7 @@
 - [WalshyDev/personal-site](https://github.com/WalshyDev/personal-site) - 
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
 - [amalshaji/ipwhere](https://github.com/amalshaji/ipwhere) - Locate IP addresses on the map
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
@@ -1667,7 +1668,6 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [scastiel/github-business-card](https://github.com/scastiel/github-business-card) - 
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
