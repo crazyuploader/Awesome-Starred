@@ -610,7 +610,6 @@
 
 ## bot 
 
-- [farshadz1997/Microsoft-Rewards-bot](https://github.com/farshadz1997/Microsoft-Rewards-bot) - A simple bot that uses Selenium to farm Microsoft Rewards written in Python
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
@@ -1383,6 +1382,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
@@ -2850,6 +2850,7 @@
 
 ## others 
 
+- [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [jetkai/proxy-list](https://github.com/jetkai/proxy-list) - An automatic updated list of free SOCKS4, SOCKS5, HTTP & HTTPS proxies in JSON, TXT, CSV, XML & YAML format. Proxies are online at the time of testing & updated every hour. Geolocation & detection sta
 - [dghubble/sling](https://github.com/dghubble/sling) - A Go HTTP client library for creating and sending API requests
@@ -3433,7 +3434,6 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [farshadz1997/Microsoft-Rewards-bot](https://github.com/farshadz1997/Microsoft-Rewards-bot) - A simple bot that uses Selenium to farm Microsoft Rewards written in Python
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [gpiozero/gpiozero](https://github.com/gpiozero/gpiozero) - A simple interface to GPIO devices with Raspberry Pi
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
