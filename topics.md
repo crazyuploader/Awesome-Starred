@@ -613,6 +613,7 @@
 
 ## bot 
 
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord.
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
@@ -1106,7 +1107,7 @@
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
@@ -1455,6 +1456,7 @@
 
 ## go 
 
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
@@ -1521,7 +1523,7 @@
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [cortezaproject/corteza](https://github.com/cortezaproject/corteza) - Low-code platform
@@ -1605,6 +1607,7 @@
 
 ## golang 
 
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys
 - [gojek/heimdall](https://github.com/gojek/heimdall) - An enhanced HTTP client for Go
 - [levigross/grequests](https://github.com/levigross/grequests) - A Go "clone" of the great and famous Requests library
@@ -2589,7 +2592,7 @@
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [brrd/abricotine](https://github.com/brrd/abricotine) - Markdown editor with inline preview
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
@@ -3677,7 +3680,7 @@
 - [xgi/houdoku](https://github.com/xgi/houdoku) - Manga reader and library manager for the desktop
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -3914,7 +3917,7 @@
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs. Setup your own server and share your readi
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-- [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites ha
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -4091,6 +4094,7 @@
 
 ## telegram 
 
+- [go-telegram/bot](https://github.com/go-telegram/bot) - Telegram Bot API Go framework
 - [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
 - [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create Telegram Bot with this friendly python boilerplate using pyrogram framework.
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
