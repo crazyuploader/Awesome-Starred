@@ -202,6 +202,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -891,7 +892,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
-- [WardPearce/Portfolio](https://github.com/WardPearce/Portfolio) - Raw CSS to make your site look like python code.
+- [WardPearce/py-styles](https://github.com/WardPearce/py-styles) - Raw CSS to make your site look like python code.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
@@ -949,7 +950,7 @@
 
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
@@ -2973,7 +2974,7 @@
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [toptal/haste-server](https://github.com/toptal/haste-server) - open source pastebin written in node.js
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
+- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
@@ -3219,7 +3220,6 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [rocky-linux/rocky](https://github.com/rocky-linux/rocky) - Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.
 - [manrs-tools/labmgr](https://github.com/manrs-tools/labmgr) - ISOC Lab Manager
-- [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [cloudron-io/cubby](https://github.com/cloudron-io/cubby) - The painless file sharing solution
 - [boypt/simple-torrent](https://github.com/boypt/simple-torrent) - ☁️ Simple Torrent: a self-hosted remote torrent client (rebranded from Cloud Torrent)
@@ -3544,7 +3544,7 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
-- [WardPearce/Portfolio](https://github.com/WardPearce/Portfolio) - Raw CSS to make your site look like python code.
+- [WardPearce/py-styles](https://github.com/WardPearce/py-styles) - Raw CSS to make your site look like python code.
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
 - [aidengilmartin/speedtest-to-influxdb](https://github.com/aidengilmartin/speedtest-to-influxdb) - Script to periodically run the Speedtest CLI application by Ookla and post results to InfluxDB.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell.
@@ -3878,7 +3878,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🌐 All-in-one website OSINT tool for analysing any website
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
-- [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
+- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
 - [microcosm-cc/bluemonday](https://github.com/microcosm-cc/bluemonday) - bluemonday: a fast golang HTML sanitizer (inspired by the OWASP Java HTML Sanitizer) to scrub user generated content of XSS
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
@@ -4206,6 +4206,13 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+## termux 
+
+- [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
+- [Cabbagec/termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh) - Colorize your termux! Oh-my-zsh included!
+- [adi1090x/termux-style](https://github.com/adi1090x/termux-style) - Simple script to change color-schemes and fonts for Termux.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
 ## terraform 
