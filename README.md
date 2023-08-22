@@ -745,7 +745,6 @@
 
 ## JavaScript 
 
-- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [sigalor/whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 - [itgoyo/Aria2](https://github.com/itgoyo/Aria2) - 突破百度云限速合集，另外附带Baidu-Go、Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
@@ -1645,6 +1644,7 @@
 
 ## Swift 
 
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [pcarrier/ident.me](https://github.com/pcarrier/ident.me) - free public IP address APIs
