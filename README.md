@@ -1209,6 +1209,7 @@
 
 ## Python 
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
