@@ -429,7 +429,7 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -765,6 +765,7 @@
 
 ## JavaScript 
 
+- [Gaafar/curl-worker](https://github.com/Gaafar/curl-worker) - 
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [sirxemic/Interstellar](https://github.com/sirxemic/Interstellar) - Interactive simulation of a wormhole and a black hole similar to those shown in the movie Interstellar
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
@@ -949,6 +950,7 @@
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [akuhnet/Colab-SSH](https://github.com/akuhnet/Colab-SSH) - Colab SSH
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [GoogleCloudPlatform/python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [whotracksme/whotracks.me](https://github.com/whotracksme/whotracks.me) - Data from the largest and longest measurement of online tracking.
@@ -1266,7 +1268,6 @@
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
 - [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
 - [kylierst/MSO_E5_Dev_AutoRenew](https://github.com/kylierst/MSO_E5_Dev_AutoRenew) - This is a Python application based from Git Actions to produce development actions through Microsoft Graph API like a genuine developer in order to activate Microsoft Office 365 E5 Developer Trail mem
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [sigma67/spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) - Clone a Spotify playlist to YouTube Music
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [alexta69/metube](https://github.com/alexta69/metube) - youtube-dl web UI
@@ -1689,6 +1690,7 @@
 
 ## Svelte 
 
+- [deta/formate](https://github.com/deta/formate) - Build forms in minutes
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
 - [ThaUnknown/miru](https://github.com/ThaUnknown/miru) - Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.
 - [amalshaji/vibe](https://github.com/amalshaji/vibe) - Having a bad day? Good boy doggo to the rescue. Vibe for 30 seconds!!
@@ -1707,6 +1709,8 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
@@ -1856,6 +1860,7 @@
 
 ## Vue 
 
+- [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [WDaan/VueTorrent](https://github.com/WDaan/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
