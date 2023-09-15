@@ -731,6 +731,7 @@
 
 ## cli 
 
+- [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
@@ -1512,6 +1513,7 @@
 
 ## go 
 
+- [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [softchris/golang-book](https://github.com/softchris/golang-book) - A book on Go, contains fundamentals but also recipes
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
@@ -1668,6 +1670,7 @@
 
 ## golang 
 
+- [guumaster/hostctl](https://github.com/guumaster/hostctl) - Your dev tool to manage /etc/hosts like a pro!
 - [softchris/golang-book](https://github.com/softchris/golang-book) - A book on Go, contains fundamentals but also recipes
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
@@ -3028,6 +3031,7 @@
 
 ## others 
 
+- [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [emoacht/Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
