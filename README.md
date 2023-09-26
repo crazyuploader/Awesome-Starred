@@ -77,6 +77,7 @@
 
 ## C 
 
+- [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [pobrn/mktorrent](https://github.com/pobrn/mktorrent) - A simple command line utility to create BitTorrent metainfo files
@@ -312,6 +313,9 @@
 
 ## Go 
 
+- [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
+- [chihaya/chihaya](https://github.com/chihaya/chihaya) - A customizable, multi-protocol BitTorrent Tracker
+- [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
 - [umputun/reproxy](https://github.com/umputun/reproxy) - Simple edge server / reverse proxy
 - [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
@@ -659,7 +663,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure.
+- [gravitational/teleport](https://github.com/gravitational/teleport) - Protect access to all of your infrastructure.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -782,6 +786,10 @@
 
 ## JavaScript 
 
+- [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
+- [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
+- [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
@@ -988,6 +996,7 @@
 
 ## Kotlin 
 
+- [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - Unofficial fork of Tachiyomi for anime
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
 - [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
@@ -1218,6 +1227,7 @@
 
 ## Perl 
 
+- [Moham3dRiahi/Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - Th3Inspector 🕵️ Best Tool For Information Gathering 🔎
 - [munin-monitoring/munin](https://github.com/munin-monitoring/munin) - Main repository for munin master / node / plugins
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
 - [ddclient/ddclient](https://github.com/ddclient/ddclient) - Ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.
@@ -1239,6 +1249,9 @@
 
 ## Python 
 
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A Python script to effortlessly extract and format your ChatGPT conversations data export from JSON files to well-structured markdown files, with YAML metadata headers. And it all happens locally !
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [fgsect/scat](https://github.com/fgsect/scat) - SCAT: Signaling Collection and Analysis Tool
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [oarriaga/face_classification](https://github.com/oarriaga/face_classification) - Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
 - [rembo10/headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd
@@ -1260,7 +1273,7 @@
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - The Last Web Recon Tool You'll Need
+- [thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon) - All In One Web Recon
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ 
 - [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) - 
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
@@ -1278,7 +1291,7 @@
 - [AnimeKaizoku/EnterpriseALRobot](https://github.com/AnimeKaizoku/EnterpriseALRobot) - An anime themed telegram group management bot
 - [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader) - A command-line tool to download manga from MangaDex, written in Python.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley 2, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A lossless video/GIF/image upscaler achieved with waifu2x, Anime4K, SRMD and RealSR. Started in Hack the Valley II, 2018.
 - [CASIA-IVA-Lab/FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM) - Fast Segment Anything
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -1545,7 +1558,7 @@
 ## Rust 
 
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
