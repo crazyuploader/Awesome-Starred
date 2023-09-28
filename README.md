@@ -61,6 +61,7 @@
 
 ## Adblock Filter List 
 
+- [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 
 ## Assembly 
@@ -304,7 +305,7 @@
 
 ## Elixir 
 
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned
 
 ## GLSL 
@@ -357,7 +358,6 @@
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
 - [zcalusic/sysinfo](https://github.com/zcalusic/sysinfo) - Sysinfo is a Go library providing Linux OS / kernel / hardware system information.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [lib/pq](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql
 - [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
@@ -786,6 +786,8 @@
 
 ## JavaScript 
 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
@@ -996,6 +998,8 @@
 
 ## Kotlin 
 
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 - [aniyomiorg/aniyomi](https://github.com/aniyomiorg/aniyomi) - Unofficial fork of Tachiyomi for anime
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support
@@ -1239,7 +1243,7 @@
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
-- [amd64fox/SpotX](https://github.com/amd64fox/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
+- [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - Modified Spotify client. Blocks ads and updates, and more.
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
 
 ## Pug 
@@ -1249,6 +1253,7 @@
 
 ## Python 
 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A Python script to effortlessly extract and format your ChatGPT conversations data export from JSON files to well-structured markdown files, with YAML metadata headers. And it all happens locally !
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [fgsect/scat](https://github.com/fgsect/scat) - SCAT: Signaling Collection and Analysis Tool
@@ -1264,7 +1269,7 @@
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -1557,6 +1562,7 @@
 
 ## Rust 
 
+- [jaytaph/gosub-browser](https://github.com/jaytaph/gosub-browser) - A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/jaytaph/gosub-browser/discussions
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -1564,6 +1570,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
