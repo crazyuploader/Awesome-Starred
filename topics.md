@@ -321,7 +321,7 @@
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [Ramotion/circle-menu-android](https://github.com/Ramotion/circle-menu-android) - :octocat: ⭕️ CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Android UI library made by @Ramotion
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for Internet privacy and security
+- [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
 - [Coders-Of-XDA-OT/covid19-status-android](https://github.com/Coders-Of-XDA-OT/covid19-status-android) - An android app to track COVID-19 status in India and the world with detailed states wise and country-wise data.
@@ -3085,6 +3085,7 @@
 
 ## others 
 
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [da2x/amp2html](https://github.com/da2x/amp2html) - WebExtension for automatically redirecting Accelerated Mobile Pages (AMP) to the canonical HTML page.
 - [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets) - Resources for uBlock Origin, uMatrix: static filter lists, ready-to-use rulesets, etc.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
