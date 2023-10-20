@@ -79,6 +79,7 @@
 
 ## C 
 
+- [shellinabox/shellinabox](https://github.com/shellinabox/shellinabox) - Official-ish Fork of Shell In A Box
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
@@ -432,7 +433,7 @@
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [lus/pasty](https://github.com/lus/pasty) - pasty is a fast and lightweight code pasting server
 - [go101/golds](https://github.com/go101/golds) - An experimental Go local docs server/generator and code reader implemented with some fresh ideas.
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
@@ -1325,7 +1326,7 @@
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
 - [oleksis/youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [SCUTlihaoyu/open-chat-video-editor](https://github.com/SCUTlihaoyu/open-chat-video-editor) - Open source short video automatic generation tool
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [sanjit-sinha/Tg-MediaInfoBot](https://github.com/sanjit-sinha/Tg-MediaInfoBot) - Telegram Bot for generating Mediainfo, Screenshots and Video sample from Direct Download links,  Google Drive links or Telegram files.
@@ -1797,6 +1798,8 @@
 
 ## TypeScript 
 
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [browserless/chrome](https://github.com/browserless/chrome) - The browserless Chrome service in Docker. Run on our cloud, or bring your own.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
