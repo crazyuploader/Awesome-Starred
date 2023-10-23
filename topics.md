@@ -2813,6 +2813,7 @@
 
 ## markdown 
 
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
 - [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - An AI copilot for your second brain. Search and chat with your personal knowledge base, online or offline
@@ -3146,6 +3147,10 @@
 
 ## others 
 
+- [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
+- [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open Source API Key Management
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience. Test fonts, viewport units, ad blockers, and more.
 - [shellinabox/shellinabox](https://github.com/shellinabox/shellinabox) - Official-ish Fork of Shell In A Box
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
@@ -3698,6 +3703,7 @@
 
 ## package-manager 
 
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -4709,6 +4715,7 @@
 
 ## vue 
 
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) - The minimalist blog theme, powered by Nuxt & Markdown.
 - [jellyfin/jellyfin-vue](https://github.com/jellyfin/jellyfin-vue) - A modern web client for Jellyfin based on Vue
 - [m0ngr31/jellyamp](https://github.com/m0ngr31/jellyamp) - Desktop client for listening to music from a Jellyfin server
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
