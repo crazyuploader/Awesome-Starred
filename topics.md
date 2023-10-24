@@ -245,7 +245,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 
@@ -441,7 +441,7 @@
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [avinashkranjan/Amazing-Python-Scripts](https://github.com/avinashkranjan/Amazing-Python-Scripts) - 🚀 Curated collection of Amazing Python scripts from Basics to Advance with automation task scripts.
 
@@ -1029,7 +1029,7 @@
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
@@ -2045,7 +2045,7 @@
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -2057,7 +2057,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -2667,7 +2667,7 @@
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download 📦
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2747,7 +2747,7 @@
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen) - Running large language models on a single GPU for throughput-oriented scenarios.
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2870,7 +2870,7 @@
 
 - [sanjit-sinha/TelegramBot-Boilerplate](https://github.com/sanjit-sinha/TelegramBot-Boilerplate) - Create Telegram Bot with this friendly python boilerplate using pyrogram framework.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
 - [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
 - [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
@@ -2946,7 +2946,7 @@
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to datasources.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
@@ -2958,7 +2958,7 @@
 
 ## neovim 
 
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 
@@ -4701,7 +4701,7 @@
 
 ## vim 
 
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
