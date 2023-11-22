@@ -291,6 +291,7 @@
 
 ## Dart 
 
+- [mateusz-bak/openreads-android](https://github.com/mateusz-bak/openreads-android) - A mobile books tracker written in Flutter that respects your privacy.
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊 Application to use ReVanced on Android
@@ -1043,6 +1044,8 @@
 
 ## Kotlin 
 
+- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - 🔥 PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy 
+- [dessalines/thumb-key](https://github.com/dessalines/thumb-key) - A privacy-conscious Android keyboard made for your thumbs
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
