@@ -779,6 +779,7 @@
 
 ## Java 
 
+- [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - A custom ViewPager title strip which gives continuous feedback to the user when scrolling
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
@@ -1309,6 +1310,7 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mr-karan/swiggy-analytics](https://github.com/mr-karan/swiggy-analytics) - Analyse your swiggy orders 🍔
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -1861,6 +1863,8 @@
 
 ## TypeScript 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization
@@ -1889,7 +1893,7 @@
 - [jsdelivr/globalping](https://github.com/jsdelivr/globalping) - A global network of probes to run network tests like ping, traceroute and DNS resolve
 - [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
-- [clytage/rawon](https://github.com/clytage/rawon) - A simple powerful Discord music bot built to fulfill your production desires. Easy to use, with no coding required.
+- [stegripe/rawon](https://github.com/stegripe/rawon) - A simple powerful Discord music bot built to fulfill your production desires. Easy to use, with no coding required.
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop app for multiple cutting-edge LLM models, available on Windows, Mac, Linux
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
