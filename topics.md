@@ -1330,6 +1330,7 @@
 
 ## documentation 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) - Hugo theme made for documentation
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -1494,6 +1495,7 @@
 
 ## framework 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -2956,6 +2958,7 @@
 
 ## material-design 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -3955,6 +3958,7 @@
 
 ## python 
 
+- [netenglabs/suzieq](https://github.com/netenglabs/suzieq) - Using network observability to operate and design healthier networks
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
