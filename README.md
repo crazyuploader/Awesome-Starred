@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
 - [jvns/git-commit-folders](https://github.com/jvns/git-commit-folders) - 
 - [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for fast & iterative container-based application development on Podman and Kubernetes. Implementation of the open Devfile standard.
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
