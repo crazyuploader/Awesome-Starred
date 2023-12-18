@@ -3280,6 +3280,7 @@
 
 ## others 
 
+- [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
 - [douniwan5788/zte_modem_tools](https://github.com/douniwan5788/zte_modem_tools) - tools for zte modem
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [jvns/git-commit-folders](https://github.com/jvns/git-commit-folders) - 
