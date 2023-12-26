@@ -852,7 +852,7 @@
 
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple to use local JSON database. Use native JavaScript API to query. Written in TypeScript. (supports Node, Electron and the browser)
+- [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [da2x/amp2html](https://github.com/da2x/amp2html) - WebExtension for automatically redirecting Accelerated Mobile Pages (AMP) to the canonical HTML page.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
