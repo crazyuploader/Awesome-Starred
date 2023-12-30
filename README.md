@@ -1595,7 +1595,7 @@
 - [ValentinBELYN/icmplib](https://github.com/ValentinBELYN/icmplib) - Easily forge ICMP packets and make your own ping and traceroute.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [automation-stack/nat-discovery](https://github.com/automation-stack/nat-discovery) - Cross-platform NAT (Network Address Translation) type discovery tool (algorithms defined in RFC 3489)
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey + Ventura support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) - Persepolis Download Manager is a GUI for aria2.
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
