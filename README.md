@@ -1340,6 +1340,8 @@
 
 ## Python 
 
+- [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [netenglabs/suzieq](https://github.com/netenglabs/suzieq) - Using network observability to operate and design healthier networks
 - [douniwan5788/zte_modem_tools](https://github.com/douniwan5788/zte_modem_tools) - tools for zte modem
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
@@ -1374,7 +1376,7 @@
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
@@ -1665,6 +1667,7 @@
 
 ## Rust 
 
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [DNSCrypt/doh-server](https://github.com/DNSCrypt/doh-server) - Fast, mature, secure DoH and ODoH server proxy written in Rust. Previously known as doh-proxy and rust-doh.
