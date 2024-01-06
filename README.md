@@ -802,7 +802,7 @@
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
 - [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - A custom ViewPager title strip which gives continuous feedback to the user when scrolling
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-- [Suwayomi/Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - A rewrite of Tachiyomi for the Desktop
+- [Suwayomi/Suwayomi-Server](https://github.com/Suwayomi/Suwayomi-Server) - A rewrite of Tachiyomi for the Desktop
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 - [portfolio-performance/portfolio](https://github.com/portfolio-performance/portfolio) - Track and evaluate the performance of your investment portfolio across stocks, cryptocurrencies, and other assets.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
