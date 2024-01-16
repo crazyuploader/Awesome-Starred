@@ -3770,7 +3770,7 @@
 - [michellabbe/docker-openspeedtest](https://github.com/michellabbe/docker-openspeedtest) - Dockerfile to setup OpenSpeedTest server based on Alpine
 - [kyclark/tiny_python_projects](https://github.com/kyclark/tiny_python_projects) - Code for Tiny Python Projects (Manning, 2020, ISBN 1617297518). Learning Python through test-driven development of games and puzzles.
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [Prince-Mendiratta/X-tra-Telegram](https://github.com/Prince-Mendiratta/X-tra-Telegram) - A powerful pluggable userbot on telegram!
 - [rwhalb/mtraceroute](https://github.com/rwhalb/mtraceroute) - A python3 library for performing an enhanced scapy Multi-Traceroute (MTR) with resulting SVG visual.
 - [filiph/linkcheck](https://github.com/filiph/linkcheck) - Fast link checker
