@@ -3542,7 +3542,7 @@
 - [gofiber/swagger](https://github.com/gofiber/swagger) - 🧬 fiber middleware to automatically generate RESTful API documentation with Swagger
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
@@ -4361,7 +4361,6 @@
 
 ## redux 
 
-- [xgi/houdoku](https://github.com/xgi/houdoku) - Manga reader and library manager for the desktop
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 
 ## rest-api 
