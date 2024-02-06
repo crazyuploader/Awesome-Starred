@@ -2075,7 +2075,6 @@
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -3564,7 +3563,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
 - [chkas/easylang](https://github.com/chkas/easylang) - An easy programming language that runs in the browser
-- [pwk4m1/TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - A minimalist open source BIOS project for fun
+- [pwk4m1/TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - A mirror of TinyBIOS repository
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [qiangxue/go-rest-api](https://github.com/qiangxue/go-rest-api) - An idiomatic Go REST API starter kit (boilerplate) following the SOLID principles and Clean Architecture
 - [gravityblast/fresh](https://github.com/gravityblast/fresh) - Build and (re)start go web apps after saving/creating/deleting source files.
