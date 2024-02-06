@@ -72,7 +72,7 @@
 
 ## Assembly 
 
-- [pwk4m1/TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - A minimalist open source BIOS project for fun
+- [pwk4m1/TinyBIOS](https://github.com/pwk4m1/TinyBIOS) - A mirror of TinyBIOS repository
 - [dspinellis/unix-history-repo](https://github.com/dspinellis/unix-history-repo) - Continuous Unix commit history from 1970 until today
 
 ## AutoIt 
