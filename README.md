@@ -1350,6 +1350,7 @@
 
 ## Python 
 
+- [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter) - Speedtest Exporter made in python using the official speedtest bin
 - [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
