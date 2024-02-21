@@ -300,6 +300,7 @@
 
 ## Dart 
 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
@@ -439,7 +440,7 @@
 - [bwmarrin/discordgo](https://github.com/bwmarrin/discordgo) - (Golang) Go bindings for Discord
 - [megaease/easeprobe](https://github.com/megaease/easeprobe) - A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
