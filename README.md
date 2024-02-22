@@ -1301,7 +1301,7 @@
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api) - Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams!
 - [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
-- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
+- [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [walangkaji/ztef](https://github.com/walangkaji/ztef) - ZTE F Series API - F609 F670
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [kanboard/kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
@@ -1533,7 +1533,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building custom AI, enabling smarter organizations.
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloader s
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Command-line tool that instantly fetches Stack Overflow results when an exception is thrown
