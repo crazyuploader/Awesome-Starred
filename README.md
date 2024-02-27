@@ -750,6 +750,7 @@
 
 ## HCL 
 
+- [vladimir-babichev/vagrant-openwrt-box](https://github.com/vladimir-babichev/vagrant-openwrt-box) - Vagrant OpenWrt Box
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
@@ -1166,7 +1167,7 @@
 
 ## Nix 
 
-- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 
 ## OCaml 
