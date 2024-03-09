@@ -868,6 +868,7 @@
 
 ## JavaScript 
 
+- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [CodingTrain/Directional-Boring](https://github.com/CodingTrain/Directional-Boring) - Horizontal Directional Drilling Simulation
 - [saifshaikh1805/tata-sky-m3u](https://github.com/saifshaikh1805/tata-sky-m3u) - A react web app to generate an m3u playlist of the channels subscribed on Tata Sky.
 - [massgravel/msdl](https://github.com/massgravel/msdl) - Microsoft Software Download Listing
@@ -1381,7 +1382,6 @@
 - [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [esanchezm/prometheus-qbittorrent-exporter](https://github.com/esanchezm/prometheus-qbittorrent-exporter) - A prometheus exporter for qbittorrent written in Python. Simple. Works. Docker image
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mr-karan/swiggy-analytics](https://github.com/mr-karan/swiggy-analytics) - Analyse your swiggy orders 🍔
 - [Alfredredbird/alfred](https://github.com/Alfredredbird/alfred) - Alfred is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
@@ -1948,6 +1948,7 @@
 - [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Survey Platform
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
