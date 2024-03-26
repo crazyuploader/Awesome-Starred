@@ -3389,6 +3389,9 @@
 
 ## others 
 
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
+- [mnutt/rotary](https://github.com/mnutt/rotary) - Adventures with rotary phones and asterisk
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [tcude/vmware-to-proxmox-migration-script](https://github.com/tcude/vmware-to-proxmox-migration-script) - This project contains a bash script that assists in migrating VMs from VMWare ESXi to Proxmox
 - [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager based on aria2
@@ -4132,6 +4135,7 @@
 
 ## python 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
@@ -4761,6 +4765,7 @@
 
 ## shell 
 
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
