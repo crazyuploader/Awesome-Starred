@@ -3853,7 +3853,7 @@
 - [ddsol/speedtest.net](https://github.com/ddsol/speedtest.net) - node.js SpeedTest.net client module
 - [joshwcomeau/new-component](https://github.com/joshwcomeau/new-component) - ⚛ ⚡ CLI utility for quickly creating new React components. ⚡ ⚛
 - [scottlerch/HostsFileEditor](https://github.com/scottlerch/HostsFileEditor) - Easily edit and manage the hosts file for Windows
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [baalajimaestro/mail-deleter](https://github.com/baalajimaestro/mail-deleter) - 
 - [ankitamasand/stocks-price-notifier](https://github.com/ankitamasand/stocks-price-notifier) - 
