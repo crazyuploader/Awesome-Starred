@@ -757,7 +757,7 @@
 ## HCL 
 
 - [vladimir-babichev/vagrant-openwrt-box](https://github.com/vladimir-babichev/vagrant-openwrt-box) - Vagrant OpenWrt Box
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [chef/bento](https://github.com/chef/bento) - Packer templates for building minimal Vagrant baseboxes for multiple platforms
 
 ## HLSL 
