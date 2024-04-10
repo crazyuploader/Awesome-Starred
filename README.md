@@ -1692,7 +1692,6 @@
 - [wloot/tc-build](https://github.com/wloot/tc-build) - 
 - [Dhrumilcse/Web-Scrapper-FIFA.com](https://github.com/Dhrumilcse/Web-Scrapper-FIFA.com) - Creating a Web Scraper using Python and BeautifulSoup to scrap data of FIFA World Cup 2018 (individual player's information and statistics)
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [jtara1/horriblesubs_batch_downloader](https://github.com/jtara1/horriblesubs_batch_downloader) - Download all individual episodes of an anime from HorribleSubs easily
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
