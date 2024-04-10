@@ -921,7 +921,6 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-- [jtara1/horriblesubs_batch_downloader](https://github.com/jtara1/horriblesubs_batch_downloader) - Download all individual episodes of an anime from HorribleSubs easily
 
 ## clojure 
 
@@ -2804,7 +2803,6 @@
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [Ramotion/circle-menu-android](https://github.com/Ramotion/circle-menu-android) - :octocat: ⭕️ CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Android UI library made by @Ramotion
 - [gauravk95/bubble-navigation](https://github.com/gauravk95/bubble-navigation) - 🎉 [Android Library] A light-weight library to easily make beautiful Navigation Bar with ton of 🎨 customization option.
-- [jtara1/horriblesubs_batch_downloader](https://github.com/jtara1/horriblesubs_batch_downloader) - Download all individual episodes of an anime from HorribleSubs easily
 
 ## linux 
 
