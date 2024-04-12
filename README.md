@@ -1689,7 +1689,7 @@
 - [Oshan96/monkey-dl](https://github.com/Oshan96/monkey-dl) - Bulk download your favourite anime episodes from your favourite anime websites
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [anime-dl/anime-downloader](https://github.com/anime-dl/anime-downloader) - A simple but powerful anime downloader and streamer.
-- [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading)
+- [manga-py/manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader (for your offline reading) upd: Please, use this tool: https://github.com/mikf/gallery-dl
 - [wloot/tc-build](https://github.com/wloot/tc-build) - 
 - [Dhrumilcse/Web-Scrapper-FIFA.com](https://github.com/Dhrumilcse/Web-Scrapper-FIFA.com) - Creating a Web Scraper using Python and BeautifulSoup to scrap data of FIFA World Cup 2018 (individual player's information and statistics)
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
@@ -1957,6 +1957,7 @@
 
 ## TypeScript 
 
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
