@@ -104,6 +104,7 @@
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
+- [hacking-tools](#hacking-tools)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [home-assistant](#home-assistant)
@@ -439,6 +440,7 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [saifshaikh1805/tata-sky-m3u](https://github.com/saifshaikh1805/tata-sky-m3u) - A react web app to generate an m3u playlist of the channels subscribed on Tata Sky.
 - [cydrobolt/polr](https://github.com/cydrobolt/polr) - :aerial_tramway: A modern, powerful, and robust URL shortener
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [softchris/golang-book](https://github.com/softchris/golang-book) - A book on Go, contains fundamentals but also recipes
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
@@ -1821,6 +1823,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -2096,6 +2099,11 @@
 
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [indianajson/can-i-take-over-dns](https://github.com/indianajson/can-i-take-over-dns) - "Can I take over DNS?" — a list of DNS providers and how to claim (sub)domains via missing hosted zones
+
+## hacking-tools 
+
+- [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
 ## hacktoberfest 
 
@@ -3365,7 +3373,7 @@
 - [projectsend/projectsend](https://github.com/projectsend/projectsend) - ProjectSend is a free, open source software that lets you share files with your clients, focused on ease of use and privacy. It supports clients groups, system users roles, statistics, multiple langua
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API authentication and authorization
+- [unkeyed/unkey](https://github.com/unkeyed/unkey) - Open source API management platform
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
