@@ -1405,6 +1405,9 @@
 
 ## Python 
 
+- [devfinwiz/Fin-Maestro-Web](https://github.com/devfinwiz/Fin-Maestro-Web) - Find your trading, investing edge using the most advanced web app for technical and fundamental research combined with real time sentiment analysis.
+- [devfinwiz/Fin-Maestro-Kin](https://github.com/devfinwiz/Fin-Maestro-Kin) - Seamless Finance: Docker-Deployed APIs for Smart Investments. [WORK IN PROGRESS]
+- [jugaad-py/jugaad-data](https://github.com/jugaad-py/jugaad-data) - Download live and historical data for Indian stock market
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -1867,6 +1870,7 @@
 
 ## Shell 
 
+- [mpv-player/mpv-build](https://github.com/mpv-player/mpv-build) - 🔨 Helper scripts to compile mpv on Linux
 - [tcude/vmware-to-proxmox-migration-script](https://github.com/tcude/vmware-to-proxmox-migration-script) - This project contains a bash script that assists in migrating VMs from VMWare ESXi to Proxmox
 - [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker) - 🐳 Aria2 downloader and AriaNg webui Docker image based on Alpine Linux
 - [TheRemote/PiBenchmarks](https://github.com/TheRemote/PiBenchmarks) - Raspberry Pi benchmarking scripts featuring a storage benchmark with score
@@ -2007,6 +2011,7 @@
 
 ## TypeScript 
 
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
