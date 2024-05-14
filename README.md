@@ -361,6 +361,7 @@
 
 ## Go 
 
+- [noisysockets/nsh](https://github.com/noisysockets/nsh) - The Noisy Sockets CLI
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) - Simple ethernet interface traffic monitor and reporting tool
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
@@ -838,6 +839,7 @@
 
 ## Java 
 
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [OctoGramApp/OctoGram](https://github.com/OctoGramApp/OctoGram) - OctoGram is an unofficial messaging app that uses Telegram's API.
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
@@ -1057,7 +1059,6 @@
 - [juliangruber/capture-screenshot](https://github.com/juliangruber/capture-screenshot) - Capture screenshots in multiple browsers!
 - [juliangruber/capture-chrome](https://github.com/juliangruber/capture-chrome) - Capture screenshots using Chrome's new headless mode.
 - [schnerd/chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots) - Using headless Chrome as an automated screenshot tool (alternative to PhantomJS)
-- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1319,7 +1320,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr) - 
 - [GitbookIO/javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [lnishan/awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming) - :gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -2056,7 +2057,7 @@
 - [jsdelivr/globalping-probe](https://github.com/jsdelivr/globalping-probe) - The globalping probe code that runs on your hardware and connects to the global community network of probes
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [stegripe/rawon](https://github.com/stegripe/rawon) - A simple powerful Discord music bot built to fulfill your production desires. Easy to use, with no coding required.
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop App for LLMs (GPT, Claude, Ollama...)
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
@@ -2160,6 +2161,7 @@
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly Flexible Static-Site-Generator to help you build Static Sites on a smaller learning curve 🌀
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
+- [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [Daniel-Griffiths/9anime-scraper](https://github.com/Daniel-Griffiths/9anime-scraper) - A node cli tool for scraping and viewing episodes hosted on 9anime
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [bobvanderlinden/probot-auto-merge](https://github.com/bobvanderlinden/probot-auto-merge) - A GitHub App built with Probot that automatically merges pull requests
