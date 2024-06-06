@@ -1904,7 +1904,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis and PostgreSQL support
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
@@ -2098,7 +2098,7 @@
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
@@ -3592,7 +3592,7 @@
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
-- [netrisdotme/netris](https://github.com/netrisdotme/netris) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
+- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] Open-source GeForce NOW alternative with Stadia's social features
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [jumoog/intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
@@ -4770,7 +4770,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
