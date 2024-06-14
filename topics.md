@@ -483,6 +483,7 @@
 
 ## api 
 
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [saifshaikh1805/tata-sky-m3u](https://github.com/saifshaikh1805/tata-sky-m3u) - A react web app to generate an m3u playlist of the channels subscribed on Tata Sky.
@@ -4463,6 +4464,7 @@
 
 ## python 
 
+- [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
