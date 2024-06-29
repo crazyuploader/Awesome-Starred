@@ -30,6 +30,7 @@
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -869,6 +870,10 @@
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [SkyTubeTeam/SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Copylefted libre / open source YouTube player for Android
@@ -1202,7 +1207,7 @@
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.
 - [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) - Adds themed icons to Lawnchair.
-- [element-hq/element-android](https://github.com/element-hq/element-android) - A glossy Matrix collaboration client for Android.
+- [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, tasks, customizable colors, widgets and no ads.
 - [Darkempire78/OpenCalc](https://github.com/Darkempire78/OpenCalc) - A simple and beautiful calculator for Android
@@ -1293,7 +1298,6 @@
 
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## NSIS 
 
@@ -1952,7 +1956,7 @@
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [TimeToogo/remote-pty](https://github.com/TimeToogo/remote-pty) - Tricking shells into interactive mode when local PTY's are not available
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
