@@ -3749,6 +3749,7 @@
 
 ## others 
 
+- [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter
 - [rkwyu/gofile-dl](https://github.com/rkwyu/gofile-dl) - Download all directories and files in Gofile (gofile.io) as a batch
 - [knightcrawler-stremio/knightcrawler](https://github.com/knightcrawler-stremio/knightcrawler) - A selfhosted Stremio addon
