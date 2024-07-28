@@ -485,6 +485,7 @@
 
 ## ansible 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -1307,6 +1308,10 @@
 
 ## devops 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
@@ -1391,6 +1396,7 @@
 
 ## docker 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
@@ -1886,6 +1892,8 @@
 
 ## go 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 - [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter) - StatsD to Prometheus metrics exporter
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
@@ -2059,6 +2067,7 @@
 
 ## golang 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -2304,6 +2313,7 @@
 
 ## hacktoberfest 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
 - [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter) - StatsD to Prometheus metrics exporter
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
@@ -2950,6 +2960,8 @@
 
 ## kubernetes 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [redhat-developer/odo](https://github.com/redhat-developer/odo) - odo - Developer-focused CLI for fast & iterative container-based application development on Podman and Kubernetes. Implementation of the open Devfile standard.
@@ -3064,6 +3076,7 @@
 
 ## linux 
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [bleachbit/bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -3753,6 +3766,7 @@
 
 ## others 
 
+- [restic/rest-server](https://github.com/restic/rest-server) - Rest Server is a high performance HTTP server that implements restic's REST backend API.
 - [wasabi-tech/s3-benchmark](https://github.com/wasabi-tech/s3-benchmark) - Performance test for comparison of AWS versus Wasabi S3 systems.
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
 - [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter) - Prometheus CloudFlare Exporter
@@ -5459,6 +5473,7 @@
 
 ## terminal 
 
+- [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) - Simple ethernet interface traffic monitor and reporting tool
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -5530,6 +5545,7 @@
 
 ## terraform 
 
+- [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -5538,6 +5554,7 @@
 
 ## testing 
 
+- [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -5766,6 +5783,7 @@
 
 ## windows 
 
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...
 - [ooni/probe-desktop](https://github.com/ooni/probe-desktop) - The next generation OONI Probe desktop app
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
