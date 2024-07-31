@@ -385,6 +385,7 @@
 
 ## Go 
 
+- [librespeed/speedtest-cli](https://github.com/librespeed/speedtest-cli) - Command line client for LibreSpeed
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
@@ -1463,6 +1464,7 @@
 
 ## PHP 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [xiaomlove/nexusphp](https://github.com/xiaomlove/nexusphp) - A private tracker application base on NexusPHP
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -1536,7 +1538,7 @@
 
 - [r-anime/holo](https://github.com/r-anime/holo) - Episode discussion bot for /r/anime.
 - [rkwyu/gofile-dl](https://github.com/rkwyu/gofile-dl) - Download all directories and files in Gofile (gofile.io) as a batch
-- [explorerhq/django-sql-explorer](https://github.com/explorerhq/django-sql-explorer) - Easily share data across your company via SQL queries.
+- [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [s0md3v/Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [arsenetar/dupeguru](https://github.com/arsenetar/dupeguru) - Find duplicate files
@@ -1911,6 +1913,7 @@
 
 ## Rust 
 
+- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
