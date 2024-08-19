@@ -161,7 +161,7 @@
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [GuaiYiHu/android_kernel_xiaomi_whyred](https://github.com/GuaiYiHu/android_kernel_xiaomi_whyred) - 
@@ -395,6 +395,7 @@
 
 ## Go 
 
+- [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -1238,6 +1239,7 @@
 
 ## Kotlin 
 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
 - [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
