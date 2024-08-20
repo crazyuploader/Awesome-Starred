@@ -93,6 +93,7 @@
 
 ## C 
 
+- [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
 - [vergoh/vnstat](https://github.com/vergoh/vnstat) - vnStat - a network traffic monitor for Linux and BSD
@@ -395,6 +396,7 @@
 
 ## Go 
 
+- [vincejv/gpon-parser](https://github.com/vincejv/gpon-parser) - Parses and exports GPON Stats from ONT through Rest API (JSON format)
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
@@ -553,7 +555,7 @@
 - [volatiletech/authboss](https://github.com/volatiletech/authboss) - The boss of http auth.
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk, ipk, and arch linux packager written in Go
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
