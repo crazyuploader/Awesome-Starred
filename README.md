@@ -2216,6 +2216,7 @@
 
 ## TeX 
 
+- [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
 
