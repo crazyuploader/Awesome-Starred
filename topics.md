@@ -3892,6 +3892,7 @@
 
 ## others 
 
+- [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
 - [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML files
 - [system76/firmware-open](https://github.com/system76/firmware-open) - System76 Open Firmware
