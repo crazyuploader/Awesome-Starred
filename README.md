@@ -15,6 +15,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Common Lisp](#common-lisp)
 - [Crystal](#crystal)
 - [Cython](#cython)
 - [D](#d)
@@ -332,6 +333,10 @@
 
 - [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 
+## Common Lisp 
+
+- [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
 ## Crystal 
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
@@ -401,6 +406,7 @@
 
 ## Go 
 
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -535,7 +541,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your Self-hosted Comment System.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
-- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file 
+- [wabarc/wayback](https://github.com/wabarc/wayback) - An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegr
 - [mattn/anko](https://github.com/mattn/anko) - Scriptable interpreter written in golang
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
@@ -568,7 +574,7 @@
 - [magefile/mage](https://github.com/magefile/mage) - a Make/rake-like dev tool using Go
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [metrue/fx](https://github.com/metrue/fx) - A Function as a Service tool makes a function as a  container-based service in seconds.
-- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple yet powerful CI/CD engine with great extensibility.
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [werf/werf](https://github.com/werf/werf) - A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1395,6 +1401,7 @@
 
 ## Others 
 
+- [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [sirredbeard/awesome-wsl](https://github.com/sirredbeard/awesome-wsl) - Awesome list dedicated to Windows Subsystem for Linux
@@ -2233,6 +2240,7 @@
 
 ## TeX 
 
+- [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 - [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
