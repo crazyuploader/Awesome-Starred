@@ -4018,7 +4018,7 @@
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
-- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] An open-source, self-hosted cloud gaming platform that allows you to play games in your web browser, with friends.
+- [nestriness/nestri](https://github.com/nestriness/nestri) - [Experimental] An open-source, self-hosted Geforce Now alternative
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [rescuezilla/rescuezilla](https://github.com/rescuezilla/rescuezilla) - The Swiss Army Knife of System Recovery
 - [jumoog/intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
