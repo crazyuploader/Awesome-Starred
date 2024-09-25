@@ -166,6 +166,7 @@
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) - 
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [GuaiYiHu/android_kernel_xiaomi_whyred](https://github.com/GuaiYiHu/android_kernel_xiaomi_whyred) - 
@@ -238,6 +239,9 @@
 
 ## C++ 
 
+- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [keshavbhatt/ultimate-media-downloader-linux](https://github.com/keshavbhatt/ultimate-media-downloader-linux) - 
+- [Stremio/stremio-shell](https://github.com/Stremio/stremio-shell) - 🐚 Qt5-based shell for Stremio; compile this to run the desktop app
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [DDoSolitary/LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) - A full-featured utility for managing Windows Subsystem for Linux (WSL)
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -408,6 +412,8 @@
 
 ## Go 
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [rfjakob/cshatag](https://github.com/rfjakob/cshatag) - Detect silent data corruption under Linux using sha256 stored in extended attributes
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [WireGuard/wgctrl-go](https://github.com/WireGuard/wgctrl-go) - Package wgctrl enables control of WireGuard interfaces on multiple platforms.
 - [unidoc/unipdf](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files (pure go)
@@ -705,7 +711,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
@@ -1271,6 +1277,7 @@
 
 ## Kotlin 
 
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
 - [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...
@@ -1611,6 +1618,7 @@
 
 ## Python 
 
+- [arunsivaramanneo/GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
@@ -1999,6 +2007,7 @@
 
 ## Rust 
 
+- [pieterdd/RcloneShuttle](https://github.com/pieterdd/RcloneShuttle) - Upload your files to anywhere - GTK4 GUI for Rclone
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
@@ -2218,7 +2227,6 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [redgeoff/openvpn-server-vagrant](https://github.com/redgeoff/openvpn-server-vagrant) - Spin up an OpenVPN Server
-- [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) - 
 - [sobolevn/misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action) - 📝Automatically fixes typos and mistakes in your source code and docs!
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [magnific0/wondershaper](https://github.com/magnific0/wondershaper) - Command-line utility for limiting an adapter's bandwidth
