@@ -412,6 +412,7 @@
 
 ## Go 
 
+- [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [rfjakob/cshatag](https://github.com/rfjakob/cshatag) - Detect silent data corruption under Linux using sha256 stored in extended attributes
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -667,7 +668,7 @@
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [ahmetb/sheets-url-shortener](https://github.com/ahmetb/sheets-url-shortener) - A simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [getfider/fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
@@ -711,7 +712,7 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [caddyserver/certmagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
-- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [ameshkov/dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server
 - [tucnak/telebot](https://github.com/tucnak/telebot) - Telebot is a Telegram bot framework in Go.
 - [go-telegram-bot-api/telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Golang bindings for the Telegram Bot API
