@@ -484,7 +484,7 @@
 - [prometheus/pushgateway](https://github.com/prometheus/pushgateway) - Push acceptor for ephemeral and batch jobs.
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
@@ -507,7 +507,6 @@
 - [v2ray/v2ray-core](https://github.com/v2ray/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [perlin-network/noise](https://github.com/perlin-network/noise) - A decentralized P2P networking stack written in Go.
 - [tylertreat/comcast](https://github.com/tylertreat/comcast) - Simulating shitty network connections so you can build better systems.
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
 - [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics
@@ -1083,6 +1082,7 @@
 - [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator for Node.js
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [Gaafar/curl-worker](https://github.com/Gaafar/curl-worker) - 
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [iptv-org/database](https://github.com/iptv-org/database) - User editable database for TV channels.
 - [sirxemic/Interstellar](https://github.com/sirxemic/Interstellar) - Interactive simulation of a wormhole and a black hole similar to those shown in the movie Interstellar
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) - 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT
@@ -2013,7 +2013,7 @@
 - [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE cryptocurrency mining.
+- [regolith-labs/ore-cli](https://github.com/regolith-labs/ore-cli) - Command line interface for ORE miners.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [Stremio/stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
