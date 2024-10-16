@@ -1253,7 +1253,7 @@
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [cairoshell/cairoshell](https://github.com/cairoshell/cairoshell) - Cairo is a customizable, intuitive desktop environment for Windows.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## css 
 
@@ -1502,7 +1502,6 @@
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
 
 ## docker 
 
@@ -1690,7 +1689,7 @@
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [mono/mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 ## education 
 
@@ -1972,7 +1971,7 @@
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
@@ -2333,7 +2332,7 @@
 - [rebuy-de/aws-nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [caarlos0/starcharts](https://github.com/caarlos0/starcharts) - Plot your repository stars over time.
 - [mymmrac/telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Go
@@ -2427,7 +2426,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
 ## google-cloud 
@@ -2823,7 +2822,7 @@
 
 ## html5 
 
-- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - A web browser in the making. More info at https://gosub.io
+- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
 - [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio) - ⚡️ A minimal portfolio template for Developers
@@ -5073,7 +5072,6 @@
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
-- [heroku/python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
 - [fbchat-dev/fbchat](https://github.com/fbchat-dev/fbchat) - Facebook Chat (Messenger) for Python
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
@@ -5388,7 +5386,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
-- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - A web browser in the making. More info at https://gosub.io
+- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
@@ -6255,7 +6253,7 @@
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [SickChill/sickchill](https://github.com/SickChill/sickchill) - Less rage, more chill.
