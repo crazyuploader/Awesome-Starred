@@ -1625,6 +1625,7 @@
 
 ## Python 
 
+- [ashishb/adb-enhanced](https://github.com/ashishb/adb-enhanced) - 🔪Swiss-army knife for Android testing and development 🔪 ⛺
 - [arunsivaramanneo/GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
