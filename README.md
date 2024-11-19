@@ -1234,7 +1234,6 @@
 - [schnerd/chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots) - Using headless Chrome as an automated screenshot tool (alternative to PhantomJS)
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [JoeKarlsson/data-structures](https://github.com/JoeKarlsson/data-structures) - Common data structures and algorithms implemented in JavaScript
@@ -2478,6 +2477,7 @@
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [Daniel-Griffiths/9anime-scraper](https://github.com/Daniel-Griffiths/9anime-scraper) - A node cli tool for scraping and viewing episodes hosted on 9anime
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [bobvanderlinden/probot-auto-merge](https://github.com/bobvanderlinden/probot-auto-merge) - A GitHub App built with Probot that automatically merges pull requests
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
