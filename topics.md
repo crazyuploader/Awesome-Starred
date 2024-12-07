@@ -250,6 +250,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -272,9 +273,10 @@
 
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [explorerhq/sql-explorer](https://github.com/explorerhq/sql-explorer) - SQL reporting that Just Works. Fast, simple, and confusion-free. Write and share queries in a delightful SQL editor, with AI assistance.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [robocorp/rpaframework](https://github.com/robocorp/rpaframework) - Collection of open-source libraries and tools for Robotic Process Automation (RPA), designed to be used with both Robot Framework and Python
 - [Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Loki: Open-source solution designed to automate the process of verifying factuality
 - [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
@@ -297,7 +299,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 
 ## algorithm 
 
@@ -562,7 +564,7 @@
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -877,7 +879,7 @@
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
@@ -945,7 +947,7 @@
 
 ## chatbot 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
@@ -962,6 +964,7 @@
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 
 ## chatgpt 
@@ -970,10 +973,10 @@
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 (PyPi: autogen-agentchat)
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -993,7 +996,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
 
 ## chatgpt-api 
 
@@ -1098,6 +1100,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -1115,6 +1118,7 @@
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered shell. Full-featured and cross-platform.
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
@@ -1186,7 +1190,7 @@
 
 ## computer-vision 
 
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon) - 人像卡通化探索项目 (photo-to-cartoon translation project)
 
 ## config 
@@ -1460,7 +1464,7 @@
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) - A flexible commandline tool for template rendering. Supports lots of local and remote datasources.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
@@ -1528,6 +1532,7 @@
 
 ## docker 
 
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -1923,7 +1928,6 @@
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
 - [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -2025,7 +2029,7 @@
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -2154,7 +2158,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [OJ/gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+- [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [zyedidia/eget](https://github.com/zyedidia/eget) - Easily install prebuilt binaries from GitHub.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
@@ -2201,7 +2205,6 @@
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -2410,7 +2413,7 @@
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
@@ -2843,6 +2846,7 @@
 ## html-css-javascript 
 
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 
 ## html5 
 
@@ -3139,6 +3143,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [unrolled/render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, binary data, and HTML templates responses.
@@ -3154,7 +3159,7 @@
 
 ## kotlin 
 
-- [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play (Podcast). MVI arch, Material You style. ⭐️ Star to support!
+- [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
@@ -3460,7 +3465,7 @@
 ## llm 
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
@@ -3487,7 +3492,6 @@
 - [cortezaproject/corteza](https://github.com/cortezaproject/corteza) - Low-code platform
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
 
 ## lua 
 
@@ -3516,7 +3520,7 @@
 
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - rewind.ai x cursor.com = your AI assistant that has all the context. 24/7 screen & voice recording for the age of super intelligence. get your data ready or be left behind
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - one API to get all user desktop data  (local, cross platform, 24/7, screen, voice, keyboard, mouse, camera recording). sandboxed js plugin system. keyboard and mouse control
 - [devfinwiz/Fin-Maestro-Web](https://github.com/devfinwiz/Fin-Maestro-Web) - Find your trading, investing edge using the most advanced web app for technical and fundamental research combined with real time sentiment analysis.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -3529,7 +3533,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based lossless video super resolution framework. Est. Hack the Valley II, 2018.
+- [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
 - [FMInference/FlexLLMGen](https://github.com/FMInference/FlexLLMGen) - Running large language models on a single GPU for throughput-oriented scenarios.
@@ -3653,7 +3657,7 @@
 
 ## material-design 
 
-- [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android app for RSS, BitTorrent dl & play (Podcast). MVI arch, Material You style. ⭐️ Star to support!
+- [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
 - [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
@@ -4092,7 +4096,7 @@
 - [iptraf-ng/iptraf-ng](https://github.com/iptraf-ng/iptraf-ng) - IPTraf-ng is a console-based network monitoring program for Linux that displays information about IP traffic.
 - [jam-systems/jam](https://github.com/jam-systems/jam) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities
 - [joshuaboniface/rffmpeg](https://github.com/joshuaboniface/rffmpeg) - rffmpeg: remote SSH FFmpeg wrapper tool
-- [imjyotiraditya/fluidac-releases](https://github.com/imjyotiraditya/fluidac-releases) - 
+- [imjyotiraditya/Echoir](https://github.com/imjyotiraditya/Echoir) - 
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
@@ -4201,7 +4205,6 @@
 - [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [rmountjoy92/DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features.
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [asdcorp/ohook](https://github.com/asdcorp/ohook) - An universal Office "activation" hook with main focus of enabling full functionality of subscription editions
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
@@ -4235,7 +4238,6 @@
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [d3ward/toolz](https://github.com/d3ward/toolz) - Easy-to-use interface and extensive collection of testing tools for optimizing performance and user experience.
 - [shellinabox/shellinabox](https://github.com/shellinabox/shellinabox) - Official-ish Fork of Shell In A Box
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
@@ -4373,7 +4375,6 @@
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
-- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [bmatzelle/gow](https://github.com/bmatzelle/gow) - Unix command line utilities installer for Windows.
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [pkolaczk/fclones](https://github.com/pkolaczk/fclones) - Efficient Duplicate File Finder
@@ -4496,7 +4497,6 @@
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [DyonR/docker-qbittorrentvpn](https://github.com/DyonR/docker-qbittorrentvpn) - Docker container which runs a qBittorent-nox client with an optional WireGuard or OpenVPN connection
 - [sebgl/htpc-download-box](https://github.com/sebgl/htpc-download-box) - Sonarr / Radarr / Jackett / NZBGet / Deluge / OpenVPN / Plex
-- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [linux-nvme/nvme-cli](https://github.com/linux-nvme/nvme-cli) - NVMe management command line interface.
 - [rundeck/welcome-project-community](https://github.com/rundeck/welcome-project-community) - 
@@ -4545,7 +4545,6 @@
 - [wtsxDev/Raspberry-Pi](https://github.com/wtsxDev/Raspberry-Pi) - Raspberry Pi A to Z List
 - [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
 - [sileht/bird-lg](https://github.com/sileht/bird-lg) - bird looking glass
 - [kwsou/video2x](https://github.com/kwsou/video2x) - Video upscaler using popular upscaling algorithm waifu2x to magnify and denoise artifacts from low resolution videos
 - [liaoxiong3x/DeepCreamPy](https://github.com/liaoxiong3x/DeepCreamPy) - 
@@ -4987,6 +4986,7 @@
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [borgbackup/borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [MiguelNdeCarvalho/speedtest-exporter](https://github.com/MiguelNdeCarvalho/speedtest-exporter) - Speedtest Exporter made in python using the official speedtest bin
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -5402,6 +5402,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -5595,6 +5596,7 @@
 
 ## self-hosted 
 
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - Mirror of vikunja from https://code.vikunja.io/api
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
@@ -5657,7 +5659,6 @@
 - [r7wx/easy-gate](https://github.com/r7wx/easy-gate) - A gate to your self hosted infrastructure
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
@@ -5699,7 +5700,7 @@
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [Rongronggg9/rsstt-img-relay](https://github.com/Rongronggg9/rsstt-img-relay) - Media (image, video, etc) relay on Cloudflare Workers/Pages, used by https://github.com/Rongronggg9/RSS-to-Telegram-Bot
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [Gaafar/curl-worker](https://github.com/Gaafar/curl-worker) - 
@@ -5892,7 +5893,7 @@
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc)
 - [AnimeKaizoku/EnterpriseALRobot](https://github.com/AnimeKaizoku/EnterpriseALRobot) - An anime themed telegram group management bot
@@ -6119,7 +6120,7 @@
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [arakasi72/rtinst](https://github.com/arakasi72/rtinst) - seedbox installation script for Ubuntu and Debian systems
-- [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4). Community developed and maintained.
+- [nextcloud/vm](https://github.com/nextcloud/vm) - 💻☁📦 The Nextcloud VM (virtual machine appliance), Home/SME Server and scripts for RPi (4-5). Community developed and maintained.
 - [rastasheep/ubuntu-sshd](https://github.com/rastasheep/ubuntu-sshd) - Dockerized Ubuntu SSH service
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [chaifeng/ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables
@@ -6150,6 +6151,37 @@
 - [mikeroyal/Windows-11-Guide](https://github.com/mikeroyal/Windows-11-Guide) - Windows 10/11 Guide. Including Windows Security tools, Encryption, Nextcloud, Graphics, Gaming, Virtualization, Windows Subsystem for Linux (WSL 2), Software Apps, and Resources.
 - [microsoft/Git-Credential-Manager-for-Windows](https://github.com/microsoft/Git-Credential-Manager-for-Windows) - Secure Git credential storage for Windows with support for Visual Studio Team Services, GitHub, and Bitbucket multi-factor authentication.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+## vpn 
+
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+- [cedrickchee/awesome-wireguard](https://github.com/cedrickchee/awesome-wireguard) - A curated list of WireGuard tools, projects, and resources.
+- [geph-official/geph4-client](https://github.com/geph-official/geph4-client) - Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
+- [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
+- [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+- [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
+- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+- [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
+- [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
+- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
+- [binhex/arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker build script for Arch Linux base with Deluge, Privoxy and OpenVPN
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
+- [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.
+- [gayanvoice/android-vpn-client-ics-openvpn](https://github.com/gayanvoice/android-vpn-client-ics-openvpn) - ⭐ Create your Android VPN App by using Android Studio and publish to Google Play Store 🤖
 
 ## vue 
 
@@ -6238,6 +6270,7 @@
 - [Yooooomi/your_spotify](https://github.com/Yooooomi/your_spotify) - Self hosted Spotify tracking dashboard
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [h2oai/wave](https://github.com/h2oai/wave) - Realtime Web Apps and Dashboards for Python and R
@@ -6253,6 +6286,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically with the leading open source alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visual
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 ## windows 
@@ -6288,7 +6322,7 @@
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
 - [hirschmann/nbfc](https://github.com/hirschmann/nbfc) - NoteBook FanControl
-- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11(23H2) using open-source wallpaper engine
+- [SegoCode/AutoWall](https://github.com/SegoCode/AutoWall) - 🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine
 - [t1m0thyj/WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - Port of macOS Mojave Dynamic Desktop feature to Windows
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
