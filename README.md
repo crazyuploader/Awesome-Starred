@@ -94,6 +94,7 @@
 
 ## C 
 
+- [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [iptraf-ng/iptraf-ng](https://github.com/iptraf-ng/iptraf-ng) - IPTraf-ng is a console-based network monitoring program for Linux that displays information about IP traffic.
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -120,7 +121,6 @@
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [pobrn/mktorrent](https://github.com/pobrn/mktorrent) - A simple command line utility to create BitTorrent metainfo files
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
-- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [gluster/glusterfs](https://github.com/gluster/glusterfs) - Gluster Filesystem : Build your distributed storage in minutes
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
@@ -276,6 +276,7 @@
 - [mrpond/BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner adblock/skip for Spotify
 - [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin) - Pangolin is a lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+- [mcmilk/7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [ceph/ceph](https://github.com/ceph/ceph) - Ceph is a distributed object, block, and file storage platform
@@ -371,7 +372,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
@@ -422,6 +423,9 @@
 
 ## Go 
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
+- [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
+- [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [89luca89/lilipod](https://github.com/89luca89/lilipod) - Lilipod is a simple container manager, able to download, unpack and use OCI images from various container registries.
 - [hacdias/webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
@@ -723,7 +727,7 @@
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - A cloud-native vector database, storage for next generation AI applications
+- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database designed to scale.
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -1307,7 +1311,7 @@
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
-- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：聚合数据源与弹幕，Bangumi 追番进度管理，BitTorrent，缓存... 100% Compose Multiplatform
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [keepalivedev/KeepAlive](https://github.com/keepalivedev/KeepAlive) - Android app to notify others if you haven't used your device in a given period of time.
@@ -1577,6 +1581,9 @@
 
 ## PHP 
 
+- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
+- [gmazoyer/looking-glass](https://github.com/gmazoyer/looking-glass) - Easy to deploy Looking Glass
+- [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [xiaomlove/nexusphp](https://github.com/xiaomlove/nexusphp) - A private tracker application base on NexusPHP
@@ -1886,7 +1893,7 @@
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Platform for building AI that can learn and answer questions over federated data.
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
-- [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal for any error
+- [shobrook/rebound](https://github.com/shobrook/rebound) - Get Stack Overflow results in your terminal whenever an error is thrown
 - [Syncplay/syncplay](https://github.com/Syncplay/syncplay) - Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
@@ -1966,7 +1973,6 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - A Python library for the Hetzner Cloud API
 - [ohbarye/markdown-server](https://github.com/ohbarye/markdown-server) - Simple markdown server written in Python. It converts your markdown file to HTML and returns a response as text/html.
-- [spipm/Depix](https://github.com/spipm/Depix) - Recovers passwords from pixelized screenshots
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [ValentinBELYN/icmplib](https://github.com/ValentinBELYN/icmplib) - Easily forge ICMP packets and make your own ping and traceroute.
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
@@ -2316,9 +2322,10 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything!
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -2468,7 +2475,7 @@
 - [arunbandari/mongo-gui](https://github.com/arunbandari/mongo-gui) - A web-based MongoDB graphical user interface
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -2535,6 +2542,7 @@
 
 ## Vue 
 
+- [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 - [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
