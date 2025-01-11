@@ -71,6 +71,7 @@
 - [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
+- [XSLT](#xslt)
 - [Zig](#zig)
 
 ## Adblock Filter List 
@@ -185,6 +186,7 @@
 
 ## C# # 
 
+- [recyclarr/recyclarr](https://github.com/recyclarr/recyclarr) - Automatically sync TRaSH Guides to your Sonarr and Radarr instances
 - [jesseward/jellyfin-plugin-lastfm](https://github.com/jesseward/jellyfin-plugin-lastfm) - LastFM plugin for the Jellyfin media system. Fork of the Emby Last.FM plug-in
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
@@ -378,7 +380,7 @@
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End to End Encrypted alternative to Google Photos and Apple Photos
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
@@ -429,6 +431,7 @@
 
 ## Go 
 
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [msoap/shell2http](https://github.com/msoap/shell2http) - Executing shell commands via HTTP server
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
@@ -437,7 +440,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
@@ -474,7 +477,7 @@
 - [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 - [prometheus/statsd_exporter](https://github.com/prometheus/statsd_exporter) - StatsD to Prometheus metrics exporter
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
-- [nginxinc/nginx-prometheus-exporter](https://github.com/nginxinc/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus
+- [nginx/nginx-prometheus-exporter](https://github.com/nginx/nginx-prometheus-exporter) - NGINX Prometheus Exporter for NGINX and NGINX Plus
 - [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
 - [ooni/probe-cli](https://github.com/ooni/probe-cli) - OONI Probe Engine and CLI
@@ -1053,6 +1056,7 @@
 
 ## JavaScript 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [steniowagner/mindCast](https://github.com/steniowagner/mindCast) - A React-Native streaming-audio app that provides knowledge in the shape of Podcasts.
 - [jam-systems/jam](https://github.com/jam-systems/jam) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities
@@ -1088,7 +1092,7 @@
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [IrosTheBeggar/mStream](https://github.com/IrosTheBeggar/mStream) - The easiest music streaming server available
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - 🖧🔍 WIFI / LAN intruder detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -1203,6 +1207,7 @@
 - [aluzzardi/wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
@@ -1218,7 +1223,7 @@
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [liununu/liununu](https://github.com/liununu/liununu) - 
 - [chrisknepper/android-messages-desktop](https://github.com/chrisknepper/android-messages-desktop) - Android Messages as a Cross-platform Desktop App
-- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and express
+- [mongo-express/mongo-express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with Node.js and Express
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [webtorrent/instant.io](https://github.com/webtorrent/instant.io) - 🚀 Streaming file transfer over WebTorrent (torrents on the web)
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
@@ -1298,7 +1303,6 @@
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [quantopian/pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [Pierian-Data/Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) - Course Files for Complete Python 3 Bootcamp Course on Udemy
 - [akuhnet/Colab-SSH](https://github.com/akuhnet/Colab-SSH) - Colab SSH
@@ -1312,12 +1316,14 @@
 
 ## Kotlin 
 
+- [axiel7/MoeList](https://github.com/axiel7/MoeList) - Another unofficial Android MAL client
+- [axiel7/AniHyou-android](https://github.com/axiel7/AniHyou-android) - Another unofficial Android AniList client
 - [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 - [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) - A Download Manager that speeds up your downloads
 - [DennisBauer/RecurringExpenseTracker](https://github.com/DennisBauer/RecurringExpenseTracker) - A Material You recurring expense tracker, allowing you to keep track of your monthly spending.
-- [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：聚合数据源与弹幕，Bangumi 追番进度管理，BitTorrent，缓存... 100% Compose Multiplatform
+- [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，Bangumi 索引，在线 + BitTorrent，弹幕云过滤，100% Kotlin/Compose Multiplatform
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [NeoApplications/Neo-Backup](https://github.com/NeoApplications/Neo-Backup) - backup manager for android
 - [keepalivedev/KeepAlive](https://github.com/keepalivedev/KeepAlive) - Android app to notify others if you haven't used your device in a given period of time.
@@ -1356,7 +1362,7 @@
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 - [SebaUbuntu/Athena](https://github.com/SebaUbuntu/Athena) - Open source Material You Android device info app
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
@@ -1403,6 +1409,7 @@
 
 ## Lua 
 
+- [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
@@ -1661,6 +1668,8 @@
 
 ## Python 
 
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
@@ -1744,6 +1753,7 @@
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
@@ -2060,6 +2070,7 @@
 
 ## Rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
@@ -2327,6 +2338,7 @@
 
 ## TypeScript 
 
+- [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything!
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
@@ -2334,7 +2346,7 @@
 - [deepstreamIO/deepstream.io](https://github.com/deepstreamIO/deepstream.io) - deepstream.io server
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - build ai agents that have the full context, open source, runs locally, developer friendly. 24/7 screen, mic, keyboard recording and control
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - library & platform to build, distribute, monetize ai apps that have the full context (like rewind, granola, etc.), open source, 100% local, developer friendly. 24/7 screen, mic, keyboard recording and
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
@@ -2481,7 +2493,6 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
@@ -2567,6 +2578,10 @@
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+
+## XSLT 
+
+- [Anime-Lists/anime-lists](https://github.com/Anime-Lists/anime-lists) - 
 
 ## Zig 
 
