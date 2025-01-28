@@ -100,6 +100,7 @@
 
 ## C 
 
+- [performancecopilot/pcp](https://github.com/performancecopilot/pcp) - Performance Co-Pilot
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [iptraf-ng/iptraf-ng](https://github.com/iptraf-ng/iptraf-ng) - IPTraf-ng is a console-based network monitoring program for Linux that displays information about IP traffic.
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
@@ -270,7 +271,7 @@
 - [filecxx/FileCentipede](https://github.com/filecxx/FileCentipede) - Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos.  WebDAV client, FTP client, SSH client.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex) - Money Manager Ex is an easy to use, money management application built with wxWidgets
-- [minetest/minetest](https://github.com/minetest/minetest) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [KDE/kdeconnect-kde](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate
 - [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
@@ -434,6 +435,7 @@
 
 ## Go 
 
+- [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) - Bare metal to production ready in mins; your own fly server on your VPS.
 - [failsafe-go/failsafe-go](https://github.com/failsafe-go/failsafe-go) - Fault tolerance and resilience patterns for Go
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
@@ -445,7 +447,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
@@ -979,6 +981,7 @@
 
 ## Java 
 
+- [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [Dev4Mod/WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
@@ -1063,6 +1066,7 @@
 
 ## JavaScript 
 
+- [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [nginxinc/nginx-s3-gateway](https://github.com/nginxinc/nginx-s3-gateway) - NGINX S3 Gateway
 - [virtualzone/docker-container-stats](https://github.com/virtualzone/docker-container-stats) - Monitor your docker containers with this web interface.
@@ -1424,7 +1428,7 @@
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
-- [minetest/minetest_game](https://github.com/minetest/minetest_game) - Minetest Game -  A lightweight and well-maintained base for modding [https://github.com/minetest/minetest/]
+- [luanti-org/minetest_game](https://github.com/luanti-org/minetest_game) - Minetest Game -  A lightweight and well-maintained base for Luanti, intended for modding
 - [knyar/nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus) - Prometheus metric library for Nginx written in Lua
 
 ## MDX 
@@ -1472,6 +1476,7 @@
 
 ## Others 
 
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [Fribb/anime-lists](https://github.com/Fribb/anime-lists) - Anime-Mapping Project
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
@@ -1681,6 +1686,8 @@
 
 ## Python 
 
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+- [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [Ne00n/Looking-Glass](https://github.com/Ne00n/Looking-Glass) - 
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
@@ -2085,6 +2092,8 @@
 
 ## Rust 
 
+- [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
@@ -2126,7 +2135,7 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
@@ -2207,7 +2216,8 @@
 
 ## Shell 
 
-- [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu (.deb) packages for Ghostty
+- [ttionya/vaultwarden-backup](https://github.com/ttionya/vaultwarden-backup) - Backup vaultwarden (formerly known as bitwarden_rs) SQLite3/PostgreSQL/MySQL/MariaDB database by rclone. (Docker)
+- [mkasberg/ghostty-ubuntu](https://github.com/mkasberg/ghostty-ubuntu) - Ubuntu/Debian (.deb) packages for Ghostty
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
@@ -2355,6 +2365,7 @@
 
 ## TypeScript 
 
+- [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [hoarder-app/hoarder](https://github.com/hoarder-app/hoarder) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [wotakumoe/wotaku](https://github.com/wotakumoe/wotaku) - An otaku index for everything!
@@ -2602,6 +2613,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
