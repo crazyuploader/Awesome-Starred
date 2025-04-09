@@ -451,7 +451,7 @@
 
 - [vishvananda/netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [JioTV-Go/jiotv_go](https://github.com/JioTV-Go/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App. Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
-- [Madh93/hoarderbot](https://github.com/Madh93/hoarderbot) - 🔖 Telegram Bot for saving bookmarks to Hoarder
+- [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [Equationzhao/g](https://github.com/Equationzhao/g) - powerful and cross-platform ls 🌈
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
@@ -1105,7 +1105,7 @@
 - [jam-systems/jam](https://github.com/jam-systems/jam) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities
 - [GetStream/Winds](https://github.com/GetStream/Winds) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io
 - [akhilrex/podgrab](https://github.com/akhilrex/podgrab) - A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [codeskyblue/gohttpserver](https://github.com/codeskyblue/gohttpserver) - The best HTTP Static File Server, write with golang+vue
 - [tchx84/Flatseal](https://github.com/tchx84/Flatseal) - Manage Flatpak permissions
@@ -2129,6 +2129,7 @@
 
 ## Rust 
 
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
