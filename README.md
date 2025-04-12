@@ -467,7 +467,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
@@ -1097,7 +1097,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [nginx/nginx-s3-gateway](https://github.com/nginx/nginx-s3-gateway) - NGINX S3 Gateway
 - [virtualzone/docker-container-stats](https://github.com/virtualzone/docker-container-stats) - Monitor your docker containers with this web interface.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Framework-agnostic.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Open source & free.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
@@ -1143,7 +1143,6 @@
 - [mnutt/rotary](https://github.com/mnutt/rotary) - Adventures with rotary phones and asterisk
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [CodingTrain/Directional-Boring](https://github.com/CodingTrain/Directional-Boring) - Horizontal Directional Drilling Simulation
-- [saifshaikh1805/tata-sky-m3u](https://github.com/saifshaikh1805/tata-sky-m3u) - A react web app to generate an m3u playlist of the channels subscribed on Tata Sky.
 - [gravesoft/msdl](https://github.com/gravesoft/msdl) - Microsoft Software Download Listing
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -1717,7 +1716,7 @@
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Control GenAI interactions with power, precision, and consistency using LLM-native Conversation Design paradigms
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Control GenAI interactions with power, precision, and consistency using Conversation Modeling paradigms
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [RJNY/Obtainium-Emulation-Pack](https://github.com/RJNY/Obtainium-Emulation-Pack) - An Obtainium import file containing an Android emulation pack
 - [marketcalls/openalgo](https://github.com/marketcalls/openalgo) - Open Source Algo Trading Platform for Everyone
@@ -1732,7 +1731,6 @@
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
-- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [mylar3/mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -2135,6 +2133,7 @@
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
