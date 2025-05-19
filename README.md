@@ -45,6 +45,7 @@
 - [Markdown](#markdown)
 - [NSIS](#nsis)
 - [Nim](#nim)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -456,6 +457,8 @@
 
 ## Go 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [golang-basics/concurrency](https://github.com/golang-basics/concurrency) - Concurrency  in Go video course with in depth explanations & examples
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
@@ -539,7 +542,7 @@
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
@@ -1508,6 +1511,10 @@
 
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
+## Nix 
+
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+
 ## OCaml 
 
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
@@ -1652,7 +1659,7 @@
 ## PHP 
 
 - [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) - 🚀 TS-JioTV ReBorn with ⏰ 7-Days CatchUp
-- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, simple and fresh looking glass based on Bootstrap 5 and PHP 8.
+- [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [gmazoyer/looking-glass](https://github.com/gmazoyer/looking-glass) - Easy to deploy Looking Glass
 - [ankitpokhrel/tus-php](https://github.com/ankitpokhrel/tus-php) - 🚀 A pure PHP server and client for the tus resumable upload protocol v1.0.0
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -1729,6 +1736,10 @@
 
 ## Python 
 
+- [Five-Nines-io/fivenines_agent](https://github.com/Five-Nines-io/fivenines_agent) - Python agent for the fivenines.io API
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
+- [ByteTrix/Media-Player-Scrobbler-for-Simkl](https://github.com/ByteTrix/Media-Player-Scrobbler-for-Simkl) - A cross-platform application that automatically tracks media playback from your media player and synchronizes your progress with your SIMKL account.
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [soranoo/TradingView-Free-Webhook-Alerts](https://github.com/soranoo/TradingView-Free-Webhook-Alerts) - Free TradingView webhook alert for basic plan users.
 - [dhan-oss/DhanHQ-py](https://github.com/dhan-oss/DhanHQ-py) - The official Python client for communicating with the Dhan API.
@@ -1756,7 +1767,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
 - [Ne00n/Looking-Glass](https://github.com/Ne00n/Looking-Glass) - 
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
-- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [mylar3/mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
@@ -2234,7 +2245,6 @@
 - [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile
 - [emmett-framework/granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
@@ -2408,7 +2418,7 @@
 
 ## Svelte 
 
-- [ofkm/arcane](https://github.com/ofkm/arcane) - Simple and Elegant Docker Management UI written in Typescript and SvelteKit
+- [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [deta/formate](https://github.com/deta/formate) - Build forms in minutes
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
@@ -2617,7 +2627,7 @@
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -2644,7 +2654,7 @@
 - [bobvanderlinden/probot-auto-merge](https://github.com/bobvanderlinden/probot-auto-merge) - A GitHub App built with Probot that automatically merges pull requests
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [APKLab/APKLab](https://github.com/APKLab/APKLab) - Android Reverse-Engineering Workbench for VS Code
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -2695,7 +2705,7 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
-- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an Open Source self-hostable Pastebin.
+- [interaapps/pastefy](https://github.com/interaapps/pastefy) - Pastefy is an feature-rich Open Source self-hostable Pastebin.
 - [vuejs/docs](https://github.com/vuejs/docs) - 📄 Documentation for Vue 3
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
