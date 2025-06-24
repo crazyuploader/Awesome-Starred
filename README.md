@@ -1709,7 +1709,7 @@
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
 - [wp-cli/wp-cli](https://github.com/wp-cli/wp-cli) - ⚙️ WP-CLI framework
-- [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built with Laravel, Livewire and AlpineJS.
+- [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [RaspAP/raspap-webgui](https://github.com/RaspAP/raspap-webgui) - The easiest, full-featured wireless router setup for Debian-based devices. Period.
@@ -1756,6 +1756,8 @@
 
 ## Python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
+- [biolds/sosse](https://github.com/biolds/sosse) - Selenium Open Source Search Engine & crawler
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
 - [apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 - [mhdzumair/MediaFusion](https://github.com/mhdzumair/MediaFusion) - Universal  Add-On for Stremio & Kodi
@@ -2481,6 +2483,9 @@
 
 ## TypeScript 
 
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
+- [xMartin/grouptabs](https://github.com/xMartin/grouptabs) - Mobile Web App to organize payments in dynamic groups of people.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) - 🌈 Dynamic Coloful Image Render
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
@@ -2591,7 +2596,7 @@
 - [museofficial/muse](https://github.com/museofficial/muse) - 🎧 a self-hosted midwestern Discord music bot that doesn't suck
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
+- [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
