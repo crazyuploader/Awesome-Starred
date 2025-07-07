@@ -259,7 +259,7 @@
 
 ## C++ 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for running AI locally on mobile devices and wearables. Hardware-aware C/C++ backend with wrappers for Flutter & React Native. Kotlin & Swift coming soon.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - A cross-platform framework for deploying LLMs, VLMs, Embedding Models, TTS models and more locally on smartphones.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
@@ -415,6 +415,7 @@
 
 ## Dockerfile 
 
+- [torshin5ergey/github-actions-docker-runner](https://github.com/torshin5ergey/github-actions-docker-runner) - A Dockerized self-hosted GitHub Actions runner based on a Linux image with x64 architecture.
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [akamai/akamai-docker](https://github.com/akamai/akamai-docker) - Dockerfile for official Akamai's DevOps environment containing CLI packages and useful tools
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
@@ -459,6 +460,10 @@
 
 ## Go 
 
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+- [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [Diniboy1123/usque](https://github.com/Diniboy1123/usque) - Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
@@ -977,6 +982,7 @@
 ## HTML 
 
 - [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
+- [marketcalls/OpenTerminal](https://github.com/marketcalls/OpenTerminal) - OpenSource - Trading Terminal for Indian Traders
 - [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML files
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [elfhosted/docs.elfhosted.com](https://github.com/elfhosted/docs.elfhosted.com) - The magic behind https://elfhosted.com
@@ -1129,6 +1135,7 @@
 
 ## JavaScript 
 
+- [marketcalls/historify](https://github.com/marketcalls/historify) - OpenAlgo Full Stack Historical Data Management App
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 - [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 - [dpak-maurya/irctc-tatkal-ticket-booking](https://github.com/dpak-maurya/irctc-tatkal-ticket-booking) - IRCTC ticket booking
@@ -1460,7 +1467,7 @@
 - [MuntashirAkon/Metro](https://github.com/MuntashirAkon/Metro) - 
 - [Chooloo/koler](https://github.com/Chooloo/koler) - Just a phone app.
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
-- [qBitController/qBitController](https://github.com/qBitController/qBitController) - Control qBittorrent from any device
+- [Bartuzen/qBitController](https://github.com/Bartuzen/qBitController) - Control qBittorrent from any device
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 - [UweTrottmann/SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) - Track your favorite TV shows and movies on Android devices.
 - [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
@@ -1548,6 +1555,7 @@
 
 ## Others 
 
+- [plausible/community-edition](https://github.com/plausible/community-edition) - Example Docker Compose setup for hosting Plausible Community Edition
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 - [priyankavergadia/google-cloud-4-words](https://github.com/priyankavergadia/google-cloud-4-words) - The Google Cloud Developer's Cheat Sheet
 - [kennethleungty/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kennethleungty/AWS-Certified-Cloud-Practitioner-Notes) - Notes compiled based on AWS E-Learning lessons and transcripts
@@ -1687,6 +1695,7 @@
 
 ## PHP 
 
+- [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) - 🚀 TS-JioTV ReBorn with ⏰ 7-Days CatchUp
 - [hybula/lookingglass](https://github.com/hybula/lookingglass) - Modern, super simple and fresh looking glass based on Bootstrap 5 and PHP 8.
 - [gmazoyer/looking-glass](https://github.com/gmazoyer/looking-glass) - Easy to deploy Looking Glass
@@ -1789,11 +1798,10 @@
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [JurajNyiri/HomeAssistant-Tapo-Control](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) - Control for Tapo cameras as a Home Assistant component
 - [python-validators/validators](https://github.com/python-validators/validators) - Python Data Validation for Humans™.
-- [marketcalls/OpenTerminal](https://github.com/marketcalls/OpenTerminal) - OpenSource - Trading Terminal for Indian Traders
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The open-source backbone for LLM agents that stay under control as you scale their complexity.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [RJNY/Obtainium-Emulation-Pack](https://github.com/RJNY/Obtainium-Emulation-Pack) - An Obtainium import file containing an Android emulation pack
@@ -2191,6 +2199,8 @@
 
 ## Ruby 
 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
+- [contraptionco/postcard](https://github.com/contraptionco/postcard) - Personal website + newsletter as an alternative to social media.
 - [prawnpdf/prawn](https://github.com/prawnpdf/prawn) - Fast, Nimble PDF Writer for Ruby
 - [wpscanteam/wpscan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com
 - [sprotheroe/vagrant-disksize](https://github.com/sprotheroe/vagrant-disksize) - Vagrant plugin to resize disks in VirtualBox
@@ -2208,6 +2218,8 @@
 
 ## Rust 
 
+- [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+- [rust-scraper/scraper](https://github.com/rust-scraper/scraper) - HTML parsing and querying with CSS selectors
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) - Displays the content you're currently watching on Discord!
@@ -2493,6 +2505,9 @@
 
 ## TypeScript 
 
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
+- [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+- [microsoft/vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -2511,14 +2526,14 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [solana-foundation/explorer](https://github.com/solana-foundation/explorer) - Explorer for Solana clusters
-- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - AIOStreams consolidates multiple Stremio addons and debrid services into a single, easily configurable addon. It allows highly customisable filtering, sorting, and formatting of results and supports p
+- [Viren070/AIOStreams](https://github.com/Viren070/AIOStreams) - One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon.
 - [debridmediamanager/debrid-media-manager](https://github.com/debridmediamanager/debrid-media-manager) - Curate an inifinite media library
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message searc
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge managemen
 - [DanSnow/hoarder-pipette](https://github.com/DanSnow/hoarder-pipette) - An extension that inject your bookmarks from your Hoarder app into your search results
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source alternative to Google Meet and Zoom powered by LiveKit: HD video calls, screen sharing, and chat features. Built with Django and React.
+- [suitenumerique/meet](https://github.com/suitenumerique/meet) - Open source HD video calls, screen sharing, and chat features powered by LiveKit. Built with Django and React.
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [LNReader/lnreader](https://github.com/LNReader/lnreader) - Light novel reader for Android.
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -2579,7 +2594,7 @@
 - [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [trakt-tools/universal-trakt-scrobbler](https://github.com/trakt-tools/universal-trakt-scrobbler) - 
