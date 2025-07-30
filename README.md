@@ -103,6 +103,7 @@
 
 ## C 
 
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [amkillam/ryzen_smu](https://github.com/amkillam/ryzen_smu) - A fork of the now-unmaintained https://gitlab.com/leogx9r/ryzen_smu with merge requests and my own updates applied.
@@ -263,6 +264,7 @@
 
 ## C++ 
 
+- [danihek/hellwal](https://github.com/danihek/hellwal) - Pywal-like color palette generator, but faster and in C
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [TigerVNC/tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
@@ -542,7 +544,7 @@
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
-- [vincejv/gpon-parser](https://github.com/vincejv/gpon-parser) - Parses and exports GPON Stats from ONT and exports them in JSON format
+- [vincejv/gpon-stats-exporter](https://github.com/vincejv/gpon-stats-exporter) - Parses and exports GPON Stats from ONT and exports them in JSON format
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The to-do app to organize your life.
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Dependency Management tool
