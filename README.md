@@ -107,6 +107,7 @@
 
 ## C 
 
+- [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom) - earlyoom - Early OOM Daemon for Linux
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -204,6 +205,7 @@
 
 ## C# # 
 
+- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [ryandash/jellyfin-plugin-myanimelist](https://github.com/ryandash/jellyfin-plugin-myanimelist) - This plugin adds a metadata provider for MyAnimeList anime
 - [RomainPierre7/jellyfin-plugin-TelegramNotifier](https://github.com/RomainPierre7/jellyfin-plugin-TelegramNotifier) - Jellyfin media server plugin to easily send notifications on Telegram!
 - [ShokoAnime/Shokofin](https://github.com/ShokoAnime/Shokofin) - Repository for Shokofin, a plugin that brings Shoko to Jellyfin.
@@ -272,6 +274,8 @@
 
 ## C++ 
 
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+- [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
@@ -367,7 +371,6 @@
 
 ## CSS 
 
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link, Mega-Debrid & DeepBird
 - [kristuff/apache-fancy-pages](https://github.com/kristuff/apache-fancy-pages) - 🖌️ Modern drop in replacement for default Apache index/error pages.
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
@@ -482,6 +485,9 @@
 
 ## Go 
 
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - The only Kubernetes dashboard you need
+- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -541,7 +547,7 @@
 - [NVIDIA/dcgm-exporter](https://github.com/NVIDIA/dcgm-exporter) - NVIDIA GPU metrics exporter for Prometheus leveraging DCGM
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - Notification library for Watchtower.
+- [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - A notification library for gophers and their furry friends.
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli) - A simple CLI tool to run networking commands remotely from hundreds of globally distributed servers
 - [zachlatta/sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
@@ -1048,6 +1054,7 @@
 
 - [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
 - [marketcalls/OpenTerminal](https://github.com/marketcalls/OpenTerminal) - OpenSource - Trading Terminal for Indian Traders
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML files
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [elfhosted/docs.elfhosted.com](https://github.com/elfhosted/docs.elfhosted.com) - The magic behind https://elfhosted.com
@@ -1137,7 +1144,7 @@
 - [itsdrnoob/DataMonitor](https://github.com/itsdrnoob/DataMonitor) - Data usage monitoring app for android.
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 - [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck) - Android app by TrianguloY: URLCheck
-- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
+- [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [ukanth/afwall](https://github.com/ukanth/afwall) - AFWall+ (Android Firewall +) - iptables based firewall for Android
 - [devgianlu/Aria2App](https://github.com/devgianlu/Aria2App) - Aria2App is an advanced download manager based on aria2 that can handle remote servers too.
@@ -1203,10 +1210,14 @@
 
 ## JavaScript 
 
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [riffcc/flagship](https://github.com/riffcc/flagship) - A decently decentralised streaming platform, powered by Peerbit, IPFS and Codex.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare up-to-date pricing, features & 250+ supported hosts across AllDebrid, Real-Debrid, TorBox, Premiumize, LinkSnappy, Debrid-Link, Mega-Debrid & DeepBird
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [Mostafa-Wahied/portracker](https://github.com/Mostafa-Wahied/portracker) - 
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server
@@ -1231,7 +1242,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [nginx/nginx-s3-gateway](https://github.com/nginx/nginx-s3-gateway) - NGINX S3 Gateway
 - [virtualzone/docker-container-stats](https://github.com/virtualzone/docker-container-stats) - Monitor your docker containers with this web interface.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
@@ -1604,6 +1615,7 @@
 
 ## Makefile 
 
+- [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...
 - [pop-os/iso](https://github.com/pop-os/iso) - Pop!_OS ISO production
@@ -1863,6 +1875,7 @@
 
 ## Python 
 
+- [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix) - An M3U IPTV Player
 - [ghomasHudson/Jellyfin-Auto-Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections) - Automatically make jellyfin collections from IMDB, Letterboxd lists and more.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
@@ -1952,7 +1965,7 @@
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool) - Linux CLI tool providing real-time system resource monitoring
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
@@ -2170,7 +2183,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 - [breakdowns/slam-mirrorbot](https://github.com/breakdowns/slam-mirrorbot) - Aria/qBittorrent Telegram Mirror/Leech Bot.
-- [lzzy12/python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
+- [shivamdev-lgtm/python-aria-mirror-bot](https://github.com/shivamdev-lgtm/python-aria-mirror-bot) - A telegram bot for all your mirror needs | OG Repo
 - [joedicastro/vps-comparison](https://github.com/joedicastro/vps-comparison) - A comparison between some VPS providers. It uses Ansible to perform a series of automated benchmark tests over the VPS servers that you specify. It allows the reproducibility of those tests by anyone 
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 - [sileht/bird-lg](https://github.com/sileht/bird-lg) - bird looking glass
@@ -2314,6 +2327,7 @@
 
 ## Rust 
 
+- [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
@@ -2323,7 +2337,6 @@
 - [Radiicall/jellyfin-rpc](https://github.com/Radiicall/jellyfin-rpc) - Displays the content you're currently watching on Discord!
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [glotlabs/gdrive](https://github.com/glotlabs/gdrive) - Google Drive CLI Client
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [static-web-server/static-web-server](https://github.com/static-web-server/static-web-server) - A cross-platform, high-performance and asynchronous web server for static files-serving. ⚡
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
@@ -2451,6 +2464,7 @@
 
 ## Shell 
 
+- [alvistack/vagrant-kubernetes](https://github.com/alvistack/vagrant-kubernetes) - Vagrant Box Packaging for Kubernetes
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [Zorlin/rook-push](https://github.com/Zorlin/rook-push) - Give Rook a lil' push.
 - [Kimi450/ubuntu_server](https://github.com/Kimi450/ubuntu_server) - Setup an ubuntu server with ease.
@@ -2596,6 +2610,7 @@
 
 ## Swift 
 
+- [ashtom/hadge](https://github.com/ashtom/hadge) - 💪 Export workout data from Health.app on iOS to a GitHub repo
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
@@ -2892,6 +2907,7 @@
 
 ## Vue 
 
+- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed web-GUI for Ollama.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
@@ -2920,6 +2936,7 @@
 
 ## Zig 
 
+- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
