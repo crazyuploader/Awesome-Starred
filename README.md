@@ -1060,6 +1060,7 @@
 
 ## HTML 
 
+- [Vimux/Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme
 - [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
 - [marketcalls/OpenTerminal](https://github.com/marketcalls/OpenTerminal) - OpenSource - Trading Terminal for Indian Traders
 - [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) - Generates directory listings contained in a single, app-like HTML files
@@ -1224,6 +1225,7 @@
 - [kairi003/Get-cookies.txt-LOCALLY](https://github.com/kairi003/Get-cookies.txt-LOCALLY) - Get cookies.txt, NEVER send information outside.
 - [riffcc/flagship](https://github.com/riffcc/flagship) - A decently decentralised streaming platform, powered by Peerbit, IPFS and Codex.
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
+- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Interactive comparison of debrid services: pricing, host support, speed, and refund policies. Real-Debrid, AllDebrid, Premiumize, TorBox, and more.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - 
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server
@@ -1620,7 +1622,7 @@
 ## MDX 
 
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-- [SigNoz/signoz-web](https://github.com/SigNoz/signoz-web) - SigNoz Website
+- [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io) - SigNoz Website
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
@@ -1811,6 +1813,7 @@
 
 ## PHP 
 
+- [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [mitthu786/TS-JioTV](https://github.com/mitthu786/TS-JioTV) - 🚀 TS-JioTV ReBorn with ⏰ 7-Days CatchUp
@@ -1895,6 +1898,7 @@
 
 ## Python 
 
+- [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
 - [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
 - [lftraining/LFS148-code](https://github.com/lftraining/LFS148-code) - Public code for lfs148x
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
@@ -1988,7 +1992,7 @@
 - [devfinwiz/Fin-Maestro-Kin](https://github.com/devfinwiz/Fin-Maestro-Kin) - Seamless Finance: Docker-Deployed APIs for Smart Investments. [WORK IN PROGRESS]
 - [jugaad-py/jugaad-data](https://github.com/jugaad-py/jugaad-data) - Download live and historical data for Indian stock market
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
@@ -2355,6 +2359,7 @@
 
 ## Rust 
 
+- [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -2407,7 +2412,7 @@
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -2505,7 +2510,6 @@
 - [alvistack/vagrant-kubernetes](https://github.com/alvistack/vagrant-kubernetes) - Vagrant Box Packaging for Kubernetes
 - [zabbix/zabbix-docker](https://github.com/zabbix/zabbix-docker) - Official Zabbix Dockerfiles
 - [Zorlin/rook-push](https://github.com/Zorlin/rook-push) - Give Rook a lil' push.
-- [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Interactive comparison of debrid services: pricing, host support, speed, and refund policies. Real-Debrid, AllDebrid, Premiumize, TorBox, and more.
 - [Kimi450/ubuntu_server](https://github.com/Kimi450/ubuntu_server) - Setup an ubuntu server with ease.
 - [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
@@ -2640,6 +2644,7 @@
 
 ## Svelte 
 
+- [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [deta/formate](https://github.com/deta/formate) - Build forms in minutes
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
@@ -2649,6 +2654,8 @@
 
 ## Swift 
 
+- [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -2676,6 +2683,7 @@
 
 ## TypeScript 
 
+- [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-
@@ -2707,7 +2715,6 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [nickelsh1ts/streamarr](https://github.com/nickelsh1ts/streamarr) - Streamarr is a an open source web application meant to wrap an existing *Arr ecosystem.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
