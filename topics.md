@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
@@ -308,11 +309,11 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed web-GUI for Ollama.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -355,6 +356,15 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
+## ai-agents 
+
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+
 ## algorithm 
 
 - [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu
@@ -379,6 +389,7 @@
 
 ## analytics 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
@@ -410,7 +421,7 @@
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [itszechs/DriveStream](https://github.com/itszechs/DriveStream) - Stream video files from Google drive
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [meganz/android](https://github.com/meganz/android) - MEGA Android App
@@ -710,7 +721,7 @@
 ## automation 
 
 - [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [biolds/sosse](https://github.com/biolds/sosse) - Selenium Open Source Search Engine & crawler
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -1139,7 +1150,7 @@
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1180,7 +1191,7 @@
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [SchizoDuckie/DuckieTV](https://github.com/SchizoDuckie/DuckieTV) - A web application built with AngularJS to track your favorite tv-shows with semi-automagic torrent integration
 - [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) - Scrobble music all around the web!
@@ -1193,6 +1204,7 @@
 
 ## cli 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1327,6 +1339,7 @@
 
 ## clojure 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## cloud 
@@ -1435,6 +1448,7 @@
 
 ## continuous-integration 
 
+- [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - Semaphore is an open source CI/CD platform. Self-host Semaphore on your own servers or on a cloud provider.
@@ -1578,6 +1592,7 @@
 
 ## data 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
@@ -1587,6 +1602,7 @@
 
 ## data-analysis 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
@@ -1620,6 +1636,7 @@
 
 ## data-visualization 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -1632,6 +1649,7 @@
 
 ## database 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -1785,6 +1803,7 @@
 
 ## devops 
 
+- [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [kimdre/doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
@@ -1889,6 +1908,8 @@
 
 ## docker 
 
+- [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
@@ -2329,7 +2350,7 @@
 ## framework 
 
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [kernc/backtesting.py](https://github.com/kernc/backtesting.py) - 🔎 📈 🐍 💰  Backtest trading strategies in Python.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
@@ -2455,6 +2476,7 @@
 
 ## github 
 
+- [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
@@ -2731,6 +2753,7 @@
 
 ## golang 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -3043,6 +3066,8 @@
 
 ## hacktoberfest 
 
+- [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
+- [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
@@ -3064,6 +3089,7 @@
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
@@ -3084,6 +3110,7 @@
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [ofkm/arcane](https://github.com/ofkm/arcane) - Modern Docker Management, Designed for Everyone
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
@@ -3169,6 +3196,7 @@
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -3188,6 +3216,7 @@
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs
+- [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -3510,7 +3539,7 @@
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
@@ -3553,6 +3582,7 @@
 
 ## java 
 
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [google/open-location-code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -3750,6 +3780,7 @@
 
 ## json 
 
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -3846,6 +3877,11 @@
 
 ## kubernetes 
 
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
+- [caddyserver/gateway](https://github.com/caddyserver/gateway) - Kubernetes Gateway API implementation powered by Caddy
+- [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [schemahero/schemahero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas)
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
@@ -4046,7 +4082,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [quickemu-project/quickgui](https://github.com/quickemu-project/quickgui) - An elegant virtual machine manager for the desktop
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [bkw777/mainline](https://github.com/bkw777/mainline) - Install mainline kernel packages from kernel.ubuntu.com
 - [dkorunic/pktstat](https://github.com/dkorunic/pktstat) - Simple ethernet interface traffic monitor and reporting tool
@@ -4163,6 +4199,7 @@
 
 ## llm 
 
+- [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source GUI app for Gemini CLI — Better Chat UI, File Management, AI image editing, multi-agent support, multi-LLMs & apikey polling, code diff view & more | 🌟 Star if you like it!
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
@@ -4170,7 +4207,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on claude desktop app
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
@@ -4457,7 +4494,7 @@
 
 ## mobile 
 
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phone chips
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Kernels & AI inference engine for phones
 - [microg/GmsCore](https://github.com/microg/GmsCore) - Free implementation of Play Services
 - [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 - [TeamAmaze/AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager) - Material design file manager for Android
@@ -4482,6 +4519,7 @@
 
 ## monitoring 
 
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
 - [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
@@ -4492,7 +4530,7 @@
 - [virtualzone/docker-container-stats](https://github.com/virtualzone/docker-container-stats) - Monitor your docker containers with this web interface.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [scottchiefbaker/dool](https://github.com/scottchiefbaker/dool) - Linux CLI tool providing real-time system resource monitoring
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -4575,6 +4613,7 @@
 
 ## mysql 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
@@ -4632,6 +4671,8 @@
 
 ## nextjs 
 
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [3p5ilon/Nextfolio](https://github.com/3p5ilon/Nextfolio) - A clean, fast, & lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS.
 - [once-ui-system/magic-portfolio](https://github.com/once-ui-system/magic-portfolio) - ⚡ Build your timeless portfolio with Once UI's Magic Portfolio
@@ -4718,6 +4759,7 @@
 
 ## nodejs 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
@@ -4911,7 +4953,7 @@
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -4930,7 +4972,7 @@
 
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [arunsivaramanneo/GPU-Viewer](https://github.com/arunsivaramanneo/GPU-Viewer) - A front-end to glxinfo, vulkaninfo, clinfo and es2_info - Linux
-- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb
+- [flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
@@ -4954,6 +4996,8 @@
 
 ## others 
 
+- [n8n-io/n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
+- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts
 - [aliyss/syncribullet](https://github.com/aliyss/syncribullet) - Allows for syncing currently watched items from Stremio
 - [h39s/AQUA](https://github.com/h39s/AQUA) - A system-wide parametric equalizer interface for Windows
 - [fxsound2/fxsound-app](https://github.com/fxsound2/fxsound-app) - FxSound application and DSP source code
@@ -5036,7 +5080,6 @@
 - [strapi/LaunchPad](https://github.com/strapi/LaunchPad) - Official Strapi Demo application
 - [immois/astro-zen](https://github.com/immois/astro-zen) - Minimalist, accessible and SEO-optimized personal portfolio website template.
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [Pacerino/CaddyProxyManager](https://github.com/Pacerino/CaddyProxyManager) - CaddyProxyManager - Manage Caddy via a web interface
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
@@ -5069,7 +5112,6 @@
 - [Diniboy1123/usque](https://github.com/Diniboy1123/usque) - Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
 - [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 - [blampe/rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
-- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [schoentoon/servarr-backup](https://github.com/schoentoon/servarr-backup) - This tool will help making backups of radarr, sonarr and lidarr into restic or borg easier
 - [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
@@ -5201,7 +5243,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
-- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
+- [benjamimgois/goverlay](https://github.com/benjamimgois/goverlay) - Goverlay is an opensource project that aims to create a Graphical UI to help manage Linux overlays.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
@@ -5512,7 +5554,6 @@
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [menukaonline/goindex-extended](https://github.com/menukaonline/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
 - [saljam/webwormhole](https://github.com/saljam/webwormhole) - Peer authenticated WebRTC.
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [loov/lensm](https://github.com/loov/lensm) - Go assembly and source viewer
@@ -5602,7 +5643,7 @@
 - [alx-xlx/goindex](https://github.com/alx-xlx/goindex) - Index your Google Drive
 - [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [hadiasghari/pyasn](https://github.com/hadiasghari/pyasn) - Python IP address to Autonomous System Number lookup module. (Supports fast local lookups, and historical lookups using archived BGP dumps.)
-- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
+- [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io. Set up once and forever.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [aluzzardi/wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
@@ -5868,6 +5909,8 @@
 
 ## postgresql 
 
+- [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -5985,7 +6028,6 @@
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
-- [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
@@ -6391,6 +6433,7 @@
 
 ## react 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [aliasvault/aliasvault](https://github.com/aliasvault/aliasvault) - Privacy-first password manager with built-in email aliasing. Fully encrypted and self-hostable.
 - [shlinkio/shlink-web-client](https://github.com/shlinkio/shlink-web-client) - A React-based client application for Shlink
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
@@ -6597,6 +6640,7 @@
 
 ## rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
 - [JetpackDuba/Gitnuro](https://github.com/JetpackDuba/Gitnuro) - A FOSS Git multiplatform client for newbies and pros
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -7541,6 +7585,7 @@
 
 ## visualization 
 
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
@@ -7637,6 +7682,7 @@
 
 ## web 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
