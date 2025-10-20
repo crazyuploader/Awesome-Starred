@@ -500,6 +500,7 @@
 
 ## Go 
 
+- [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [caddyserver/gateway](https://github.com/caddyserver/gateway) - Kubernetes Gateway API implementation powered by Caddy
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
@@ -1160,6 +1161,7 @@
 
 ## Java 
 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [ongres/stackgres](https://github.com/ongres/stackgres) - StackGres Operator, Full Stack PostgreSQL on Kubernetes // !! Mirror repository of https://gitlab.com/ongresinc/stackgres, only accept Merge Requests there.
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) - Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distr
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -1950,6 +1952,7 @@
 
 ## Python 
 
+- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4) - pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
@@ -2763,6 +2766,7 @@
 
 ## TypeScript 
 
+- [juehang/vscode-mcp-server](https://github.com/juehang/vscode-mcp-server) - MCP server to expose VS Code editing features to an LLM for AI coding
 - [tj-actions/changed-files](https://github.com/tj-actions/changed-files) - :octocat: Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
