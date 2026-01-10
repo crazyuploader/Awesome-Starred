@@ -214,6 +214,7 @@
 
 ## C# # 
 
+- [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 - [alireza-rezaee/tor-nodes](https://github.com/alireza-rezaee/tor-nodes) - Up-to-date list of running Tor nodes
 - [BlackSky-Jose/3D-Tanks-Game-Unity](https://github.com/BlackSky-Jose/3D-Tanks-Game-Unity) - 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
@@ -524,7 +525,7 @@
 - [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [Divkix/Alita_Robot](https://github.com/Divkix/Alita_Robot) - 🤖 Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and ⏩ faster than most of the Telegram chat managers. 💬
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
+- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [kubestone/kubestone](https://github.com/kubestone/kubestone) - Performance benchmarks for Kubernetes
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
@@ -2021,6 +2022,7 @@
 
 ## Python 
 
+- [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
@@ -2108,6 +2110,7 @@
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [mylar3/mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
 - [jerrymakesjelly/autoremove-torrents](https://github.com/jerrymakesjelly/autoremove-torrents) - Automatically remove torrents according to your strategies.
@@ -2193,8 +2196,8 @@
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [pyrogram/pyrogram](https://github.com/pyrogram/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper) - Scrape the Twitter Frontend API without authentication.
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev: Dev All through LLM-powered Multi-Agent Collaboration
-- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - A script to effortlessly extract your entire ChatGPT data export from JSON files to nicely-formatted markdown files.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+- [mohamed-chs/chatgpt-history-export-to-md](https://github.com/mohamed-chs/chatgpt-history-export-to-md) - Extract your entire ChatGPT history from JSON files to nicely formatted markdown files + Word clouds.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [fgsect/scat](https://github.com/fgsect/scat) - SCAT: Signaling Collection and Analysis Tool
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
@@ -2341,7 +2344,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you'll ever need
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Instant Stack Overflow results whenever an exception is thrown
@@ -2848,7 +2851,6 @@
 
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [deta/formate](https://github.com/deta/formate) - Build forms in minutes
 - [WardPearce/paaster](https://github.com/WardPearce/paaster) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confiden
 - [amalshaji/vibe](https://github.com/amalshaji/vibe) - Having a bad day? Good boy doggo to the rescue. Vibe for 30 seconds!!
