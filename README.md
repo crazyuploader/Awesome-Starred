@@ -443,7 +443,7 @@
 
 - [ShalmonAnandas/rd_client](https://github.com/ShalmonAnandas/rd_client) - 
 - [UnboundTechCo/defyxVPN](https://github.com/UnboundTechCo/defyxVPN) - A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.
-- [varunsalian/debrify](https://github.com/varunsalian/debrify) - A modern debrid companion built with Flutter, featuring plugin-based torrent search, a powerful search UI, lean-back Android TV mode, advanced player, and persistent playlists. Supports Real-Debrid an
+- [varunsalian/debrify](https://github.com/varunsalian/debrify) - Stream & Download Effortlessly — The all-in-one debrid manager for Real-Debrid, Torbox, and PikPak. Available on Android, Android TV, Windows, macOS, Linux, and iOS.
 - [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
 - [Jean28518/linux-assistant](https://github.com/Jean28518/linux-assistant) - A daily linux helper with powerful integrated search, routines checks and administrative tasks. The Project is built with flutter and python.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -516,6 +516,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [moby/swarmkit](https://github.com/moby/swarmkit) - A toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
@@ -2022,6 +2023,7 @@
 
 ## Python 
 
+- [matank001/asclepius](https://github.com/matank001/asclepius) - Asclepius validates backup integrity by restoring files and actively testing their recoverability. Instead of trusting metadata, it attempts to parse real file formats (documents, images, archives, co
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
