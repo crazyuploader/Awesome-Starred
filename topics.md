@@ -335,7 +335,7 @@
 
 ## ai 
 
-- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 750k+ Kilo Coders. 6.1 trillion tokens/month.
@@ -377,7 +377,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
@@ -400,6 +400,7 @@
 
 ## ai-agents 
 
+- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
@@ -767,7 +768,7 @@
 - [lucidrains/imagen-pytorch](https://github.com/lucidrains/imagen-pytorch) - Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
@@ -922,7 +923,7 @@
 - [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of talks and articles about real world frontend development
 - [greybax/awesome-IT-films](https://github.com/greybax/awesome-IT-films) - :tv: A curated list of awesome films about IT & geek people.
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
@@ -1232,7 +1233,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -1248,7 +1249,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## chatgpt-api 
 
@@ -1768,7 +1769,7 @@
 
 ## data-engineering 
 
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 
 ## data-science 
 
@@ -1987,7 +1988,7 @@
 - [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -2016,7 +2017,7 @@
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [ovh/cds](https://github.com/ovh/cds) - Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform
 - [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [mistio/mist-ce](https://github.com/mistio/mist-ce) - Mist is an open source, multicloud management platform
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -2148,7 +2149,7 @@
 - [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus) - A docker-compose stack for Prometheus monitoring
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
@@ -4271,7 +4272,7 @@
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
@@ -4436,7 +4437,7 @@
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - 学习和理解Docker容器技术，从真实案例中掌握最佳实践技巧！| Learn and understand Docker&Container technologies, with real DevOps practice!
 - [open-ani/animeko](https://github.com/open-ani/animeko) - 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
@@ -4585,7 +4586,7 @@
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
@@ -4666,7 +4667,7 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [k4yt3x/video2x](https://github.com/k4yt3x/video2x) - A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service. This is the repository of the backend.
@@ -5114,7 +5115,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
@@ -5339,7 +5340,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -5387,7 +5388,7 @@
 - [m1guelpf/chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
@@ -5834,7 +5835,6 @@
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [mnutt/rotary](https://github.com/mnutt/rotary) - Adventures with rotary phones and asterisk
-- [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [tcude/vmware-to-proxmox-migration-script](https://github.com/tcude/vmware-to-proxmox-migration-script) - This project contains a bash script that assists in migrating VMs from VMWare ESXi to Proxmox
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -6659,7 +6659,7 @@
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
 ## publishing 
@@ -7039,7 +7039,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
 - [pivpn/pivpn](https://github.com/pivpn/pivpn) - The Simplest VPN installer, designed for Raspberry Pi
 - [pyload/pyload](https://github.com/pyload/pyload) - The free and open-source Download Manager written in pure Python
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured, cross-platform and AI-friendly.
 - [oznu/docker-cloudflare-ddns](https://github.com/oznu/docker-cloudflare-ddns) - A small amd64/ARM/ARM64 Docker image that allows you to use CloudFlare as a DDNS / DynDNS Provider.
 - [novaspirit/pi-hosted](https://github.com/novaspirit/pi-hosted) - Raspberry Pi Self Hosted Server Based on Docker / Portainer.io
 - [oijkn/Docker-Raspberry-PI-Monitoring](https://github.com/oijkn/Docker-Raspberry-PI-Monitoring) - A docker-compose stack solution for monitoring host and containers with Prometheus, Grafana, cAdvisor and NodeExporter.
@@ -8213,7 +8213,7 @@
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [deta/formate](https://github.com/deta/formate) - Build forms in minutes
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [consumet/api.consumet.org](https://github.com/consumet/api.consumet.org) - A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.
