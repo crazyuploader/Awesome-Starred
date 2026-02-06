@@ -198,7 +198,7 @@
 - [libfuse/libfuse](https://github.com/libfuse/libfuse) - The reference implementation of the Linux FUSE (Filesystem in Userspace) interface
 - [DNS-OARC/dnsperf](https://github.com/DNS-OARC/dnsperf) - Moved to https://codeberg.org/DNS-OARC/dnsperf
 - [Rafostar/clapper](https://github.com/Rafostar/clapper) - Level up your video experience with a modern and user-friendly media player.
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -526,6 +526,7 @@
 
 ## Go 
 
+- [NodePassProject/nodepass](https://github.com/NodePassProject/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [SigNoz/foundry](https://github.com/SigNoz/foundry) - Foundry is a centralized hub for SigNoz installation configurations and deployments: integrations for install. Select yours, configure, and run SigNoz.
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
@@ -2022,6 +2023,7 @@
 
 ## PHP 
 
+- [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web servic
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -3013,6 +3015,7 @@
 
 ## TypeScript 
 
+- [arukaraz/synthseek](https://github.com/arukaraz/synthseek) - Self-hosted music discovery library manager with modern web UI
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
