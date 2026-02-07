@@ -221,7 +221,6 @@
 - [shemanaev/jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) - Automatically delete played media files after specified amount of time.
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 - [alireza-rezaee/tor-nodes](https://github.com/alireza-rezaee/tor-nodes) - Up-to-date list of running Tor nodes
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [ryandash/jellyfin-plugin-myanimelist](https://github.com/ryandash/jellyfin-plugin-myanimelist) - This plugin adds a metadata provider for MyAnimeList anime
 - [RomainPierre7/jellyfin-plugin-TelegramNotifier](https://github.com/RomainPierre7/jellyfin-plugin-TelegramNotifier) - Jellyfin media server plugin to easily send notifications on Telegram!
 - [ShokoAnime/Shokofin](https://github.com/ShokoAnime/Shokofin) - Repository for Shokofin, a plugin that brings Shoko to Jellyfin.
@@ -1214,6 +1213,7 @@
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP) - NOVA opeN sOurce Video plAyer: main repository to build them all
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
@@ -1399,7 +1399,7 @@
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [fynks/debrid-services-comparison](https://github.com/fynks/debrid-services-comparison) - Compare leading debrid / multi-hoster services for pricing, host coverage, policies & tools.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
-- [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - 
+- [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - A self-hosted, real-time port monitoring and discovery tool.
 - [drone/drone-ui](https://github.com/drone/drone-ui) - Front-end for the Drone continuous integration server
 - [Chaphasilor/jellyfin-rewind](https://github.com/Chaphasilor/jellyfin-rewind) - Review Your Music of 2025. A "Spotify Wrapped"-like app made for people who use Jellyfin for listening to music!
 - [marketcalls/historify](https://github.com/marketcalls/historify) - OpenAlgo Full Stack Historical Data Management App
@@ -1812,7 +1812,6 @@
 - [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
 - [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io) - SigNoz Website
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2169,6 +2168,7 @@
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
 - [kubeflow/pipelines](https://github.com/kubeflow/pipelines) - Machine Learning Pipelines for Kubeflow
 - [linuxmint/hypnotix](https://github.com/linuxmint/hypnotix) - An M3U IPTV Player
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [ghomasHudson/Jellyfin-Auto-Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections) - Automatically make jellyfin collections from IMDB, Letterboxd lists and more.
 - [sachinsenal0x64/fixarr](https://github.com/sachinsenal0x64/fixarr) - 🍿 Cross Platform Ultimate Movie | TV | Anime Renamer with Backup Media Servers (Plex | Emby | Jellyfin)
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
