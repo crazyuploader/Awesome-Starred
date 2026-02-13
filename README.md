@@ -453,7 +453,7 @@
 - [ShalmonAnandas/rd_client](https://github.com/ShalmonAnandas/rd_client) - 
 - [UnboundTechCo/defyxVPN](https://github.com/UnboundTechCo/defyxVPN) - A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.
 - [varunsalian/debrify](https://github.com/varunsalian/debrify) - Stream & Download Effortlessly — The all-in-one debrid manager for Real-Debrid, Torbox, and PikPak. Available on Android, Android TV, Windows, macOS, Linux, and iOS.
-- [jmshrv/finamp](https://github.com/jmshrv/finamp) - A Jellyfin music client for mobile
+- [UnicornsOnLSD/finamp](https://github.com/UnicornsOnLSD/finamp) - A Jellyfin music client for mobile
 - [Jean28518/linux-assistant](https://github.com/Jean28518/linux-assistant) - A daily linux helper with powerful integrated search, routines checks and administrative tasks. The Project is built with flutter and python.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
@@ -554,7 +554,7 @@
 - [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) - Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryptographic level (JA3/JA4, Akamai fingerprint, header 
 - [selfhosters-cc/container-census](https://github.com/selfhosters-cc/container-census) - Manage your docker containers and generate a report to share and compare with other self hosters
 - [versity/versitygw](https://github.com/versity/versitygw) - versity s3 gateway
-- [bpg-dev/terraform-provider-proxmox](https://github.com/bpg-dev/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [jmoiron/sqlx](https://github.com/jmoiron/sqlx) - general purpose extensions to golang's database/sql
 - [surge-downloader/surge](https://github.com/surge-downloader/surge) - Surge is a blazing fast, open-source terminal (TUI) download manager built in Go.
@@ -719,7 +719,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [superfly/flyctl](https://github.com/superfly/flyctl) - Command line tools for fly.io services
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [JonasProgrammer/docker-machine-driver-hetzner](https://github.com/JonasProgrammer/docker-machine-driver-hetzner) - Docker machine driver for the new hetzner cloud API
@@ -1609,7 +1609,6 @@
 - [schnerd/chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots) - Using headless Chrome as an automated screenshot tool (alternative to PhantomJS)
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [JoeKarlsson/data-structures](https://github.com/JoeKarlsson/data-structures) - Common data structures and algorithms implemented in JavaScript
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [ethomson/github4life](https://github.com/ethomson/github4life) - Using your GitHub Contribution Graph as a four-color Game of Life.
@@ -3316,6 +3315,7 @@
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [bobvanderlinden/probot-auto-merge](https://github.com/bobvanderlinden/probot-auto-merge) - A GitHub App built with Probot that automatically merges pull requests
+- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
