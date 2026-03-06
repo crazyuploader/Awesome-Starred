@@ -1722,7 +1722,6 @@
 - [gowebly/gowebly](https://github.com/gowebly/gowebly) - 🔥 A next-generation CLI tool that makes it easy to create amazing web applications with Go on the backend, using htmx, hyperscript or Alpine.js, and the most popular CSS frameworks on the frontend.
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
 - [kristuff/apache-fancy-pages](https://github.com/kristuff/apache-fancy-pages) - 🖌️ Modern drop in replacement for default Apache index/error pages.
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [andrew--r/frontend-case-studies](https://github.com/andrew--r/frontend-case-studies) - 💼 A curated list of talks and articles about real world frontend development
 - [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test) - SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, 
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -2252,6 +2251,7 @@
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
@@ -2322,7 +2322,7 @@
 
 ## documentation 
 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
 - [pradyunsg/furo](https://github.com/pradyunsg/furo) - A clean customizable documentation theme for Sphinx
@@ -2969,6 +2969,7 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
@@ -3231,6 +3232,7 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [googleapis/google-cloud-go](https://github.com/googleapis/google-cloud-go) - Google Cloud Client Libraries for Go.
@@ -3615,6 +3617,7 @@
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
@@ -4380,6 +4383,7 @@
 - [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
@@ -5879,6 +5883,7 @@
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [Cyb3r-Jak3/cloudflare-exporter](https://github.com/Cyb3r-Jak3/cloudflare-exporter) - Prometheus Cloudflare Exporter
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [miantiao-me/ip-api](https://github.com/miantiao-me/ip-api) - 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
@@ -6989,7 +6994,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and scraping. Has "CDP Mode" and "Stealthy Playwright".
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for browser automation, testing, and web-scraping. Bypasses bot-detection with "CDP Mode" and "Stealthy Playwright Mode".
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -7578,6 +7583,7 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [jwilk/url.sh](https://github.com/jwilk/url.sh) - this URL is also malicious(?!) shell script
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
@@ -7613,6 +7619,7 @@
 - [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 ## self-hosted 
 
@@ -7630,7 +7637,7 @@
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [Divinelink/scenepeek-android](https://github.com/Divinelink/scenepeek-android) - ScenePeek is a TMDB and Jellyseerr / Overseerr / Seerr client for android and iOS.
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [JMS1717/8mb.local](https://github.com/JMS1717/8mb.local) - a free local self hosted video compressor webui designed for performance and ease of use. inspired by 8mb.video
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
@@ -8526,7 +8533,7 @@
 
 ## visualization 
 
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Clean network diagrams. One-time setup, zero upkeep.
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles:
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
