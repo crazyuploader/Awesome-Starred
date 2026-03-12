@@ -2110,7 +2110,7 @@
 
 ## docker 
 
-- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One binary, one web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools w
+- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [Anexgohan/pankha](https://github.com/Anexgohan/pankha) - Centralized multi-system scalable fan control. Real-time dashboard, custom curves, Docker server + native Linux/Windows agents. Selfhosted with Docker
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
@@ -2803,7 +2803,7 @@
 
 ## go 
 
-- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One binary, one web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools w
+- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [gogearbox/gearbox](https://github.com/gogearbox/gearbox) - Gearbox :gear: is a web framework written in Go with a focus on high performance
 - [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) - Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryptographic level (JA3/JA4, Akamai fingerprint, header 
@@ -4650,7 +4650,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [rusiaaman/wcgw](https://github.com/rusiaaman/wcgw) - Shell and coding agent on mcp clients
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is a context-engineering framework optimized for controlling customer interactions.
@@ -5396,7 +5396,7 @@
 
 ## open-source 
 
-- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One binary, one web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools w
+- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [mostafa-wahied/autoxpose](https://github.com/mostafa-wahied/autoxpose) - Automating DNS and reverse proxy configuration for Docker containers using Docker Labels.
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU) - Beautiful, open source, WebGPU-based charting library
@@ -6149,7 +6149,7 @@
 - [XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator](https://github.com/XiaomiFirmwareUpdater/xiaomi-flashable-firmware-creator) - Xiaomi Flashable Firmware Creator
 - [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
-- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally.
+- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 250 Internet Exchange Points (IXPs) globally.
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [gracco/sysadmin-interview-questions](https://github.com/gracco/sysadmin-interview-questions) - 
 - [lammersbjorn/homer-theme](https://github.com/lammersbjorn/homer-theme) - 🎨 A custom Homer theme!
@@ -6448,7 +6448,7 @@
 - [bitvale/Switcher](https://github.com/bitvale/Switcher) - Android implementation of switch animation from Oleg Frolov
 - [DavidBarbaran/Covid-19App](https://github.com/DavidBarbaran/Covid-19App) - Covid 19 - Tracker, map, info & help
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-- [acro5piano/resume](https://github.com/acro5piano/resume) - Resume of Kay Gosho. Built with Webpack + Pug + PostCSS
+- [acro5piano/resume](https://github.com/acro5piano/resume) - Resume of Kay Gosho. Built with React + Vite + Markdown
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) - Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
@@ -6590,7 +6590,7 @@
 
 ## postgresql 
 
-- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One binary, one web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools w
+- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer) - lightweight connection pooler for PostgreSQL
@@ -7624,7 +7624,7 @@
 
 ## self-hosted 
 
-- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One binary, one web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools w
+- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [mostafa-wahied/autoxpose](https://github.com/mostafa-wahied/autoxpose) - Automating DNS and reverse proxy configuration for Docker containers using Docker Labels.
 - [marcopiovanello/yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [Anexgohan/pankha](https://github.com/Anexgohan/pankha) - Centralized multi-system scalable fan control. Real-time dashboard, custom curves, Docker server + native Linux/Windows agents. Selfhosted with Docker
@@ -8061,7 +8061,7 @@
 - [gotd/td](https://github.com/gotd/td) - Telegram client, in Go. (MTProto API)
 - [RomainPierre7/jellyfin-plugin-TelegramNotifier](https://github.com/RomainPierre7/jellyfin-plugin-TelegramNotifier) - Jellyfin media server plugin to easily send notifications on Telegram!
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
 - [Madh93/karakeepbot](https://github.com/Madh93/karakeepbot) - 🔖 Telegram Bot for saving bookmarks to Karakeep (previously Hoarder)
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
@@ -8440,7 +8440,7 @@
 
 ## ui 
 
-- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One binary, one web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools w
+- [fr4nsys/usulnet](https://github.com/fr4nsys/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your tea
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
