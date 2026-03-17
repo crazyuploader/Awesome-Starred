@@ -756,7 +756,7 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - A Python library for the Hetzner Cloud API
 - [cyberpirate92/code2img](https://github.com/cyberpirate92/code2img) - Open REST API to create beautiful images of code snippets with 20+ color themes and syntax highlighting support for 10+ languages.
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [disease-sh/API](https://github.com/disease-sh/API) - API for Current cases and more stuff about COVID-19 and Influenza
 - [gita/BhagavadGita](https://github.com/gita/BhagavadGita) - A non-profit initiative to help spread the transcendental wisdom from the Bhagavad Gita to people around the world.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1149,7 +1149,7 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [maxtacu/telegram-covid19](https://github.com/maxtacu/telegram-covid19) - Telegram Bot that shows global COVID-19 stats and graph
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 
@@ -2725,7 +2725,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jmforsythe/Git-Heat-Map](https://github.com/jmforsythe/Git-Heat-Map) - Visualise a git repository by diff activity
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: File Management Platform / Universal Data Access Layer (without FUSE)
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -3608,7 +3608,7 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - An open-source OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
@@ -3713,7 +3713,7 @@
 - [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
 - [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 - [AlexFlipnote/discord_bot.py](https://github.com/AlexFlipnote/discord_bot.py) - 🍺 A simple discord bot that helps you getting started within discord.py
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 - [PatilShreyas/Foodium](https://github.com/PatilShreyas/Foodium) - 🍲Foodium is a sample food blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, R
 - [PatilShreyas/Covid19-Notifier-IN](https://github.com/PatilShreyas/Covid19-Notifier-IN) - A sample Android App which notifies about COVID19 cases in 🇮🇳India after every 1 hour.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -5533,6 +5533,7 @@
 
 ## others 
 
+- [alibaba/hiclaw](https://github.com/alibaba/hiclaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 - [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer) - 
 - [gurgeous/tennis](https://github.com/gurgeous/tennis) - stylish CSV tables in your terminal
 - [SecOps-7/MikroDash](https://github.com/SecOps-7/MikroDash) - Real-time MikroTik RouterOS v7 dashboard. Streams live CPU, traffic, wireless clients, DHCP, WireGuard, firewall & geo connection data direct from the router API to your browser via Socket.IO. Self-ho
@@ -6997,7 +6998,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one browser automation, scraping, testing, and stealth. Works with Playwright. Lots of examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Browser automation for testing, scraping, and stealth. Works with Playwright. Lots of examples.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -8558,6 +8559,7 @@
 
 ## vpn 
 
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [UnboundTechCo/defyxVPN](https://github.com/UnboundTechCo/defyxVPN) - A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
@@ -8721,7 +8723,7 @@
 
 - [devlikeapro/waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
 - [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
-- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+- [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 ## windows 
 
