@@ -369,7 +369,7 @@
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
-- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
+- [jellyfin-archive/jellyfin-desktop-qt](https://github.com/jellyfin-archive/jellyfin-desktop-qt) - Jellyfin Desktop Client
 - [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) - Automatic PageSpeed optimization module for Nginx
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [pcarrier/ident.me](https://github.com/pcarrier/ident.me) - Your public IP addresses as apps & APIs
@@ -409,6 +409,7 @@
 
 ## CSS 
 
+- [AumGupta/abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 - [kristuff/apache-fancy-pages](https://github.com/kristuff/apache-fancy-pages) - 🖌️ Modern drop in replacement for default Apache index/error pages.
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
@@ -1295,6 +1296,7 @@
 - [TachibanaGeneralLaboratories/download-navi](https://github.com/TachibanaGeneralLaboratories/download-navi) - Free and  Open Source software download manager
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
+- [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 - [prometheus/cloudwatch_exporter](https://github.com/prometheus/cloudwatch_exporter) - Metrics exporter for Amazon AWS CloudWatch
 - [newhinton/Round-Sync](https://github.com/newhinton/Round-Sync) - An android cloud file manager, powered by rclone. Visit https://roundsync.com for more information!
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
@@ -1712,7 +1714,6 @@
 - [sam1am/anyapk](https://github.com/sam1am/anyapk) - Install any apk on the device you own.
 - [skjaere/DebriDav](https://github.com/skjaere/DebriDav) - An all-in-one solution for bridging the gap between the arrs and debrid.
 - [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API
-- [anddea/revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 - [EsimMoe/MiniLPA](https://github.com/EsimMoe/MiniLPA) - Professional LPA UI
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [JetpackDuba/Gitnuro](https://github.com/JetpackDuba/Gitnuro) - A FOSS Git multiplatform client for newbies and pros
@@ -1758,7 +1759,7 @@
 - [element-hq/element-android](https://github.com/element-hq/element-android) - A Matrix collaboration client for Android.
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, tasks, customizable colors, widgets and no ads.
-- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 250k times
+- [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android downloaded more than 300k times
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A premium app for managing and editing your photos, videos, GIFs without ads
@@ -3066,6 +3067,11 @@
 
 ## TypeScript 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+- [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
+- [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents, from task to merged PR.
+- [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
+- [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 - [ZoeyVid/NPMplus](https://github.com/ZoeyVid/NPMplus) - a fork of nginx-proxy-manager
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
