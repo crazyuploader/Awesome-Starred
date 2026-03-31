@@ -298,7 +298,7 @@
 
 ## C++ 
 
-- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [edisionnano/QDiskInfo](https://github.com/edisionnano/QDiskInfo) - QDiskInfo is a frontend for smartctl (part of the smartmontools package). It provides a user experience similar to CrystalDiskInfo. It shows the SMART (Self-Monitoring, Analysis, and Reporting Technol
 - [Pharkie/scribe-evolution](https://github.com/Pharkie/scribe-evolution) - Scribe Evolution: Print Magic, Share Securely, Poke Friends
@@ -492,6 +492,7 @@
 
 ## Dockerfile 
 
+- [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) - The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.
 - [11notes/docker-traefik](https://github.com/11notes/docker-traefik) - Run traefik rootless, distroless and secure by default!
 - [11notes/docker-kms](https://github.com/11notes/docker-kms) - Activate any version of Windows and Office, forever
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -1349,7 +1350,7 @@
 - [ant-media/Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server) - Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding & scaling
 - [krlvm/PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [angryip/ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
@@ -1631,7 +1632,6 @@
 - [JoseRFelix/page-transition-tutorial](https://github.com/JoseRFelix/page-transition-tutorial) - Simple examples of how to use Framer Motion for page transitions.
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 15 and MUI
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [frdmn/docker-speedtest-grafana](https://github.com/frdmn/docker-speedtest-grafana) - 🚢📦Grafana + InfluxDB + Speedtest.net results
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS
 - [juliangruber/capture-screenshot](https://github.com/juliangruber/capture-screenshot) - Capture screenshots in multiple browsers!
@@ -2857,7 +2857,7 @@
 ## Shell 
 
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
-- [alibaba/hiclaw](https://github.com/alibaba/hiclaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
+- [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 - [luizluca/speedtest-shell](https://github.com/luizluca/speedtest-shell) - This is an unofficial speedtest (ookla) client, written in shell script and compatible with most basic systems, including OpenWrt routers
 - [supabase/supabase-grafana](https://github.com/supabase/supabase-grafana) - Observability for your Supabase project, using Prometheus/Grafana
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
@@ -3077,6 +3077,8 @@
 
 ## TypeScript 
 
+- [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
@@ -3346,7 +3348,7 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
@@ -3466,6 +3468,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [statping/statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.
 - [rubjo/victor-mono](https://github.com/rubjo/victor-mono) - A free programming font with cursive italics and ligatures. Donations welcome ❤️
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 
 ## XSLT 
