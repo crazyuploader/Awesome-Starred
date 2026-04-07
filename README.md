@@ -26,6 +26,7 @@
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Elixir](#elixir)
+- [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -470,7 +471,7 @@
 ## Dart 
 
 - [zarzet/SpotiFLAC-Mobile](https://github.com/zarzet/SpotiFLAC-Mobile) - Mobile music utility built with Flutter and Go. High-quality audio management for your personal library. - open source, no ads, no subscription.
-- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A Simple Jellyfin frontend built on top of Flutter.
+- [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
 - [ShalmonAnandas/rd_client](https://github.com/ShalmonAnandas/rd_client) - 
 - [UnboundTechCo/defyxVPN](https://github.com/UnboundTechCo/defyxVPN) - A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.
 - [varunsalian/debrify](https://github.com/varunsalian/debrify) - Unified debrid management meets Stremio — Control Real-Debrid, Torbox, and PikPak from anywhere. Available on Android, Android TV, Windows, macOS, Linux, and iOS.
@@ -534,6 +535,10 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
 - [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned
 
+## Emacs Lisp 
+
+- [emacs-mirror/emacs](https://github.com/emacs-mirror/emacs) - Mirror of GNU Emacs
+
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
@@ -547,6 +552,8 @@
 
 ## Go 
 
+- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
+- [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - Run a fleet of AI agents on Kubernetes. Administer your cluster agentically
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
 - [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
 - [breml/go-uptime-kuma-client](https://github.com/breml/go-uptime-kuma-client) - Go Client for Uptime Kuma API
@@ -815,7 +822,7 @@
 - [containrrr/shoutrrr](https://github.com/containrrr/shoutrrr) - Notification library for gophers and their furry friends.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1405,6 +1412,7 @@
 
 ## JavaScript 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [midudev/autoskills](https://github.com/midudev/autoskills) - One command. Your entire AI skill stack. Installed.
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
@@ -1424,7 +1432,6 @@
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A Jellyfin Plugin to enhance your Jellyfin Web experience.
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
-- [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [nxzai/NextExplorer](https://github.com/nxzai/NextExplorer) - Web based File Explorer
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -1722,6 +1729,7 @@
 
 ## Kotlin 
 
+- [capcom6/android-sms-gateway](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
 - [FossifyOrg/File-Manager](https://github.com/FossifyOrg/File-Manager) - Easy app for managing your files without ads, respecting your privacy & security
 - [Goodwy/Messages](https://github.com/Goodwy/Messages) - 
 - [FoedusProgramme/Gramophone](https://github.com/FoedusProgramme/Gramophone) - A sane music player built with media3 and material design library that is following android's standard strictly.
@@ -1906,6 +1914,7 @@
 
 ## Objective-C 
 
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 
 ## OpenSCAD 
@@ -1914,6 +1923,7 @@
 
 ## Others 
 
+- [restyler/awesome-sandbox](https://github.com/restyler/awesome-sandbox) - Awesome Code Sandboxing for AI
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
 - [afkarxyz/SpotiFLAC-Next](https://github.com/afkarxyz/SpotiFLAC-Next) - Get Spotify tracks in true Lossless from Tidal, Qobuz, Amazon Music, Deezer & Apple Music — no account required.
@@ -1961,6 +1971,7 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
@@ -2143,7 +2154,6 @@
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated poster maker for Plex/Jellyfin/Emby.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -2158,6 +2168,9 @@
 
 ## Python 
 
+- [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
+- [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 
 - [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
@@ -2172,7 +2185,7 @@
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [darthnorse/dockmon](https://github.com/darthnorse/dockmon) - DockMon - Modern Docker container monitoring with auto-restart and alerts
-- [bigstack-oss/cubecos](https://github.com/bigstack-oss/cubecos) - Open-source IaaS and PaaS framework that automates and simplifies the deployment of virtualization, Kubernetes, and OpenStack infrastructure.
+- [bigstack-oss/cubecos](https://github.com/bigstack-oss/cubecos) - Open-source cloud native platform that automates and simplifies the deployment of virtualization, Kubernetes, and OpenStack infrastructure.
 - [credativ/ProxLB](https://github.com/credativ/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [cea-hpc/clustershell](https://github.com/cea-hpc/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
@@ -2336,7 +2349,7 @@
 - [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Loki: Open-source solution designed to automate the process of verifying factuality
-- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection, Integrating Classical and Deep Learning Techniques
+- [yzhao062/pyod](https://github.com/yzhao062/pyod) - A Python Library for Outlier and Anomaly Detection on Tabular, Text, and Image Data
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git
 - [giantpinkrobots/varia](https://github.com/giantpinkrobots/varia) - Download manager that supports regular downloads, torrents and videos
 - [JFC-Group/JF-Customisation](https://github.com/JFC-Group/JF-Customisation) - Firmwares, Tips and Tricks regarding JF
@@ -2689,6 +2702,10 @@
 
 ## Rust 
 
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) - A simple TUI for serving local LLM models. Pick a model, pick a backend, serve it
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+- [nearai/ironclaw](https://github.com/nearai/ironclaw) - IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Your favorite Terminal Coding Agent, now in Rust & a Breakdown of the Claude Code leak & discoveries
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [Finesssee/Win-CodexBar](https://github.com/Finesssee/Win-CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. But for Window-Native
@@ -3101,6 +3118,7 @@
 
 ## TypeScript 
 
+- [cline/kanban](https://github.com/cline/kanban) - Launch a local web app that runs CLI agents in parallel
 - [wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander) - A really good JSON viewer browser Extension
 - [raydak-labs/configarr](https://github.com/raydak-labs/configarr) - Sync TRaSH Guides + custom configs with Sonarr/Radarr
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -3109,11 +3127,10 @@
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
 - [codeaashu/claude-code](https://github.com/codeaashu/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
-- [J3vb/OwnCord](https://github.com/J3vb/OwnCord) - OwnCord is a self-hosted, open-source chat platform with text channels, voice/video chat, direct messages, and a desktop client — built for communities that want full control over their data.
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agents, from task to merged PR.
