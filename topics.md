@@ -5813,6 +5813,7 @@
 
 ## others 
 
+- [badger707/m920q-dual-NVME](https://github.com/badger707/m920q-dual-NVME) - Lenovo M920Q dual NVME, conversion to M920X.
 - [shanselman/PeekDesktop](https://github.com/shanselman/PeekDesktop) - Click your desktop to peek at it - just like macOS Sonoma.
 - [chenxiaolong/jellyfin-ffmpeg-fedora](https://github.com/chenxiaolong/jellyfin-ffmpeg-fedora) - Unofficial Fedora packaging scripts for jellyfin-ffmpeg
 - [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD) - Android app for emulating mass storage devices over USB
