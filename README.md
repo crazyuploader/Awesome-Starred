@@ -1973,6 +1973,7 @@
 
 ## Others 
 
+- [badger707/m920q-dual-NVME](https://github.com/badger707/m920q-dual-NVME) - Lenovo M920Q dual NVME, conversion to M920X.
 - [chenxiaolong/jellyfin-ffmpeg-fedora](https://github.com/chenxiaolong/jellyfin-ffmpeg-fedora) - Unofficial Fedora packaging scripts for jellyfin-ffmpeg
 - [poteto/how](https://github.com/poteto/how) - skill for explaining architecture
 - [Tam-Taro/SEL-Filtering-and-Sorting](https://github.com/Tam-Taro/SEL-Filtering-and-Sorting) - This page features AIOStreams templates and AIOMetadata configs for your perfect all-in-one stremio setup.
