@@ -509,6 +509,7 @@
 
 ## Dockerfile 
 
+- [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
 - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior
 - [k8s-operatorhub/community-operators](https://github.com/k8s-operatorhub/community-operators) - The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.
 - [11notes/docker-traefik](https://github.com/11notes/docker-traefik) - Run traefik rootless, distroless and secure by default!
@@ -564,6 +565,7 @@
 
 ## Go 
 
+- [reaper47/recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful recipe manager your whole family will enjoy.
 - [maxmind/geoipupdate](https://github.com/maxmind/geoipupdate) - GeoIP update client code
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
@@ -1375,6 +1377,7 @@
 
 ## Java 
 
+- [cryptomator/cli](https://github.com/cryptomator/cli) - Cryptomator Command-Line Interface
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [mendhak/gpslogger](https://github.com/mendhak/gpslogger) - :satellite: Lightweight GPS Logging Application For Android.
 - [tess1o/geopulse](https://github.com/tess1o/geopulse) - A self-hosted, privacy-first location timeline platform: an open-source alternative to Google Timeline with automatic trip detection, Immich integration, and rich analytics.
@@ -1992,6 +1995,7 @@
 
 ## Others 
 
+- [google/agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 - [qwertyuiop8899/SelfStream](https://github.com/qwertyuiop8899/SelfStream) - 
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
@@ -2798,7 +2802,6 @@
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
-- [kkodecs/livrarr](https://github.com/kkodecs/livrarr) - 
 - [rustic-rs/rustic_core](https://github.com/rustic-rs/rustic_core) - rustic_core - library for fast, encrypted, deduplicated backups that powers rustic-rs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -3189,6 +3192,7 @@
 
 ## Swift 
 
+- [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - file per mobile app. Ios + Android
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [eugenepyvovarov/MCPbundler](https://github.com/eugenepyvovarov/MCPbundler) - 
@@ -3297,7 +3301,7 @@
 - [mrcanelas/tmdb-addon](https://github.com/mrcanelas/tmdb-addon) - 
 - [cedya77/aiometadata](https://github.com/cedya77/aiometadata) - my space for aiometadata
 - [hhftechnology/traefik-log-dashboard](https://github.com/hhftechnology/traefik-log-dashboard) - A real-time dashboard for analyzing Traefik logs in UI with IP geolocation, status code analysis, and service metrics. Built with React (Shadcn UI) and Node.js.
-- [kamranahmedse/claude-run](https://github.com/kamranahmedse/claude-run) - A beautiful web UI for browsing Claude Code conversation history.
+- [nilbuild/claude-run](https://github.com/nilbuild/claude-run) - A beautiful web UI for browsing Claude Code conversation history.
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters. Built on top of restic
@@ -3589,7 +3593,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## V 
 
