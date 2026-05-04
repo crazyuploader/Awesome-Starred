@@ -424,7 +424,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -450,7 +450,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
@@ -959,7 +959,7 @@
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
 - [prakash-chakraborty/free-tshirts-stickers-and-swag-for-developers](https://github.com/prakash-chakraborty/free-tshirts-stickers-and-swag-for-developers) - List of free tshirts, stickers and swags available for developers
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [dkhamsing/awesome_bot](https://github.com/dkhamsing/awesome_bot) - :white_check_mark: Validate links in awesome projects
 - [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
@@ -1034,7 +1034,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [GDGAhmedabad/Awesome-Learning-Resources](https://github.com/GDGAhmedabad/Awesome-Learning-Resources) - "Technology Gold mine" to collect and share materials/resources
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [androiddevnotes/awesome-android-learning-resources](https://github.com/androiddevnotes/awesome-android-learning-resources) - 👓 A curated list of awesome android learning resources for android app developers.
@@ -1340,7 +1340,7 @@
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -2297,7 +2297,7 @@
 - [obviyus/playtime-panorama](https://github.com/obviyus/playtime-panorama) - Generate a dense, responsive collage of your Steam library where each header image tile is sized by the playtime.
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [freifunkMUC/ffmuc-salt-public](https://github.com/freifunkMUC/ffmuc-salt-public) - Freifunk München Salt-Stack states
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [robertpsoane/ducker](https://github.com/robertpsoane/ducker) - A slightly quackers Docker TUI based on k9s 🦆
 - [psalias2006/gpu-hot](https://github.com/psalias2006/gpu-hot) - 🔥 Real-time NVIDIA GPU dashboard
 - [simplecontainer/smr](https://github.com/simplecontainer/smr) - Simplecontainer is a lightweight and secure runtime and orchestration layer for isolated container workloads, built for edge and cloud.
@@ -2626,7 +2626,7 @@
 
 ## esp32 
 
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 
@@ -2786,7 +2786,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -2862,7 +2862,7 @@
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
@@ -3253,7 +3253,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
-- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - A Qbittorent Mock with Debrid Support
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet.
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
@@ -4346,7 +4346,7 @@
 - [abelljs/abell](https://github.com/abelljs/abell) - A Low-Level, Framework Agnostic, Highly Flexible Static-Site-Generator to help you build Static Sites on a smaller learning curve 🌀
 - [styfle/awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - 🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop
 - [syntaxfm/website](https://github.com/syntaxfm/website) - Syntax Podcast Website
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) - Updates README with the recent GitHub activity of a user
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
@@ -4749,7 +4749,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 - [Leox1024/homelab-ansible-ops](https://github.com/Leox1024/homelab-ansible-ops) - Modular playbooks for system updates, hardening, Docker, Kubernetes, Proxmox VE and more
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [forge-ext/forge](https://github.com/forge-ext/forge) - Forge - Tiling and Window Manager for Gnome-Shell
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
@@ -4958,7 +4958,7 @@
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
@@ -5329,7 +5329,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/sentinel mode setup on top of the Kubernetes.
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [percona/pmm](https://github.com/percona/pmm) - Percona Monitoring and Management: an open source database monitoring, observability and management tool
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) - SRE Agent - CNCF Sandbox Project
@@ -5570,7 +5570,6 @@
 
 ## node 
 
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [ONLYOFFICE/DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .doc
@@ -5594,7 +5593,7 @@
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar) - 🚀 Gitwar - Compete with Github ( ⚠️ NOT ACTIVELY MAINTAINED )
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 
 ## nodejs 
@@ -5673,7 +5672,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find broken links, missing images, etc within your HTML.
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [cyberpirate92/code2img](https://github.com/cyberpirate92/code2img) - Open REST API to create beautiful images of code snippets with 20+ color themes and syntax highlighting support for 10+ languages.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -5736,6 +5735,7 @@
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Esubaalew/run](https://github.com/Esubaalew/run) - Universal multi-language runner and smart REPL written in Rust.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -5774,7 +5774,7 @@
 - [opencart/opencart](https://github.com/opencart/opencart) - A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -5835,7 +5835,7 @@
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
@@ -7382,7 +7382,7 @@
 - [TheCaduceus/tg-upload](https://github.com/TheCaduceus/tg-upload) - An open-source Python program or a CLI Tool to upload/download files/folders to/from Telegram effortlessly.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos) - A self-hosted open source photo management service.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -7587,7 +7587,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
@@ -8906,6 +8906,7 @@
 - [stegripe/rawon](https://github.com/stegripe/rawon) - A simple powerful Discord music (multi-)bot built to fulfill your production desires. Easy to use, with no coding required.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [eritislami/evobot](https://github.com/eritislami/evobot) - 🤖 EvoBot is a Discord Music Bot built with TypeScript + Discord.js, includes Docker builds & localization in 20+ languages
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
 - [iam4x/bobarr](https://github.com/iam4x/bobarr) - 🍿 The all-in-one alternative for Sonarr, Radarr, Jackett... with a VPN and running in docker
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [varbhat/exatorrent](https://github.com/varbhat/exatorrent) - 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
@@ -8945,7 +8946,7 @@
 ## ubuntu 
 
 - [angristan/ansible-restic](https://github.com/angristan/ansible-restic) - Ansible role for restic
-- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Monitoring Automation Platform
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [aptly-dev/aptly](https://github.com/aptly-dev/aptly) - aptly - Debian repository management tool
 - [Jean28518/linux-assistant](https://github.com/Jean28518/linux-assistant) - A daily linux helper with powerful integrated search, routines checks and administrative tasks. The Project is built with flutter and python.
