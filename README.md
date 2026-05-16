@@ -117,7 +117,6 @@
 ## C 
 
 - [stintel/vallumd](https://github.com/stintel/vallumd) - Centralize or distribute IPset blacklists
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [dimitri/pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a Postgres database to a target Postgres server (pg_dump | pg_restore on steroids)
 - [2ndQuadrant/pglogical](https://github.com/2ndQuadrant/pglogical) - Logical Replication extension for PostgreSQL 17, 16, 15, 14, 13, 12, 11, 10, 9.6, 9.5, 9.4 (Postgres), providing much faster replication than Slony, Bucardo or Londiste, as well as cross-version upgra
 - [pmacct/pmacct](https://github.com/pmacct/pmacct) - pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].
@@ -567,6 +566,7 @@
 
 ## Go 
 
+- [ItalyPaleAle/revaulter](https://github.com/ItalyPaleAle/revaulter) - Encrypt, decrypt, and sign with passkeys
 - [fabriziosalmi/caddy-waf](https://github.com/fabriziosalmi/caddy-waf) - Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [Glimesh/broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
@@ -653,7 +653,6 @@
 - [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line.
 - [docker/mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
-- [c3l3si4n/pugdns](https://github.com/c3l3si4n/pugdns) - An experimental high-performance DNS query bruteforce tool built with AF_XDP for extremely fast and accurate bulk DNS lookups.
 - [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Lightweight Certificate Transparency Log Monitor
 - [c3l3si4n/quickcert](https://github.com/c3l3si4n/quickcert) - A better way of querying certificate transparency logs
 - [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) - Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryptographic level (JA3/JA4, Akamai fingerprint, header 
@@ -700,7 +699,7 @@
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [narmidm/k8s-pod-cpu-stressor](https://github.com/narmidm/k8s-pod-cpu-stressor) - The k8s-pod-cpu-stressor is a tool designed to simulate CPU stress on Kubernetes pods. It allows you to specify the desired CPU usage and stress duration, helping you test the behavior of your Kuberne
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go - MIRROR https://codeberg.org/tidwall/gjson
 - [caddyserver/gateway](https://github.com/caddyserver/gateway) - Kubernetes Gateway API implementation powered by Caddy
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
@@ -1484,6 +1483,7 @@
 
 ## JavaScript 
 
+- [dtzp555-max/ocp](https://github.com/dtzp555-max/ocp) - Turn your Claude Pro/Max subscription into an OpenAI-compatible API. One proxy, multiple IDEs, LAN sharing for the whole family. $0 extra cost.
 - [revenz/Fenrus](https://github.com/revenz/Fenrus) - A personal home page for quick access to all your personal apps/sites.
 - [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 - [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
@@ -1670,7 +1670,6 @@
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
@@ -1806,6 +1805,9 @@
 
 ## Kotlin 
 
+- [CreepsoOff/NuvioDesktop](https://github.com/CreepsoOff/NuvioDesktop) - Unofficial fork for the Windows version of Nuvio (from NuvioMobile)
+- [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
+- [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [chenxiaolong/BasicSync](https://github.com/chenxiaolong/BasicSync) - A simple app for running Syncthing on Android
 - [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm) - WebDAV (including CalDAV, CardDAV) library for the Java virtual machine (Java/Kotlin)
 - [glasskube/operator](https://github.com/glasskube/operator) - 🧊 Glasskube Apps Operator
@@ -1955,6 +1957,7 @@
 
 ## Makefile 
 
+- [authcrunch/authcrunch](https://github.com/authcrunch/authcrunch) - Authentication Portal based on Caddy Security
 - [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) - A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...
@@ -2652,7 +2655,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI Data Vault - A query engine for AI Agents to securely query data from any datasource
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.
 - [l3v11/SearchX](https://github.com/l3v11/SearchX) - The Ultimate Telegram Bot for Google Drive
 - [anasty17/mirror-leech-telegram-bot](https://github.com/anasty17/mirror-leech-telegram-bot) - Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds, all yt-dlp supported sites and jdownloa
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Instant Stack Overflow results whenever an exception is thrown
@@ -2862,6 +2865,7 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [oschwald/maxminddb-rust](https://github.com/oschwald/maxminddb-rust) - Rust MaxMind DB Reader
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
+- [c3l3si4n/pugdns](https://github.com/c3l3si4n/pugdns) - An experimental high-performance DNS query bruteforce tool built with AF_XDP for extremely fast and accurate bulk DNS lookups.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -2904,7 +2908,7 @@
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust.
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [pieterdd/RcloneShuttle](https://github.com/pieterdd/RcloneShuttle) - Upload your files to anywhere - GTK4 GUI for Rclone
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
@@ -2978,6 +2982,7 @@
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [svartalf/rust-battop](https://github.com/svartalf/rust-battop) - Interactive batteries viewer
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -3223,6 +3228,7 @@
 
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [eugenepyvovarov/MCPbundler](https://github.com/eugenepyvovarov/MCPbundler) - 
 - [Mcrich23/Container-Compose](https://github.com/Mcrich23/Container-Compose) - A docker-compose like tool for Apple Container
@@ -3256,6 +3262,8 @@
 
 ## TypeScript 
 
+- [ParticularCatch449/Nuvio](https://github.com/ParticularCatch449/Nuvio) - Nuvio account and collections builder based off my TVFlix builder
+- [NoeFabris/opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google cr
 - [eknuth/sigpocket](https://github.com/eknuth/sigpocket) - Mobile observability client for SigNoz
 - [headlamp-k8s/plugins](https://github.com/headlamp-k8s/plugins) - Official plugins of the Headlamp project
 - [graphql/graphql-js](https://github.com/graphql/graphql-js) - A reference implementation of GraphQL for JavaScript
@@ -3469,6 +3477,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio) - Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [unkeyed/unkey](https://github.com/unkeyed/unkey) - The Developer Platform for Modern APIs
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
@@ -3557,6 +3566,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -3698,7 +3708,6 @@
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 
