@@ -1232,6 +1232,7 @@
 
 ## bot 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 - [SwapnilSoni1999/amul-notify](https://github.com/SwapnilSoni1999/amul-notify) - 🍫 Fastest and most reliable Amul stock checker.
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
@@ -1378,7 +1379,7 @@
 - [mohamed-chs/convoviz](https://github.com/mohamed-chs/convoviz) - Convert your ChatGPT export (ZIP) into clean Markdown text files with inline media, and generate data visualizations like word clouds and usage graphs.
 - [tbxark/ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [henrycunh/golem](https://github.com/henrycunh/golem) - ✨ A beautiful UI for ChatGPT and other conversational models
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [askrella/whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket: :robot:
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1439,6 +1440,7 @@
 
 ## claude-code 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [dtzp555-max/ocp](https://github.com/dtzp555-max/ocp) - Turn your Claude Pro/Max subscription into an OpenAI-compatible API. One proxy, multiple IDEs, LAN sharing for the whole family. $0 extra cost.
 - [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design) - Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -1477,7 +1479,7 @@
 - [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [shoenig/bcrypt-tool](https://github.com/shoenig/bcrypt-tool) - A CLI tool for bcrypt - hash a password, determine if password matches a hash, compute cost of hash
-- [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line.
+- [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1536,6 +1538,7 @@
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve) - 🌟 For when you really just want to serve some files over HTTP right now!
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
@@ -1702,10 +1705,11 @@
 
 ## command-line 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
-- [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line.
+- [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -2269,6 +2273,7 @@
 
 ## discord 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [jordanlambrecht/calendarr](https://github.com/jordanlambrecht/calendarr) - A docker container that will publish Sonarr and Radarr's release calendar to Discord + Slack on a weekly/daily basis
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
 - [afonsojramos/discrakt](https://github.com/afonsojramos/discrakt) - The Trakt 🎥 Plex ▶️ Discord 🎮 Rich Presence that you didn't know you needed.
@@ -2892,7 +2897,7 @@
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -3063,6 +3068,7 @@
 
 ## go 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [TorBox-App/torbox-sdk-go](https://github.com/TorBox-App/torbox-sdk-go) - The official TorBox SDK in Golang
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [reaper47/recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful recipe manager your whole family will enjoy.
@@ -3204,7 +3210,7 @@
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [mvdan/gofumpt](https://github.com/mvdan/gofumpt) - A stricter gofmt
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
@@ -3308,6 +3314,7 @@
 
 ## golang 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [TorBox-App/torbox-sdk-go](https://github.com/TorBox-App/torbox-sdk-go) - The official TorBox SDK in Golang
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
@@ -3475,7 +3482,7 @@
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF tooling for Go and the command line.
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
@@ -3698,6 +3705,7 @@
 
 ## hacktoberfest 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
@@ -4103,6 +4111,7 @@
 
 ## html5 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, sports plays, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening ad
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
@@ -4327,7 +4336,7 @@
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
@@ -4381,7 +4390,7 @@
 - [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator for Node.js
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -4824,7 +4833,7 @@
 ## library 
 
 - [rustic-rs/rustic_core](https://github.com/rustic-rs/rustic_core) - rustic_core - library for fast, encrypted, deduplicated backups that powers rustic-rs
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [nicholas-fedor/shoutrrr](https://github.com/nicholas-fedor/shoutrrr) - A notification library for gophers and their furry friends.
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
 - [arvidn/libtorrent](https://github.com/arvidn/libtorrent) - an efficient feature complete C++ bittorrent implementation
@@ -5755,7 +5764,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
@@ -6002,6 +6011,10 @@
 
 ## others 
 
+- [qunabu/Gravity](https://github.com/qunabu/Gravity) - 
+- [wifi-x-smasher/nuvio-windows-unofficial](https://github.com/wifi-x-smasher/nuvio-windows-unofficial) - Unofficial Windows desktop client for Nuvio, built as a community/experimental port. Not affiliated with or endorsed by the official Nuvio developers.
+- [githubnext/agentics](https://github.com/githubnext/agentics) - A sample pack of GitHub Agentic Workflows!
+- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - 
 - [Avangelista/syncio](https://github.com/Avangelista/syncio) - 
 - [rustfs/cli](https://github.com/rustfs/cli) - A S3-compatible command-line client written in Rust.
 - [rustfs/mcp](https://github.com/rustfs/mcp) - High-performance MCP server providing S3-compatible object storage operations for AI/LLM integration
@@ -7340,7 +7353,7 @@
 ## productivity 
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line.
+- [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [Sathvik-Rao/ClipCascade](https://github.com/Sathvik-Rao/ClipCascade) - ClipCascade is a lightweight utility that automatically syncs the clipboard across devices, no key press required.
@@ -7529,7 +7542,7 @@
 - [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [Manisso/fsociety](https://github.com/Manisso/fsociety) - fsociety Hacking Tools Pack – A Penetration Testing Framework
 - [fortra/impacket](https://github.com/fortra/impacket) - Impacket is a collection of Python classes for working with network protocols.
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
@@ -7812,13 +7825,14 @@
 
 ## react 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks.
 - [vavallee/bindery](https://github.com/vavallee/bindery) - Automated book download manager for Usenet. Monitor authors, search indexers, download via SABnzbd, and organize your library. The modern replacement for Readarr.
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [gnovotny/nothing-to-watch](https://github.com/gnovotny/nothing-to-watch) - An experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram
@@ -8725,6 +8739,7 @@
 
 ## tailwindcss 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [oss-apps/split-pro](https://github.com/oss-apps/split-pro) - Open source alternative to Splitwise
@@ -8750,6 +8765,7 @@
 
 ## telegram 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [SwapnilSoni1999/amul-notify](https://github.com/SwapnilSoni1999/amul-notify) - 🍫 Fastest and most reliable Amul stock checker.
 - [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id for documentation.
 - [devgaganin/Auto-Forward-Bot-V2](https://github.com/devgaganin/Auto-Forward-Bot-V2) - Advance telegram messages/files forwarder bot that can also save the restricted content materials on channels/group.
@@ -9034,6 +9050,7 @@
 
 ## twitter 
 
+- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [jonjomckay/fritter](https://github.com/jonjomckay/fritter) - A privacy-friendly Twitter frontend for mobile devices
@@ -9180,7 +9197,7 @@
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your tea
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - MagenticLite is an experimental agent that works across the browser and local file system
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -9201,6 +9218,7 @@
 
 ## ui-design 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [Pool-Of-Tears/Myne](https://github.com/Pool-Of-Tears/Myne) - An android app to download & read ebooks from Project Gutenberg, built with  Jetpack Compose.
 
 ## userscript 
