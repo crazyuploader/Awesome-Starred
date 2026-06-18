@@ -1825,9 +1825,9 @@
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [wifi-x-smasher/nuvio-windows-unofficial](https://github.com/wifi-x-smasher/nuvio-windows-unofficial) - Unofficial Windows desktop client for Nuvio, built as a community/experimental port. Not affiliated with or endorsed by the official Nuvio developers.
-- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - 
+- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - Official Nuvio Desktop Repository
 - [Animetailapp/Animetail](https://github.com/Animetailapp/Animetail) - Unofficial fork of Aniyomi
-- [CreepsoOff/NuvioDesktop](https://github.com/CreepsoOff/NuvioDesktop) - Unofficial fork for the Windows version of Nuvio (from NuvioMobile)
+- [CreepsoOff/NuvioDesktop-Unofficial](https://github.com/CreepsoOff/NuvioDesktop-Unofficial) - Unofficial fork for the Windows version of Nuvio (from NuvioMobile)
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD) - Android app for emulating mass storage devices over USB
