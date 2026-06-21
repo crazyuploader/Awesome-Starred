@@ -216,7 +216,6 @@
 - [akopytov/sysbench](https://github.com/akopytov/sysbench) - Scriptable database and system performance benchmark
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [RIPE-NCC/ripe-atlas-software-probe](https://github.com/RIPE-NCC/ripe-atlas-software-probe) - Probe codebase of RIPE Atlas, a global network measuring Internet connectivity and reachability
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -314,6 +313,7 @@
 
 ## C++ 
 
+- [yandex/yaff](https://github.com/yandex/yaff) - YaFF is a high-performance C++ serialization library that provides a zero-copy wire format for the Protobuf ecosystem.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
 - [dubhatervapoursynth/vapoursynth-mvtools](https://github.com/dubhatervapoursynth/vapoursynth-mvtools) - Motion compensation and stuff
@@ -620,6 +620,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - The Coordination Layer for Multi-Agent AI
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
 - [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
 - [breml/go-uptime-kuma-client](https://github.com/breml/go-uptime-kuma-client) - Go Client for Uptime Kuma API
@@ -715,7 +716,7 @@
 - [caddyserver/ingress](https://github.com/caddyserver/ingress) - WIP Caddy 2 ingress controller for Kubernetes
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 - [9seconds/mtg](https://github.com/9seconds/mtg) - Highly opinionated MTPROTO proxy for Telegram
 - [simplecontainer/smr](https://github.com/simplecontainer/smr) - Simplecontainer is a lightweight and secure runtime and orchestration layer for isolated container workloads, built for edge and cloud.
@@ -1278,6 +1279,7 @@
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [appleboy/drone-telegram](https://github.com/appleboy/drone-telegram) - Drone plugin for sending Telegram notifications
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1315,7 +1317,7 @@
 ## HLSL 
 
 - [Blinue/Magpie](https://github.com/Blinue/Magpie) - A general-purpose window upscaler for Windows 10/11.
-- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Unlock the full potential of your Intel/AMD based device.
+- [JamesCJ60/Universal-x86-Tuning-Utility](https://github.com/JamesCJ60/Universal-x86-Tuning-Utility) - Your Hardware. Your Rules. Open. Powerful. Unrestricted Tuning.
 
 ## HTML 
 
@@ -1496,6 +1498,7 @@
 
 ## JavaScript 
 
+- [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - NSE BSE Indian Stock Market Data MCP server — search, screen & analyze all 8,200+ NSE/BSE stocks with 34 tools: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, IPOs & portfolio
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1806,7 +1809,6 @@
 - [quantopian/alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive (alpha) stock factors
 - [bukosabino/ta](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas and Numpy
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Algorithmic Trading, 2nd edition.
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [quantopian/pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
@@ -1826,7 +1828,7 @@
 - [wifi-x-smasher/nuvio-windows-unofficial](https://github.com/wifi-x-smasher/nuvio-windows-unofficial) - Unofficial Windows desktop client for Nuvio, built as a community/experimental port. Not affiliated with or endorsed by the official Nuvio developers.
 - [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - Official Nuvio Desktop Repository
 - [Animetailapp/Animetail](https://github.com/Animetailapp/Animetail) - Unofficial fork of Aniyomi
-- [CreepsoOff/NuvioDesktop-Unofficial](https://github.com/CreepsoOff/NuvioDesktop-Unofficial) - Unofficial fork for the Windows version of Nuvio (from NuvioMobile)
+- [CreepsoOff/NuvioDesktop-Unofficial](https://github.com/CreepsoOff/NuvioDesktop-Unofficial) - Unofficial fork for the Windows version of Nuvio (from NuvioMobile) Use https://github.com/NuvioMedia/NuvioDesktop
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
 - [NuvioMedia/NuvioTV](https://github.com/NuvioMedia/NuvioTV) - Official Nuvio Android TV Repository
 - [chenxiaolong/MSD](https://github.com/chenxiaolong/MSD) - Android app for emulating mass storage devices over USB
@@ -2096,6 +2098,7 @@
 - [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android) - A curated list of awesome Android packages and resources.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 - [rfmoz/grafana-dashboards](https://github.com/rfmoz/grafana-dashboards) - Grafana dashboards
@@ -2294,6 +2297,9 @@
 
 ## Python 
 
+- [TheHardeep/fenix](https://github.com/TheHardeep/fenix) - A Python library for trading in the Indian Finance Sector with support for 15+ broker APIs.
+- [leyten/shard](https://github.com/leyten/shard) - Pipeline-parallel LLM inference across GPUs on separate machines.
+- [vikassharma545/Historical-Market-data-From-Zerodha](https://github.com/vikassharma545/Historical-Market-data-From-Zerodha) - This repository contains Python code to Download Historical Stocks data and Intraday Options data without any cost, Extraction from Zerodha.com
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts
 - [redditraffler/redditraffler](https://github.com/redditraffler/redditraffler) - The raffle system for Reddit submissions.
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
@@ -2335,7 +2341,6 @@
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 
-- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
@@ -2623,7 +2628,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [sigma67/spotify_to_ytmusic](https://github.com/sigma67/spotify_to_ytmusic) - Clone a Spotify playlist to YouTube Music
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -2868,6 +2873,7 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 41 services, 3,704 operations, true 100% Smithy conformance (124,255/124,255 variants pass). No account, no auth token, no paid tier.
 - [rustfs/cli](https://github.com/rustfs/cli) - A S3-compatible command-line client written in Rust.
 - [rustfs/mcp](https://github.com/rustfs/mcp) - High-performance MCP server providing S3-compatible object storage operations for AI/LLM integration
@@ -3281,6 +3287,7 @@
 
 ## Swift 
 
+- [supabitapp/supaterm](https://github.com/supabitapp/supaterm) - a terminal for the coding agents age
 - [turkenh/KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac
 - [JohnnWi/homelab-project](https://github.com/JohnnWi/homelab-project) - Homelab App ios android
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
@@ -3317,6 +3324,11 @@
 
 ## TypeScript 
 
+- [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
+- [ngrok/webernetes](https://github.com/ngrok/webernetes) - Kubernetes in the browser.
+- [perminder-klair/locca](https://github.com/perminder-klair/locca) - A TUI around llama.cpp for running, managing, and benchmarking local GGUF models and launching the pi coding agent against your local server.
+- [perminder-klair/subwave](https://github.com/perminder-klair/subwave) - Personal internet radio: Agentic AI DJ
+- [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [qunabu/Gravity](https://github.com/qunabu/Gravity) - Gravity · Solar System Simulator
@@ -3361,7 +3373,7 @@
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr
 - [k1LoW/mo](https://github.com/k1LoW/mo) - mo is a Markdown viewer that opens .md files in a browser.
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [codeaashu/claude-code](https://github.com/codeaashu/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [1st1/lat.md](https://github.com/1st1/lat.md) - Agent Lattice: a knowledge graph for your codebase, written in markdown.
