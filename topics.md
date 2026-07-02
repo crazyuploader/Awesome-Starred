@@ -172,6 +172,7 @@
 - [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -3201,7 +3202,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
-- [shiyanhui/dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
+- [yann-shi/dht](https://github.com/yann-shi/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - markdown parser and HTML renderer for Go
@@ -4848,6 +4849,15 @@
 
 - [sb2nov/resume](https://github.com/sb2nov/resume) - Software developer resume in Latex
 
+## learn-to-code 
+
+- [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+- [denysdovhan/learnyoubash](https://github.com/denysdovhan/learnyoubash) - Learn you how to write your first bash script
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [GitbookIO/javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+
 ## learning 
 
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -6282,7 +6292,7 @@
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
 - [shemanaev/jellyfin-plugin-webhooks](https://github.com/shemanaev/jellyfin-plugin-webhooks) - Webhooks for Jellyfin
 - [NanashiTheNameless/Zorin-OS-Pro](https://github.com/NanashiTheNameless/Zorin-OS-Pro) - This script turns your Zorin OS CORE into Zorin OS PRO
-- [shemanaev/jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) - Automatically delete played media files after specified amount of time.
+- [shemanaev/jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) - Automatically delete media according to configurable rules.
 - [Schaka/janitorr](https://github.com/Schaka/janitorr) - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space
 - [prayag17/Blink](https://github.com/prayag17/Blink) - Modern Desktop Jellyfin Client made with Tauri and React :atom_symbol:
 - [mrcanelas/tmdb-addon](https://github.com/mrcanelas/tmdb-addon) - 
@@ -6928,7 +6938,7 @@
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Bugazelle/export-csv-to-influx](https://github.com/Bugazelle/export-csv-to-influx) - The python library to write the CSV data into Influx. Support me via Bitcoin: bc1qqgkmph9cvygzxfpupv4jr4n0nfx3qumwg39j5w
 - [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - API datasource for grafana. Visualize data from JSON / CSV / TSV / XML / GraphQL endpoints
 - [wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell) - SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [Blobbackup/Blobbackup](https://github.com/Blobbackup/Blobbackup) - Private, Secure Computer Backups
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
@@ -7693,7 +7703,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for browser automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
