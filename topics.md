@@ -399,6 +399,7 @@
 
 ## ai 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod is a self-hosted server that removes ads before you ever hit play
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
@@ -1123,7 +1124,7 @@
 
 ## aws 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 78 services, 5,533 operations, true 100% Smithy conformance (185,391/185,391 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 81 services, 5,697 operations, true 100% Smithy conformance (190,624/190,624 variants pass). No account, no auth token, no paid tier.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -1761,6 +1762,7 @@
 
 ## code-quality 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - Programming style, best practices, and coding conventions.
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 
@@ -2211,6 +2213,7 @@
 
 ## developer-tools 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [dtzp555-max/ocp](https://github.com/dtzp555-max/ocp) - Turn your Claude Pro/Max subscription into an OpenAI-compatible API. One proxy, multiple IDEs, LAN sharing for the whole family. $0 extra cost.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -2637,8 +2640,9 @@
 
 ## documentation 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [tauri-apps/tauri-docs](https://github.com/tauri-apps/tauri-docs) - The source for all Tauri project documentation.
-- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, sports plays, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening ad
+- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
 - [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
@@ -2776,7 +2780,7 @@
 
 ## emulator 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 78 services, 5,533 operations, true 100% Smithy conformance (185,391/185,391 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 81 services, 5,697 operations, true 100% Smithy conformance (190,624/190,624 variants pass). No account, no auth token, no paid tier.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [TrungNguyen1909/qemu-t8030](https://github.com/TrungNguyen1909/qemu-t8030) - iPhone 11 emulated on QEMU
@@ -4186,7 +4190,7 @@
 ## html5 
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
-- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, sports plays, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening ad
+- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Free open source home automation system for Linux, Windows, Raspberry Pi. Supports Z-Wave, Zigbee, MQTT, and 150+ devices.
@@ -5463,6 +5467,7 @@
 
 ## mcp 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - NSE BSE Indian Stock Market Data MCP server — search, screen & analyze all 8,200+ NSE/BSE stocks with 34 tools: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, IPOs & portfolio
 - [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
@@ -5955,6 +5960,7 @@
 
 ## open-source 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [Sync-in/server](https://github.com/Sync-in/server) - Sync-in Server · Sovereign platform for file storage, sharing, synchronization, and collaboration.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -6211,7 +6217,7 @@
 - [Mibayy/token-savior](https://github.com/Mibayy/token-savior) - The MCP server that turns Claude into the only coding agent hitting 100% on a real benchmark. -77% active tokens, -76% wall time, 0 losses across 96 tasks on Claude Opus 4.7. Structural code navigatio
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [Faustvii/Readarr](https://github.com/Faustvii/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
-- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
+- [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - [READ-ONLY MIRROR] A CoreDNS plugin to resolve all types of external Kubernetes resources
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [lostb1t/Gelato](https://github.com/lostb1t/Gelato) - Jellyfin Stremio Integration Plugin
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
@@ -7539,6 +7545,7 @@
 
 ## python 
 
+- [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
@@ -8442,7 +8449,7 @@
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [joaosavi/nexotv](https://github.com/joaosavi/nexotv) - Watch your IPTV streams directly in Stremio
 - [distr-sh/distr](https://github.com/distr-sh/distr) - The Open Source control plane for self-hosted, BYOC, and on-prem deployments. Everything you need to distribute applications to self-hosted customers out of the box. Supporting Docker Compose, Docker 
-- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - One file. Everything connected. Map networks, smart homes, sports plays, mind maps, or infrastructure in a single self contained file. Offline first, animated, encrypted, fully styled. Networkening ad
+- [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
 - [papra-hq/papra](https://github.com/papra-hq/papra) - The minimalistic document archiving platform.
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
@@ -8574,6 +8581,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+- [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 
 ## server 
@@ -8602,6 +8610,7 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [markserv/markserv](https://github.com/markserv/markserv) - 🏁  serve markdown as html (GitHub style), index directories, live-reload as you edit
+- [owncloud/core](https://github.com/owncloud/core) - :cloud: ownCloud web server core (Files, DAV, etc.)
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 
 ## serverless 
@@ -9080,7 +9089,7 @@
 
 ## terraform 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 78 services, 5,533 operations, true 100% Smithy conformance (185,391/185,391 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 81 services, 5,697 operations, true 100% Smithy conformance (190,624/190,624 variants pass). No account, no auth token, no paid tier.
 - [hetznercloud/terraform-provider-hcloud](https://github.com/hetznercloud/terraform-provider-hcloud) - Terraform Hetzner Cloud provider
 - [uptimerobot/terraform-provider-uptimerobot](https://github.com/uptimerobot/terraform-provider-uptimerobot) - Terraform Provider for UptimeRobot
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform / OpenTofu Provider for Proxmox VE
