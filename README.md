@@ -1276,7 +1276,6 @@
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [genuinetools/img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [rule110-io/surge](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
@@ -1291,6 +1290,7 @@
 
 ## Go Template 
 
+- [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts
 - [guerzon/vaultwarden](https://github.com/guerzon/vaultwarden) - Helm chart for Vaultwarden, the (unofficial) Bitwarden-compatible server written in Rust
 - [trueforge-org/truecharts](https://github.com/trueforge-org/truecharts) - Community Helm Chart Repository
@@ -1534,6 +1534,7 @@
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User reviews, Seerr integration with auto-request, a media calendar and download monitor v
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [Stremio/stremio-addon-sdk](https://github.com/Stremio/stremio-addon-sdk) - 🧙 A Node.js SDK for creating and publishing Stremio add-ons
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
@@ -1657,7 +1658,7 @@
 - [Not-Quite-RARBG/main](https://github.com/Not-Quite-RARBG/main) - Not Quite RARBG's main website.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [XavierBerger/RPi-Monitor](https://github.com/XavierBerger/RPi-Monitor) - Real time monitoring for embedded devices
+- [RPi-Monitor/RPi-Monitor](https://github.com/RPi-Monitor/RPi-Monitor) - Real time monitoring for embedded devices
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [reek/anti-adblock-killer](https://github.com/reek/anti-adblock-killer) - Anti-Adblock Killer helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 - [github-tools/github-release-notes](https://github.com/github-tools/github-release-notes) - Node module to create a release or a changelog from a tag and uses issues or commits to creating the release notes.
@@ -1832,7 +1833,7 @@
 - [damontecres/Wholphin](https://github.com/damontecres/Wholphin) - An OSS Android TV client for Jellyfin
 - [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
 - [wifi-x-smasher/nuvio-windows-unofficial](https://github.com/wifi-x-smasher/nuvio-windows-unofficial) - Unofficial Windows desktop client for Nuvio, built as a community/experimental port. Not affiliated with or endorsed by the official Nuvio developers.
-- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - Official Nuvio Desktop Repository
+- [NuvioMedia/NuvioDesktop](https://github.com/NuvioMedia/NuvioDesktop) - ⚠️ Alpha Software - Testers Only
 - [Animetailapp/Animetail](https://github.com/Animetailapp/Animetail) - Unofficial fork of Aniyomi
 - [CreepsoOff/NuvioDesktop-Unofficial](https://github.com/CreepsoOff/NuvioDesktop-Unofficial) - Unofficial fork for the Windows version of Nuvio (from NuvioMobile) Use https://github.com/NuvioMedia/NuvioDesktop
 - [NuvioMedia/NuvioMobile](https://github.com/NuvioMedia/NuvioMobile) - Official Nuvio Mobile Repository
@@ -2247,7 +2248,7 @@
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 250 Internet Exchange Points (IXPs) globally.
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
@@ -2316,7 +2317,7 @@
 - [dhan-oss/dhanhq-skills](https://github.com/dhan-oss/dhanhq-skills) - DhanHQ Agent Skills for Indian Markets
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app) - The best open source courseware to learn cloud engineering
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free in the terminal, VSCode extension, and discord like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [aymene69/stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
@@ -2363,7 +2364,6 @@
 - [open-webui/open-terminal](https://github.com/open-webui/open-terminal) - A computer you can curl ⚡
 - [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [darthnorse/dockmon](https://github.com/darthnorse/dockmon) - DockMon - Modern Docker container monitoring with auto-restart and alerts
-- [bigstack-oss/cubecos](https://github.com/bigstack-oss/cubecos) - Open-source cloud native platform that automates and simplifies the deployment of virtualization, Kubernetes, and OpenStack infrastructure.
 - [credativ/ProxLB](https://github.com/credativ/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.
 - [clustershell/clustershell](https://github.com/clustershell/clustershell) - Scalable cluster administration Python framework — Manage node sets, node groups and execute commands on cluster nodes in parallel.
@@ -2893,6 +2893,7 @@
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
 - [rustic-rs/rustic_core](https://github.com/rustic-rs/rustic_core) - rustic_core - library for fast, encrypted, deduplicated backups that powers rustic-rs
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
@@ -3002,7 +3003,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - The Gosub browser engine
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for low-cost models
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -3109,6 +3110,7 @@
 - [dani-garcia/bw_web_builds](https://github.com/dani-garcia/bw_web_builds) - Web vault builds for vaultwarden
 - [mentalblank/GPhotos-Revanced](https://github.com/mentalblank/GPhotos-Revanced) - ReVanced Google Photos APK Auto-Builds
 - [aj-geddes/useful-ai-prompts](https://github.com/aj-geddes/useful-ai-prompts) - A curated collection of useful AI prompts for various tasks and use cases
+- [bigstack-oss/cubecos](https://github.com/bigstack-oss/cubecos) - Open-source cloud native platform that automates and simplifies the deployment of virtualization, Kubernetes, and OpenStack infrastructure.
 - [luizluca/speedtest-shell](https://github.com/luizluca/speedtest-shell) - This is an unofficial speedtest (ookla) client, written in shell script and compatible with most basic systems, including OpenWrt routers
 - [supabase/supabase-grafana](https://github.com/supabase/supabase-grafana) - Observability for your Supabase project, using Prometheus/Grafana
 - [loomchild/volume-backup](https://github.com/loomchild/volume-backup) - docker volume backup & restore utility
@@ -3370,7 +3372,6 @@
 - [RayLabsHQ/gitea-mirror](https://github.com/RayLabsHQ/gitea-mirror) - Gitea Mirror auto-syncs GitHub repos to your self-hosted Gitea/Forgejo, with a sleek Web UI and easy Docker deployment.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
 - [SwapnilSoni1999/amul-notify](https://github.com/SwapnilSoni1999/amul-notify) - 🍫 Fastest and most reliable Amul stock checker.
 - [joaosavi/nexotv](https://github.com/joaosavi/nexotv) - Watch your IPTV streams directly in Stremio
 - [panteLx/aiocatalogs](https://github.com/panteLx/aiocatalogs) - AIOCatalogs is an open-source addon that combines multiple catalog addons into a single one. It offers enhanced performance, user-friendly configuration, and supports various platforms like Stremio, O
@@ -3687,11 +3688,12 @@
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React components for Chart.js, the most popular charting library
 - [gregberge/svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -3762,7 +3764,6 @@
 - [caddymanager/caddymanager](https://github.com/caddymanager/caddymanager) - Easily manage your Caddy2 servers using a modern web-UI, built on the MEVN stack.
 - [djedi/DailyNotes](https://github.com/djedi/DailyNotes) - App for taking notes and tracking tasks on a daily basis
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa
 - [Viren070/stremio-addon-manager](https://github.com/Viren070/stremio-addon-manager) - Manage your Stremio Addons
 - [0xConstant1/stremio-addon-manager](https://github.com/0xConstant1/stremio-addon-manager) - Manage your Stremio Addons
 - [fossunited/fossunited](https://github.com/fossunited/fossunited) - fossunited.org
