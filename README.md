@@ -431,6 +431,7 @@
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
 - [kristuff/apache-fancy-pages](https://github.com/kristuff/apache-fancy-pages) - 🖌️ Modern drop in replacement for default Apache index/error pages.
 - [emmatyping/WSL-Programs](https://github.com/emmatyping/WSL-Programs) - A community powered list of programs that work (and those that don't) on the Windows subsystem for Linux
+- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 - [manton/JSONFeed](https://github.com/manton/JSONFeed) - The JSONFeed.org website
 - [ALIILAPRO/Proxy](https://github.com/ALIILAPRO/Proxy) - Get new and fast proxy list every hour.
@@ -621,6 +622,7 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [sympozium-ai/sympozium](https://github.com/sympozium-ai/sympozium) - The Coordination Layer for Multi-Agent AI
+- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [cyrilgdn/terraform-provider-postgresql](https://github.com/cyrilgdn/terraform-provider-postgresql) - Terraform PostgreSQL provider
 - [breml/terraform-provider-uptimekuma](https://github.com/breml/terraform-provider-uptimekuma) - Terraform provider for uptime kuma
 - [breml/go-uptime-kuma-client](https://github.com/breml/go-uptime-kuma-client) - Go Client for Uptime Kuma API
@@ -1181,7 +1183,7 @@
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [cavaliergopher/grab](https://github.com/cavaliergopher/grab) - A download manager package for Go
@@ -1605,7 +1607,6 @@
 - [miantiao-me/ip-api](https://github.com/miantiao-me/ip-api) - 利用 Cloudflare Workers / Vercel Edge / Netlify Edge 快速搭一个获取 IP 地址和地理位置信息的接口。
 - [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 - [xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) - A URL Shortener created using Cloudflare worker
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [salixor/trakt-anime-history](https://github.com/salixor/trakt-anime-history) - Let's move back MyAnimeList and AniList history to trakt.tv to centralize it !
 - [mcastillof/FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -1986,7 +1987,6 @@
 - [weaveworks/weave-gitops](https://github.com/weaveworks/weave-gitops) - Weave GitOps is transitioning to a community driven project! It provides insights into your application deployments, and makes continuous delivery with GitOps easier to adopt and scale across your tea
 - [mintlify/starter](https://github.com/mintlify/starter) - The starter kit for your mintlify project
 - [SigNoz/signoz.io](https://github.com/SigNoz/signoz.io) - SigNoz Website
-- [prakhar1989/docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - :dolphin: A comprehensive tutorial on getting started with Docker!
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -2326,7 +2326,7 @@
 - [dhan-oss/dhanhq-skills](https://github.com/dhan-oss/dhanhq-skills) - DhanHQ Agent Skills for Indian Markets
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app) - The best open source courseware to learn cloud engineering
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, IDE, and phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [aymene69/stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
@@ -2359,12 +2359,11 @@
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [GAIR-NLP/daVinci-MagiHuman](https://github.com/GAIR-NLP/daVinci-MagiHuman) - 
-- [mozilla-ai/cq](https://github.com/mozilla-ai/cq) - An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [allenai/molmoweb](https://github.com/allenai/molmoweb) - 
 - [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id for documentation.
@@ -2385,7 +2384,7 @@
 - [TorBox-App/torbox-media-center](https://github.com/TorBox-App/torbox-media-center) - Mounts your TorBox account to your local system for use with external applications.
 - [caddy-ansible/caddy-ansible](https://github.com/caddy-ansible/caddy-ansible) - Ansible role for installing and configuring the Caddy web server
 - [aahnik/tgcf](https://github.com/aahnik/tgcf) - The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom 
-- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted media tracking for people who miss Trakt.
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [skoruppa/stremio-community-subtitles](https://github.com/skoruppa/stremio-community-subtitles) - A subtitle management addon from Stremio
 - [SageTendo/mal-stremio-addon](https://github.com/SageTendo/mal-stremio-addon) - A Stremio addon which allows users to access their anime lists through the MyAnimeList API, directly from within Stremio. With this addon, users can easily keep track of the content they've watched/pl
@@ -2424,7 +2423,7 @@
 - [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python) - OpenTelemetry Python API and SDK
-- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
+- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid/usenet search add-on.
 - [lftraining/LFS148-code](https://github.com/lftraining/LFS148-code) - Public code for lfs148x
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [DeepakAwasthi97/API_Amul-Protein-Notifier](https://github.com/DeepakAwasthi97/API_Amul-Protein-Notifier) - This is Amul protein notifier which uses APIs to fetch the current status of a product at a particular pincode
@@ -3565,6 +3564,7 @@
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare) - ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 - [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker) - Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [sussy-code/smov](https://github.com/sussy-code/smov) - Sudo-flix's source code (Allegedly)
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
