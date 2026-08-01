@@ -345,7 +345,7 @@
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
 - [jonwiggins/optio](https://github.com/jonwiggins/optio) - Workflow orchestration for AI coding agent swarms, from task to merged PR.
 - [samber/cc-skills](https://github.com/samber/cc-skills) - 🧑‍🎨 A collection of agentic skills that works
@@ -523,6 +523,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1285,7 +1286,6 @@
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
-- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [tbxark/ChatGPT-Telegram-Workers](https://github.com/tbxark/ChatGPT-Telegram-Workers) - Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
@@ -2229,7 +2229,7 @@
 
 ## developer-tools 
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [repowise-dev/repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [dtzp555-max/ocp](https://github.com/dtzp555-max/ocp) - Turn your Claude Pro/Max subscription into an OpenAI-compatible API for your IDEs and devices — LAN auth, per-key quotas, response cache, disciplined cli.js alignment. $0 extra cost.
@@ -2308,6 +2308,7 @@
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [jsdelivr/globalping-cli](https://github.com/jsdelivr/globalping-cli) - A simple CLI tool to run networking commands remotely from hundreds of globally distributed servers
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.
 - [cloudposse/atmos](https://github.com/cloudposse/atmos) - Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
@@ -2453,6 +2454,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [offen/docker-volume-backup](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [shubh-io/DockMate](https://github.com/shubh-io/DockMate) - Dockmate: The open-source Docker TUI & Podman manager for terminal productivity. A fast, lightweight alternative to lazydocker built in Go.
@@ -2522,7 +2524,6 @@
 - [FoxxMD/multi-scrobbler](https://github.com/FoxxMD/multi-scrobbler) - Scrobble plays from multiple sources to multiple clients
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [devfinwiz/Fin-Maestro-Kin](https://github.com/devfinwiz/Fin-Maestro-Kin) - Seamless Finance: Docker-Deployed APIs for Smart Investments. [WORK IN PROGRESS]
-- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
@@ -3359,7 +3360,7 @@
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
 - [rs/curlie](https://github.com/rs/curlie) - The power of curl, the ease of use of httpie.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [showwin/speedtest-go](https://github.com/showwin/speedtest-go) - CLI and Go API to Test Internet Speed using speedtest.net
 - [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
@@ -5160,7 +5161,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
@@ -5484,7 +5485,7 @@
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [mayokunadeniyi/Instant-Weather](https://github.com/mayokunadeniyi/Instant-Weather) - An Android weather application implemented using the MVVM pattern, Retrofit2, Dagger Hilt, LiveData, ViewModel, Coroutines, Room, Navigation Components, Data Binding and some other libraries from the 
@@ -5567,7 +5568,7 @@
 - [percona/percona-backup-mongodb](https://github.com/percona/percona-backup-mongodb) - Percona Backup for MongoDB
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [percona/mongodb_exporter](https://github.com/percona/mongodb_exporter) - A Prometheus exporter for MongoDB including sharding, replication and storage engines
 - [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
@@ -5582,7 +5583,7 @@
 
 - [lissy93/domain-locker](https://github.com/lissy93/domain-locker) - 🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Scraparr is a Prometheus Exporter for various components of the *arr Suite
+- [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox) - The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control, intelligent load balancing, and seamless cross-cluster VM migrations — all in one beautiful interf
 - [OT-CONTAINER-KIT/redis-operator](https://github.com/OT-CONTAINER-KIT/redis-operator) - A golang based redis operator that will make/oversee Redis standalone/cluster/replication/ sentinel mode setup on top of the Kubernetes.
@@ -5711,7 +5712,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
@@ -6061,7 +6062,7 @@
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) - GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. Deploy AI agent teams at scale without compromising on safety.
 - [Prat011/awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) - A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents
 - [567-labs/instructor](https://github.com/567-labs/instructor) - structured outputs for llms
@@ -6139,6 +6140,7 @@
 
 ## others 
 
+- [FiorenMas/Revanced-And-Revanced-Extended-Non-Root](https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root) - Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release
 - [SigNoz/charts](https://github.com/SigNoz/charts) - Helm Charts for SigNoz
 - [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) - A Call of Duty-quality FPS in Three.js, built from a single prompt.
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone)
@@ -6192,7 +6194,7 @@
 - [techuhak/Nuvio-Account-Manager](https://github.com/techuhak/Nuvio-Account-Manager) - 
 - [yaml/go-yaml](https://github.com/yaml/go-yaml) - The YAML org maintained fork of https://github.com/go-yaml/yaml
 - [Animetailapp/Animetail](https://github.com/Animetailapp/Animetail) - Unofficial fork of Aniyomi
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The Programming Language for Agents
 - [wuplayapp/wuplay-releases](https://github.com/wuplayapp/wuplay-releases) - WuPlay for Android TV — releases and issue tracker
 - [vercel-labs/native](https://github.com/vercel-labs/native) - Toolkit for building native desktop apps
@@ -6352,7 +6354,6 @@
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is the best backend for AI-coded apps.  You get auth, permissions, storage, presence, and streams — everything you need to ship apps your users will love.
 - [porech/caddy-maxmind-geolocation](https://github.com/porech/caddy-maxmind-geolocation) - Caddy v2 module to filter requests based on source IP geolocation
 - [kadirbelkuyu/kubecfg](https://github.com/kadirbelkuyu/kubecfg) - A fast, secure CLI tool for managing Kubernetes kubeconfig files.
-- [dannyvfilms/Yamtrack](https://github.com/dannyvfilms/Yamtrack) - Yamtrack 2.0 for former Trakt users
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [nick22985/authy-decryptor](https://github.com/nick22985/authy-decryptor) - 
@@ -6483,7 +6484,7 @@
 - [open-telemetry/opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust) - The Rust OpenTelemetry implementation
 - [Zaarrg/stremio-community-v5](https://github.com/Zaarrg/stremio-community-v5) - 🐚 WebView2 and Qt6-based shell, desktop app for Stremio with latest web ui support
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid search add-on.
+- [g0ldyy/comet](https://github.com/g0ldyy/comet) - Stremio's fastest torrent/debrid/usenet search add-on.
 - [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
 - [MunifTanjim/stremthru](https://github.com/MunifTanjim/stremthru) - Companion for Stremio.
 - [lftraining/LFS148-code](https://github.com/lftraining/LFS148-code) - Public code for lfs148x
@@ -6620,8 +6621,8 @@
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [adsbypasser/adsbypasser](https://github.com/adsbypasser/adsbypasser) - Bypass ad counter if possible.
 - [appleboy/ssh-action](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
-- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - HTTP, SOCKS4, SOCKS5 proxies scraper and checker with rich functionality.
-- [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
+- [monosans/proxy-scraper-checker](https://github.com/monosans/proxy-scraper-checker) - Fast proxy scraper and checker written in Rust. Collects HTTP/SOCKS4/SOCKS5 proxies from any source, verifies each one actually works, and exports JSON with response time, exit IP, ASN and geolocation
+- [monosans/proxy-list](https://github.com/monosans/proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxy lists, re-checked every hour. Plain text and JSON with response time, exit IP, ASN and geolocation.
 - [mylar3/mylar3](https://github.com/mylar3/mylar3) - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
 - [iptraf-ng/iptraf-ng](https://github.com/iptraf-ng/iptraf-ng) - IPTraf-ng is a console-based network monitoring program for Linux that displays information about IP traffic.
 - [jam-systems/jam](https://github.com/jam-systems/jam) - 🍓 Jam is your own open source Clubhouse for mini conferences, friends, communities
@@ -7399,7 +7400,7 @@
 - [TablePlus/TablePlus](https://github.com/TablePlus/TablePlus) - TablePlus macOS issue tracker
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
@@ -7507,7 +7508,7 @@
 
 ## productivity 
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [kriuchkov/tock](https://github.com/kriuchkov/tock) - Tock is a powerful time tracking tool for the command line. It saves activity logs as plaintext files and provides an interactive terminal UI for viewing your time.
 - [tasks/tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
@@ -7928,6 +7929,7 @@
 - [LastAncientOne/Stock_Analysis_For_Quant](https://github.com/LastAncientOne/Stock_Analysis_For_Quant) - Various Types of Stock Analysis in Excel, Matlab, Power BI, Python, R, and Tableau
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
@@ -8166,7 +8168,7 @@
 ## reinforcement-learning 
 
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) - Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.
 
@@ -8391,7 +8393,7 @@
 - [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) - DockFlare: Automate Cloudflare Tunnels with Docker Labels
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [soupslurpr/AppVerifier](https://github.com/soupslurpr/AppVerifier) - Verify apps easily.
 - [blokadaorg/blokada](https://github.com/blokadaorg/blokada) - The official repo for Blokada apps.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
@@ -8507,7 +8509,7 @@
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
 - [Sportarr/Sportarr](https://github.com/Sportarr/Sportarr) - Sportarr - Sports PVR for usenet and torrents. Like Sonarr & Radarr but for sports events.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [mostafa-wahied/autoxpose](https://github.com/mostafa-wahied/autoxpose) - Automating DNS and reverse proxy configuration for Docker containers using Docker Labels.
@@ -8518,6 +8520,7 @@
 - [arukaraz/synthseek](https://github.com/arukaraz/synthseek) - Self-hosted music discovery library manager with modern web UI, MCP tools and more...
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
+- [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy) - Self-hosted all-in-one media tracker and Trakt alternative for movies, TV, anime, books, games, music, and podcasts.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack) - A self hosted media tracker.
 - [sbondCo/Watcharr](https://github.com/sbondCo/Watcharr) - Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.
@@ -8625,7 +8628,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and photos, run a Bitcoin node, and do more with over 300 apps in the Umbrel App Store.
 - [wiredlush/easy-gate](https://github.com/wiredlush/easy-gate) - A gate to your self hosted infrastructure
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
@@ -9180,7 +9183,7 @@
 
 ## text-to-speech 
 
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 
 ## trading 
 
@@ -9388,7 +9391,7 @@
 
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek, GLM and other models.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.
 - [standardagents/arrow-js](https://github.com/standardagents/arrow-js) - The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution.
 - [fran-olivares/usulnet](https://github.com/fran-olivares/usulnet) - Open-source Docker infrastructure platform. One web UI — containers, security, DNS, VPN, monitoring, backups, reverse proxy, terminal, and multi-node orchestration. Replace a dozen tools with one.
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -9568,7 +9571,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [pinry/pinry](https://github.com/pinry/pinry) - Pinry, a tiling image board system for people who want to save, tag, and share images, videos and webpages in an easy to skim through format. It's open-source and self-hosted.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
