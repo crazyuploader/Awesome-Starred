@@ -74,7 +74,6 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
-- [Text](#text)
 - [TypeScript](#typescript)
 - [V](#v)
 - [VBScript](#vbscript)
@@ -571,6 +570,7 @@
 
 ## Go 
 
+- [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
@@ -1119,7 +1119,7 @@
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [cecobask/imdb-trakt-sync](https://github.com/cecobask/imdb-trakt-sync) - Automatic sync from IMDb to Trakt (watchlist, lists, ratings and history) using GitHub actions.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [wader/fq](https://github.com/wader/fq) - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
@@ -1699,7 +1699,6 @@
 - [menukaonline/goindex-extended](https://github.com/menukaonline/goindex-extended) - A Google Drive Index, which has a lot of extra features, running on Cloudflare Workers.
 - [git-school/visualizing-git](https://github.com/git-school/visualizing-git) - :framed_picture: Visualize how common Git operations affect the commit graph
 - [sh-dv/hat.sh](https://github.com/sh-dv/hat.sh) - Encrypt and Decrypt files securely in your browser.
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [britecharts/britecharts](https://github.com/britecharts/britecharts) - Composable Charting Library based on reusable D3.js components.
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
@@ -2294,7 +2293,7 @@
 
 ## PowerShell 
 
-- [debridmediamanager/zurg-testing](https://github.com/debridmediamanager/zurg-testing) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
+- [debridmediamanager/zurg-public](https://github.com/debridmediamanager/zurg-public) - A self-hosted Real-Debrid webdav server you can use with Infuse. Together with rclone it can mount your Real-Debrid torrent library into your filesystem and load it to Plex or Jellyfin.
 - [LeDragoX/Win-Debloat-Tools](https://github.com/LeDragoX/Win-Debloat-Tools) - Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.
 - [fscorrupt/posterizarr](https://github.com/fscorrupt/posterizarr) - 🖼️ Automated asset maker for Plex/Jellyfin/Emby.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
@@ -2404,6 +2403,7 @@
 - [matank001/asclepius](https://github.com/matank001/asclepius) - Asclepius validates backup integrity by restoring files and actively testing their recoverability. Instead of trusting metadata, it attempts to parse real file formats (documents, images, archives, co
 - [jslay88/qbt_migrate](https://github.com/jslay88/qbt_migrate) - Migrate qBittorrent downloads
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker
+- [gregs1104/pgbent](https://github.com/gregs1104/pgbent) - PostgreSQL Benchmarking Toolkit
 - [truenas/middleware](https://github.com/truenas/middleware) - TrueNAS CORE/Enterprise/SCALE Middleware Git Repository
 - [Forden/aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - Template for creating scalable bots with aiogram
 - [xgorn/X-URL-Uploader](https://github.com/xgorn/X-URL-Uploader) - Telegram bot to upload HTTP/HTTPS direct link & youtube-dl, clone of TG-URL-Uploader
@@ -3143,7 +3143,6 @@
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker) - The Docker image for Aria2 + AriaNg + File Browser + Rclone
-- [gregs1104/pgbent](https://github.com/gregs1104/pgbent) - PostgreSQL Benchmarking Toolkit
 - [BretFisher/docker-vackup](https://github.com/BretFisher/docker-vackup) - Script to easily backup and restore docker volumes
 - [SpaceinvaderOne/Macinabox](https://github.com/SpaceinvaderOne/Macinabox) - Unraid docker image to help install MacOS vms
 - [rogsme/yams](https://github.com/rogsme/yams) - yams: Yet Another Media Server. My personal media server, easy to install in a bash script. This repository is a mirror, original one in https://git.rogs.me/rogs/yams
@@ -3351,10 +3350,6 @@
 - [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
-
-## Text 
-
-- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
@@ -3689,6 +3684,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
