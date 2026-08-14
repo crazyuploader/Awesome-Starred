@@ -74,6 +74,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [V](#v)
 - [VBScript](#vbscript)
@@ -570,6 +571,7 @@
 
 ## Go 
 
+- [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 多功能加速服务，支持Docker 镜像加速、GitHub 加速、下载离线镜像等功能。轻量级，不占用存储空间。
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer
 - [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
@@ -954,7 +956,7 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [fclairamb/ftpserver](https://github.com/fclairamb/ftpserver) - Golang based autonomous FTP server with SFTP, S3, Dropbox, and Google Drive connectors.
 - [fclairamb/ftpserverlib](https://github.com/fclairamb/ftpserverlib) - golang ftp server library
-- [admpub/nging](https://github.com/admpub/nging) - Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
+- [admpub/nging](https://github.com/admpub/nging) - 网站服务器管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
@@ -1328,6 +1330,7 @@
 
 ## HTML 
 
+- [iptv-org/epg](https://github.com/iptv-org/epg) - Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 - [keiyoushi/extensions](https://github.com/keiyoushi/extensions) - Extension repository for Mihon and variants
 - [easy-torbox/stremio](https://github.com/easy-torbox/stremio) - A privacy-first, serverless configuration tool for an effortless Stremio + TorBox setup. Features 1-click profiles with zero middleman servers.
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
@@ -1524,7 +1527,7 @@
 - [agent0ai/space-agent](https://github.com/agent0ai/space-agent) - The agent that re-shapes the Space
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
-- [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) - Intelligent token optimization for Claude Code - achieving 95%+ token reduction through caching, compression, and smart tool intelligence
+- [ooples/token-optimizer-mcp](https://github.com/ooples/token-optimizer-mcp) - Measure token savings per AI coding agent, optimize context, and share a live local knowledge graph across 16 CLI clients.
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
@@ -1583,7 +1586,7 @@
 - [marketcalls/fastscalper-tauri](https://github.com/marketcalls/fastscalper-tauri) - Fastscalper  - Rust Based Desktop App for OpenAlgo
 - [waylaidwanderer/node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) - A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - CA: HBbDPYzpidbTVUuRwLeWGAAJbGir7NvejvbWNCRdpump
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop video downloader supporting thousands of sites.    CA: HBbDPYzpidbTVUuRwLeWGAAJbGir7NvejvbWNCRdpump
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
@@ -1708,7 +1711,7 @@
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19, SQLite, and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19 without npm, SQLite, and PostgreSQL support ++
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [e7db/speedtest](https://github.com/e7db/speedtest) - A self-hosted, lightweight HTML5 speed test implemented in JavaScript, based on Web Workers and XMLHttpRequest.
@@ -1730,6 +1733,7 @@
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) - PHP Server Monitor
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
@@ -1994,7 +1998,6 @@
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [chronark/chronark.com](https://github.com/chronark/chronark.com) - 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -2008,7 +2011,7 @@
 - [pop-os/iso](https://github.com/pop-os/iso) - Pop!_OS ISO production
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4.
 - [rochacbruno/python-project-template](https://github.com/rochacbruno/python-project-template) - This template is **archived**.   &gt; UV can now [generate a sample project](https://docs.astral.sh/uv/guides/projects/#creating-a-new-project)   &gt; I recommend using **UV** to bootstrap your peojec
 - [yuk7/AlpineWSL](https://github.com/yuk7/AlpineWSL) - Alpine Linux based WSL distribution. Supports multi-install. Lightest WSL distribution.
@@ -2303,7 +2306,7 @@
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [StefanScherer/packer-windows](https://github.com/StefanScherer/packer-windows) - Windows Templates for Packer: Windows 11, Windows 10, Windows Server 2022, 2019, 2016, also with Docker
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module for fine-tuning Windows 10 & Windows 11 on GitHub
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [pbatard/Fido](https://github.com/pbatard/Fido) - A PowerShell script to download Windows or UEFI Shell ISOs
 
@@ -2327,7 +2330,7 @@
 - [vikassharma545/Historical-Market-data-From-Zerodha](https://github.com/vikassharma545/Historical-Market-data-From-Zerodha) - This repository contains Python code to Download Historical Stocks data and Intraday Options data without any cost, Extraction from Zerodha.com
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 - [redditraffler/redditraffler](https://github.com/redditraffler/redditraffler) - The raffle system for Reddit submissions.
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod) - MinusPod is a self-hosted server that removes ads before you ever hit play
 - [dhan-oss/dhanhq-skills](https://github.com/dhan-oss/dhanhq-skills) - DhanHQ Agent Skills for Indian Markets
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
@@ -2369,7 +2372,7 @@
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [allenai/molmoweb](https://github.com/allenai/molmoweb) - 
 - [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id for documentation.
@@ -2899,6 +2902,7 @@
 
 ## Rust 
 
+- [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
 - [nuskey8/lkv](https://github.com/nuskey8/lkv) - A lightweight and fast embedded key-value store for Rust.
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [firecrawl/anydoc](https://github.com/firecrawl/anydoc) - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
@@ -3032,7 +3036,7 @@
 - [nanozuki/dantalian](https://github.com/nanozuki/dantalian) - A nfo file generator for your anime. Source from Bangumi.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -3351,6 +3355,10 @@
 - [jakegut/resume](https://github.com/jakegut/resume) - LaTeX template for my personal resume
 - [becarpenter/book6](https://github.com/becarpenter/book6) - A collaborative IPv6 book
 - [karlseguin/the-little-go-book](https://github.com/karlseguin/the-little-go-book) - 
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
@@ -3683,7 +3691,7 @@
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -3699,7 +3707,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
