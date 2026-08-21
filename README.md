@@ -540,7 +540,6 @@
 - [corneliusludmann/gitpod-krypton-example](https://github.com/corneliusludmann/gitpod-krypton-example) - 
 - [michellabbe/docker-openspeedtest](https://github.com/michellabbe/docker-openspeedtest) - Dockerfile to setup OpenSpeedTest server based on Alpine
 - [alibo/bombsquad-docker](https://github.com/alibo/bombsquad-docker) - An unofficial docker image for server app of BombSquad Game - https://www.froemling.net/apps/bombsquad
-- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image.
 - [appleboy/npm-vs-yarn](https://github.com/appleboy/npm-vs-yarn) - npm vs yarn install speed testing.
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
@@ -904,7 +903,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary
+- [utkuozdemir/nvidia_gpu_exporter](https://github.com/utkuozdemir/nvidia_gpu_exporter) - Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML
 - [onedr0p/exportarr](https://github.com/onedr0p/exportarr) - AIO Prometheus Exporter for Sabnzbd, Bazarr, Prowlarr, Lidarr, Readarr, Radarr, and Sonarr
 - [mvisonneau/gitlab-ci-pipelines-exporter](https://github.com/mvisonneau/gitlab-ci-pipelines-exporter) - Prometheus / OpenMetrics exporter for GitLab CI pipelines insights
 - [cloudflare/gokey](https://github.com/cloudflare/gokey) - A simple vaultless password manager in Go
@@ -1064,7 +1063,7 @@
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [simeji/jid](https://github.com/simeji/jid) - json incremental digger
 - [ipinfo/cli](https://github.com/ipinfo/cli) - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria) - Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -1364,7 +1363,6 @@
 - [Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language) - Dism++ Multi-language Support & BUG Report
 - [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) - 
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make) - Easy setup of common tools for developers on Ubuntu.
 - [judge0/judge0](https://github.com/judge0/judge0) - Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.
 - [varadbhogayata/varadbhogayata.github.io](https://github.com/varadbhogayata/varadbhogayata.github.io) - My Portfolio - Personal Website
@@ -1512,6 +1510,7 @@
 
 ## JavaScript 
 
+- [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) - A Call of Duty-quality FPS in Three.js, built from a single prompt.
 - [nxfu/binthere](https://github.com/nxfu/binthere) - A zero-knowledge, end-to-end encrypted pastebin. Notes are encrypted client-side with AES-256-GCM, self-destruct after one view or 24h, and the server never sees the decryption key.
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
@@ -1715,7 +1714,7 @@
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
 - [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native) - A better aria2 desktop frontend than AriaNg, with all features of AriaNg and providing more features for desktop usage.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, React 19 without npm, SQLite, and PostgreSQL support ++
+- [xyproto/algernon](https://github.com/xyproto/algernon) - Small self-contained pure-Go web server with Lua, Teal, Markdown, HTTP/2, QUIC, Redis, TypeScript, npm-less React 19, SQLite, and PostgreSQL support ++
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [e7db/speedtest](https://github.com/e7db/speedtest) - A self-hosted, lightweight HTML5 speed test implemented in JavaScript, based on Web Workers and XMLHttpRequest.
@@ -1819,7 +1818,6 @@
 ## Jupyter Notebook 
 
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
-- [RArtutos/Data-science-starter-kit-Enhance](https://github.com/RArtutos/Data-science-starter-kit-Enhance) - 
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [ddelony/stats](https://github.com/ddelony/stats) - Data analysis Jupyter notebooks, mostly exploratory
 - [marketcalls/openadvisor](https://github.com/marketcalls/openadvisor) - Self Hostable - Personal Machine Learning Based Stock Recommendation Platform
@@ -3157,7 +3155,6 @@
 - [arthurgeek/vaultwarden-fly-template](https://github.com/arthurgeek/vaultwarden-fly-template) - Template to deploy Vaultwarden on Fly.io with websockets support and sqlite hourly backups
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
-- [NanashiTheNameless/Zorin-OS-Pro](https://github.com/NanashiTheNameless/Zorin-OS-Pro) - This script turns your Zorin OS CORE into Zorin OS PRO
 - [Dunedan/mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
@@ -3299,6 +3296,7 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [redgeoff/openvpn-server-vagrant](https://github.com/redgeoff/openvpn-server-vagrant) - Spin up an OpenVPN Server
+- [Jamesits/docker-ripe-atlas](https://github.com/Jamesits/docker-ripe-atlas) - This is the RIPE Atlas software probe packaged as a Docker image.
 - [sobolevn/misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action) - 📝Automatically fixes typos and mistakes in your source code and docs!
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [magnific0/wondershaper](https://github.com/magnific0/wondershaper) - Command-line utility for limiting an adapter's bandwidth
@@ -3325,7 +3323,6 @@
 
 ## Svelte 
 
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [binimum/tidal-ui](https://github.com/binimum/tidal-ui) - Simple Tidal frontend. Modified version on tidal.squid.wtf
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [deta/formate](https://github.com/deta/formate) - Build forms in minutes
@@ -3374,6 +3371,7 @@
 
 ## TypeScript 
 
+- [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
@@ -3447,6 +3445,7 @@
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
 - [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel.
@@ -3692,6 +3691,7 @@
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
