@@ -495,7 +495,7 @@
 - [DonutWare/Fladder](https://github.com/DonutWare/Fladder) - Fladder - A cross-platform Jellyfin Frontend built on top of Flutter.
 - [ShalmonAnandas/rd_client](https://github.com/ShalmonAnandas/rd_client) - 
 - [UnboundTechCo/defyxVPN](https://github.com/UnboundTechCo/defyxVPN) - A modern, secure VPN application built with Flutter that provides internet freedom and privacy protection.
-- [varunsalian/debrify](https://github.com/varunsalian/debrify) - Unified debrid management meets Stremio and Trakt — control Real-Debrid, Torbox, and PikPak, sync your watch progress, and browse content  from anywhere. Available on Android, Android TV, Windows, mac
+- [varunsalian/debrify](https://github.com/varunsalian/debrify) - Your personal media hub — browse, stream, and organize media from your own services and servers, with a cinematic built-in player. Android, Android TV, iOS, Windows, macOS, and Linux.
 - [finamp-app/finamp](https://github.com/finamp-app/finamp) - An open source Jellyfin music player
 - [Jean28518/linux-assistant](https://github.com/Jean28518/linux-assistant) - A daily linux helper with powerful integrated search, routines checks and administrative tasks. The Project is built with flutter and python.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -575,6 +575,10 @@
 
 ## Go 
 
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
+- [SigNoz/signoz-operator](https://github.com/SigNoz/signoz-operator) - SigNoz Operator for Kubernetes
+- [context-labs/whip](https://github.com/context-labs/whip) - A fast coding-agent harness in Go. Tool-use loop, bubbletea TUI, provider-routable models with live catalog discovery, MCP support, background subagents. One binary, no runtime, built for open-source 
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator
 - [Hendrixx-RE/packichu](https://github.com/Hendrixx-RE/packichu) - Demystifying Linux packages ( my system got too cluttered with junk ive installed)
 - [pinotelio/terraform-provider-n8n](https://github.com/pinotelio/terraform-provider-n8n) - 
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -1303,6 +1307,7 @@
 
 ## Go Template 
 
+- [kernelb00t/paperless-ngx-helm](https://github.com/kernelb00t/paperless-ngx-helm) - Paperless-NGX chart to make sure Paperless is always the latest version in my cluster.
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪
 - [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes
 - [open-telemetry/opentelemetry-helm-charts](https://github.com/open-telemetry/opentelemetry-helm-charts) - OpenTelemetry Helm Charts
@@ -1343,7 +1348,7 @@
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [nr-yolo/netflow](https://github.com/nr-yolo/netflow) - Live packet flow visualizer — fetches from ntop, geocodes IPs, resolves hostnames, detects device OS, and renders animated arcs on a world map.
 - [gelatinescreams/The-One-File](https://github.com/gelatinescreams/The-One-File) - The One File is a self contained visual planning and replay environment for networks, smart homes, sports plays, mind maps, facilities, and infrastructure; offline first, encrypted, animated, and opti
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator for customized Cloudflare error pages. (unofficial)
 - [knative/docs](https://github.com/knative/docs) - User documentation for Knative components.
 - [obviyus/playtime-panorama](https://github.com/obviyus/playtime-panorama) - Generate a dense, responsive collage of your Steam library where each header image tile is sized by the playtime.
 - [cirruslabs/cirrus-ci-docs](https://github.com/cirruslabs/cirrus-ci-docs) - Documentation for Cirrus CI 📚
@@ -1521,7 +1526,6 @@
 - [browserbase/skills](https://github.com/browserbase/skills) - Browserbase's official collection of agent skills to access the web.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [Tapetide-hq/nse-bse-indian-stock-market-data-mcp](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - NSE BSE Indian Stock Market Data MCP server — search, screen & analyze all 8,200+ NSE/BSE stocks with 34 tools: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, IPOs & portfolio
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [hulxv/vnstat-client](https://github.com/hulxv/vnstat-client) - GUI Client for vnStat Network Monitor for Linux or GNU/Linux
@@ -2064,6 +2068,7 @@
 
 ## Others 
 
+- [karakeep-app/helm-charts](https://github.com/karakeep-app/helm-charts) - A helm charts for karakeep.app
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 - [blader/arbitrage](https://github.com/blader/arbitrage) - A Claude Code skill for token arbitrage: keep premium model tokens for judgment, dispatch all code-writing to codex.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) - 280+ free n8n automation templates — ready-to-use workflows for Gmail, Telegram, Slack, Discord, WhatsApp, Google Drive, Notion, OpenAI, and more. AI agents, RAG   chatbots, email automation, social m
@@ -2349,7 +2354,7 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [learntocloud/learn-to-cloud-app](https://github.com/learntocloud/learn-to-cloud-app) - The best open source courseware to learn cloud engineering
 - [SigNoz/agent-skills](https://github.com/SigNoz/agent-skills) - Agent skills for SigNoz
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use Claude Code, Codex, Pi, and OpenCode and more for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [westsurname/scripts](https://github.com/westsurname/scripts) - 
 - [aymene69/stremio-jackett](https://github.com/aymene69/stremio-jackett) - Elevate your Stremio experience with seamless access to Jackett torrent links, effortlessly fetching torrents for your selected movies within the Stremio interface.
@@ -2387,7 +2392,7 @@
 - [Dodelidoo-Labs/sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) - Music discovery tool that integrates with Lidarr and provides recommendations using Last.fm
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [thecfu/scraparr](https://github.com/thecfu/scraparr) - Codeberg mirror --- Scraparr is a Prometheus Exporter for various components of the *arr Suite
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [allenai/molmoweb](https://github.com/allenai/molmoweb) - 
 - [Mayuri-Chan/pyrofork](https://github.com/Mayuri-Chan/pyrofork) - Pyrogram fork with Adjustable web page preview, Quote Reply, Story & Topics Support, Mongodb session storage, and much more. go to https://pyrofork.mayuri.my.id for documentation.
@@ -2798,7 +2803,7 @@
 - [hadiasghari/pyasn](https://github.com/hadiasghari/pyasn) - Python IP address to Autonomous System Number lookup module. (Supports fast local lookups, and historical lookups using archived BGP dumps.)
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection. (Now with MCP support!)
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
@@ -2918,6 +2923,7 @@
 
 ## Rust 
 
+- [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust.
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
 - [nuskey8/lkv](https://github.com/nuskey8/lkv) - A lightweight and fast embedded key-value store for Rust.
@@ -3028,6 +3034,7 @@
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
@@ -3170,7 +3177,7 @@
 - [rogsme/yams](https://github.com/rogsme/yams) - yams: Yet Another Media Server. My personal media server, easy to install in a bash script. This repository is a mirror, original one in https://git.rogs.me/rogs/yams
 - [jiangcuo/pxvirt](https://github.com/jiangcuo/pxvirt) - A fork of Proxmox VE for ARM and LoongArch architectures
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
-- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
+- [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 9.XX Support and macOS High Sierra ~ macOS Tahoe Support.
 - [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
 - [SierraSoftworks/tailscale-unifi](https://github.com/SierraSoftworks/tailscale-unifi) - Run Tailscale on your UniFi OS device
 - [Lorys89/DELL_OPTIPLEX_3060_MFF](https://github.com/Lorys89/DELL_OPTIPLEX_3060_MFF) - 
@@ -3377,6 +3384,7 @@
 
 ## TypeScript 
 
+- [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [0xK3vin/vikunja-mcp](https://github.com/0xK3vin/vikunja-mcp) - MCP server for Vikunja task management
 - [Miruro-no-kuon/Miruro](https://github.com/Miruro-no-kuon/Miruro) - not a bug, but a feature
 - [truefoundry/trueforge](https://github.com/truefoundry/trueforge) - The open-source agent harness - the runtime layer that turns an LLM into a working agent.
@@ -3391,6 +3399,7 @@
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [teamchong/pxpipe](https://github.com/teamchong/pxpipe) - cut Claude Code token usage by rendering text context as images
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [AgentMaturity/AgentMaturityCompass](https://github.com/AgentMaturity/AgentMaturityCompass) - Evidence-based maturity framework for AI agents — 235 questions, 5 layers, CLI + SDK. Score, red-team, and ship with proof.
 - [zx0828/big_model_radar](https://github.com/zx0828/big_model_radar) - 
 - [chrisbenincasa/tunarr](https://github.com/chrisbenincasa/tunarr) - Create a classic TV experience using your own media - IPTV backed by Plex/Jellyfin/Emby/NFO
@@ -3558,7 +3567,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [balzack/databag](https://github.com/balzack/databag) - fast & lightweight self-hosted messenger
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [xMartin/grouptabs](https://github.com/xMartin/grouptabs) - Mobile Web App to organize payments in dynamic groups of people.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -3612,7 +3621,6 @@
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
-- [nestrilabs/nestri](https://github.com/nestrilabs/nestri) - [Experimental] Deploy and stream games/apps in the cloud. Use our GPUs or bring your own.
 - [aleksilassila/reiverr](https://github.com/aleksilassila/reiverr) - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [ananthakumaran/paisa](https://github.com/ananthakumaran/paisa) - Paisa – Personal Finance Manager. https://paisa.fyi demo: https://demo.paisa.fyi
