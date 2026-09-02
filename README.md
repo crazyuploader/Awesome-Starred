@@ -553,7 +553,6 @@
 
 - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager
 - [semaphoreio/semaphore](https://github.com/semaphoreio/semaphore) - All-in-one delivery platform for AI-driven development.
-- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server.
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 - [hashrocket/tilex](https://github.com/hashrocket/tilex) - Today I Learned
@@ -1641,7 +1640,7 @@
 - [pucherot/Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [mnutt/rotary](https://github.com/mnutt/rotary) - Adventures with rotary phones and asterisk
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [CodingTrain/Directional-Boring](https://github.com/CodingTrain/Directional-Boring) - Horizontal Directional Drilling Simulation
@@ -2644,7 +2643,7 @@
 - [AnimeKaizoku/EnterpriseALRobot](https://github.com/AnimeKaizoku/EnterpriseALRobot) - An anime themed telegram group management bot
 - [mansuf/mangadex-downloader](https://github.com/mansuf/mangadex-downloader) - A command-line tool to download manga from MangaDex, written in Python.
 - [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [CASIA-LMC-Lab/FastSAM](https://github.com/CASIA-LMC-Lab/FastSAM) - Fast Segment Anything
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -2804,7 +2803,7 @@
 - [hadiasghari/pyasn](https://github.com/hadiasghari/pyasn) - Python IP address to Autonomous System Number lookup module. (Supports fast local lookups, and historical lookups using archived BGP dumps.)
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 APIs for web automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.
 - [hedyhli/starcli](https://github.com/hedyhli/starcli) - :sparkles: Browse trending GitHub projects from your command line
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
@@ -3474,7 +3473,7 @@
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ sites—or import local media. Create searchable transcripts on your computer, then
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
+- [dont-be-evil-company/p2p.kiwi](https://github.com/dont-be-evil-company/p2p.kiwi) - p2p.kiwi 🥝, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
 - [ahmadawais/terminui](https://github.com/ahmadawais/terminui) - Super fast double buffered toolkit for building terminal UIs.
 - [vercel-labs/openreview](https://github.com/vercel-labs/openreview) - An open-source, self-hosted AI code review bot powered by Vercel.
@@ -3613,6 +3612,7 @@
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [actions/setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of Python
+- [SphericalKat/katbin](https://github.com/SphericalKat/katbin) - Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [edrlab/thorium-reader](https://github.com/edrlab/thorium-reader) - A cross platform desktop reading app, based on the Readium Desktop toolkit
