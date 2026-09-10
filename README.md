@@ -1677,7 +1677,6 @@
 - [sevagh/free-music-demixer](https://github.com/sevagh/free-music-demixer) - example free website for client-side music demixing with Demucs + WebAssembly
 - [itgoyo/Aria2](https://github.com/itgoyo/Aria2) - 突破百度云限速合集，另外附带Baidu-Go、Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!
 - [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [Not-Quite-RARBG/main](https://github.com/Not-Quite-RARBG/main) - Not Quite RARBG's main website.
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -2068,7 +2067,7 @@
 
 ## OpenSCAD 
 
-- [WebMaka/CageMakerPRCG](https://github.com/WebMaka/CageMakerPRCG) - Quickly create a 3D-printable object file for a rack cage for any device of a given size. Simply provide the device's dimensions, and optionally tweak a few settings, then press F6 then F7 to generate
+- [WebMaka/CageMakerPRCG](https://github.com/WebMaka/CageMakerPRCG) - Rack-mount almost any small(-ish) device into almost any rack, create custom faceplates with ventilation or mounting points for various connectors and cooling fans, create custom rackmount enclosures 
 
 ## Others 
 
@@ -2332,6 +2331,8 @@
 
 ## Python 
 
+- [GilbN/geometrikks](https://github.com/GilbN/geometrikks) - GeoMetrikks is a real-time nginx/traefik/caddy access log ingestion and geo-location tracking service built with Litestar. It parses access logs, performs GeoIP lookups, and stores geo-events and acce
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -2652,6 +2653,7 @@
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 - [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - open-source agentic AI data assistant for the next generation of AI + Data products.
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
@@ -3504,7 +3506,7 @@
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
 - [iamneur0/syncio](https://github.com/iamneur0/syncio) - 
 - [perplexityai/modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - The official MCP server implementation for the Perplexity API Platform
-- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt and View Transitions
+- [nuxt/movies](https://github.com/nuxt/movies) - 🍿 A TMDB client built with Nuxt
 - [techniq/layerchart](https://github.com/techniq/layerchart) - Composable Svelte chart components to build a large variety of visualizations
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -3848,7 +3850,7 @@
 - [Viren070/stremio-addon-manager](https://github.com/Viren070/stremio-addon-manager) - Manage your Stremio Addons
 - [0xConstant1/stremio-addon-manager](https://github.com/0xConstant1/stremio-addon-manager) - Manage your Stremio Addons
 - [fossunited/fossunited](https://github.com/fossunited/fossunited) - fossunited.org
-- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed web-GUI for Ollama.
+- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed GUI for Ollama and other local LLM providers.
 - [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
