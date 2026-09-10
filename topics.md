@@ -126,6 +126,7 @@
 - [games](#games)
 - [gaming](#gaming)
 - [generative-ai](#generative-ai)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -453,7 +454,7 @@
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed web-GUI for Ollama.
+- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed GUI for Ollama and other local LLM providers.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -1555,6 +1556,7 @@
 
 ## claude-code 
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [bybit-exchange/svg-diagram](https://github.com/bybit-exchange/svg-diagram) - Agent skill that draws architecture, flowchart, sequence, data-flow and lifecycle diagrams as hand-placed SVG, to one linted house style.
 - [fcakyon/claude-code-with-codex](https://github.com/fcakyon/claude-code-with-codex) - Use Claude Code on your Claude and ChatGPT (Codex) subscriptions at the same time, switchable mid-conversation. Kimi, Grok, and Cursor supported too.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline 
@@ -3113,6 +3115,10 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
+
+## gis 
+
+- [GilbN/geometrikks](https://github.com/GilbN/geometrikks) - GeoMetrikks is a real-time nginx/traefik/caddy access log ingestion and geo-location tracking service built with Litestar. It parses access logs, performs GeoIP lookups, and stores geo-events and acce
 
 ## git 
 
@@ -5576,6 +5582,7 @@
 
 ## mcp 
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [democratize-technology/vikunja-mcp](https://github.com/democratize-technology/vikunja-mcp) - Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.
 - [0xK3vin/vikunja-mcp](https://github.com/0xK3vin/vikunja-mcp) - MCP server for Vikunja task management
@@ -6590,7 +6597,7 @@
 - [gitahead/gitahead](https://github.com/gitahead/gitahead) - Understand your Git history!
 - [QwenLM/Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs) - An exabyte-scale, multi-region distributed file system
-- [WebMaka/CageMakerPRCG](https://github.com/WebMaka/CageMakerPRCG) - Quickly create a 3D-printable object file for a rack cage for any device of a given size. Simply provide the device's dimensions, and optionally tweak a few settings, then press F6 then F7 to generate
+- [WebMaka/CageMakerPRCG](https://github.com/WebMaka/CageMakerPRCG) - Rack-mount almost any small(-ish) device into almost any rack, create custom faceplates with ventilation or mounting points for various connectors and cooling fans, create custom rackmount enclosures 
 - [turnkeylinux-apps/mattermost](https://github.com/turnkeylinux-apps/mattermost) - Mattermost - open source, self-hosted Slack-alternative
 - [rishitxyz/next-portfolio](https://github.com/rishitxyz/next-portfolio) - 
 - [pbu88/diffy](https://github.com/pbu88/diffy) - Share diff output in the browser with https://diffy.org
@@ -7724,6 +7731,7 @@
 
 ## python 
 
+- [GilbN/geometrikks](https://github.com/GilbN/geometrikks) - GeoMetrikks is a real-time nginx/traefik/caddy access log ingestion and geo-location tracking service built with Litestar. It parses access logs, performs GeoIP lookups, and stores geo-events and acce
 - [ohaswin/pyscan](https://github.com/ohaswin/pyscan) - python dependency vulnerability scanner, written in Rust.
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [ellite/scrob](https://github.com/ellite/scrob) - Scrob - Self-hosted media tracking app. It syncs your libraries from Jellyfin, Plex, and Emby, tracks your watch history, ratings, and personal lists - Your own private Letterboxd + Trakt
@@ -8134,6 +8142,7 @@
 
 ## react 
 
+- [GilbN/geometrikks](https://github.com/GilbN/geometrikks) - GeoMetrikks is a real-time nginx/traefik/caddy access log ingestion and geo-location tracking service built with Litestar. It parses access logs, performs GeoIP lookups, and stores geo-events and acce
 - [5rahim/seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
@@ -9713,7 +9722,7 @@
 - [djedi/DailyNotes](https://github.com/djedi/DailyNotes) - App for taking notes and tracking tasks on a daily basis
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [f5/unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript
-- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed web-GUI for Ollama.
+- [ImDarkTom/LlamaPen](https://github.com/ImDarkTom/LlamaPen) - A no-install needed GUI for Ollama and other local LLM providers.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development.
